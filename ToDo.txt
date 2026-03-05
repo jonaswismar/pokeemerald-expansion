@@ -1,0 +1,13 @@
+palette 6 wird zu 12
+
+Slateport zu wenig Metatiles in Secondary
+Slateport zu wenig Tiles gesamt
+Slateport Tileset nicht fertig
+
+SecretBase Tilesets nicht fertig (alle)
+
+
+Rustboro Tileset nicht fertig
+PokemonCenter Tileset nicht fertig
+Pacifidlog Tileset nicht fertig
+NavelRock nicht fertig
