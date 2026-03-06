@@ -334,7 +334,7 @@
 
 // gTileset_Lilycove
 #define METATILE_Lilycove_Door             0x246
-#define METATILE_Lilycove_Door_DeptStore   0x30C
+#define METATILE_Lilycove_Door_DeptStore   0x38C
 #define METATILE_Lilycove_Door_SafariZone  0x32D
 #define METATILE_Lilycove_Door_Wooden      0x28E
 #define METATILE_Lilycove_Wailmer0         0x290
@@ -345,15 +345,15 @@
 #define METATILE_Lilycove_Wailmer3         0x2A1
 
 // gTileset_LilycoveMuseum
-#define METATILE_LilycoveMuseum_Painting0_Left   0x25A
-#define METATILE_LilycoveMuseum_Painting0_Right  0x25B
+#define METATILE_LilycoveMuseum_Painting0_Left   0x2DA
+#define METATILE_LilycoveMuseum_Painting0_Right  0x2DB
 #define METATILE_LilycoveMuseum_Painting1_Left   0x25C
-#define METATILE_LilycoveMuseum_Painting1_Right  0x25D
-#define METATILE_LilycoveMuseum_Painting2_Left   0x25E
-#define METATILE_LilycoveMuseum_Painting2_Right  0x25F
+#define METATILE_LilycoveMuseum_Painting1_Right  0x2DD
+#define METATILE_LilycoveMuseum_Painting2_Left   0x2DE
+#define METATILE_LilycoveMuseum_Painting2_Right  0x2DF
 #define METATILE_LilycoveMuseum_Painting3_Left   0x260
-#define METATILE_LilycoveMuseum_Painting3_Right  0x261
-#define METATILE_LilycoveMuseum_Painting4_Left   0x262
+#define METATILE_LilycoveMuseum_Painting3_Right  0x2E1
+#define METATILE_LilycoveMuseum_Painting4_Left   0x2E2
 #define METATILE_LilycoveMuseum_Painting4_Right  0x263
 
 // gTileset_Mart
@@ -387,39 +387,40 @@
 #define METATILE_Mauville_MirageTower_TileF   0x3E3
 
 // gTileset_MauvilleGym
-#define METATILE_MauvilleGym_FloorTile        0x21A
-#define METATILE_MauvilleGym_GreenBeamH1_Off  0x230
+#define METATILE_MauvilleGym_FloorTile        0x29A
+#define METATILE_MauvilleGym_GreenBeamH1_Off  0x2B0
 #define METATILE_MauvilleGym_GreenBeamH1_On   0x220
-#define METATILE_MauvilleGym_GreenBeamH2_Off  0x231
-#define METATILE_MauvilleGym_GreenBeamH2_On   0x221
+#define METATILE_MauvilleGym_GreenBeamH2_Off  0x2B1
+#define METATILE_MauvilleGym_GreenBeamH2_On   0x2A1
 #define METATILE_MauvilleGym_GreenBeamH3_Off  0x238
 #define METATILE_MauvilleGym_GreenBeamH3_On   0x228
-#define METATILE_MauvilleGym_GreenBeamH4_Off  0x239
-#define METATILE_MauvilleGym_GreenBeamH4_On   0x229
+#define METATILE_MauvilleGym_GreenBeamH4_Off  0x2B9
+#define METATILE_MauvilleGym_GreenBeamH4_On   0x2A9
 #define METATILE_MauvilleGym_GreenBeamV1_On   0x240
-#define METATILE_MauvilleGym_GreenBeamV2_On   0x248
-#define METATILE_MauvilleGym_PoleBottom_Off   0x243
+#define METATILE_MauvilleGym_GreenBeamV2_On   0x2C8
+#define METATILE_MauvilleGym_PoleBottom_Off   0x2C3
 #define METATILE_MauvilleGym_PoleBottom_On    0x242
-#define METATILE_MauvilleGym_PoleTop_Off      0x251
+#define METATILE_MauvilleGym_PoleTop_Off      0x2D1
 #define METATILE_MauvilleGym_PoleTop_On       0x250
-#define METATILE_MauvilleGym_PressedSwitch    0x206
-#define METATILE_MauvilleGym_RaisedSwitch     0x205
+#define METATILE_MauvilleGym_PressedSwitch    0x286
+#define METATILE_MauvilleGym_RaisedSwitch     0x285
+#define METATILE_MauvilleGym_RedBe            0x2B3
 #define METATILE_MauvilleGym_RedBeamH1_Off    0x232
-#define METATILE_MauvilleGym_RedBeamH1_On     0x222
+#define METATILE_MauvilleGym_RedBeamH1_On     0x2A2
 #define METATILE_MauvilleGym_RedBeamH2_Off    0x233
 #define METATILE_MauvilleGym_RedBeamH2_On     0x223
-#define METATILE_MauvilleGym_RedBeamH3_Off    0x23A
-#define METATILE_MauvilleGym_RedBeamH3_On     0x22A
+#define METATILE_MauvilleGym_RedBeamH3_Off    0x2BA
+#define METATILE_MauvilleGym_RedBeamH3_On     0x2AA
 #define METATILE_MauvilleGym_RedBeamH4_Off    0x23B
-#define METATILE_MauvilleGym_RedBeamH4_On     0x22B
+#define METATILE_MauvilleGym_RedBeamH4_On     0x2AB
 #define METATILE_MauvilleGym_RedBeamV1_On     0x241
-#define METATILE_MauvilleGym_RedBeamV2_On     0x249
+#define METATILE_MauvilleGym_RedBeamV2_On     0x2C9
 
 // gTileset_MeteorFalls
 #define METATILE_MeteorFalls_CaveEntrance_Bottom  0x24E
-#define METATILE_MeteorFalls_CaveEntrance_Left    0x24D
-#define METATILE_MeteorFalls_CaveEntrance_Right   0x24F
-#define METATILE_MeteorFalls_CaveEntrance_Top     0x246
+#define METATILE_MeteorFalls_CaveEntrance_Left    0x2CD
+#define METATILE_MeteorFalls_CaveEntrance_Right   0x2CF
+#define METATILE_MeteorFalls_CaveEntrance_Top     0x2C6
 
 // gTileset_Mossdeep
 #define METATILE_Mossdeep_Door              0x2A1

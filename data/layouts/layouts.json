@@ -2141,7 +2141,7 @@
       "width": 9,
       "height": 7,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Facility",
+      "secondary_tileset": "gTileset_MeteorFalls",
       "border_filepath": "data/layouts/AbandonedShip_CaptainsOffice/border.bin",
       "blockdata_filepath": "data/layouts/AbandonedShip_CaptainsOffice/map.bin",
       "layout_version": "emerald"

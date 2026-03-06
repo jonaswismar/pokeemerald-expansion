@@ -1,5 +1,6 @@
 palette 6 wird zu 12
-
+TrainerHill
+Underwater
 Slateport zu wenig Metatiles in Secondary
 Slateport zu wenig Tiles gesamt
 Slateport Tileset nicht fertig
@@ -11,3 +12,33 @@ Rustboro Tileset nicht fertig
 PokemonCenter Tileset nicht fertig
 Pacifidlog Tileset nicht fertig
 NavelRock nicht fertig
+
+
+Mauville zu wenig Metatiles in Secondary
+Mauville zu wenig Tiles gesamt
+Mauville Tileset nicht fertig
+
+Mossdeep zu wenig Metatiles in Secondary
+Mossdeep zu wenig Tiles gesamt
+Mossdeep Tileset nicht fertig
+
+MirageTower zu wenig Metatiles in Secondary
+MirageTower zu wenig Tiles gesamt
+MirageTower Tileset nicht fertig
+
+
+MeteorFalls Tileset nicht fertig
+
+
+
+
+
+
+
+Maps die überarbeitet werden müssen:
+TradeCenter*
+TrainerHill*
+Underwater*
+Unused*
+VerdanturfTown*
+VictoryRoad*
