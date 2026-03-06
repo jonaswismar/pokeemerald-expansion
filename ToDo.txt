@@ -13,6 +13,7 @@ PokemonCenter Tileset nicht fertig
 Pacifidlog Tileset nicht fertig
 NavelRock nicht fertig
 
+LavaridgeGym Tileset nicht fertig
 
 Mauville zu wenig Metatiles in Secondary
 Mauville zu wenig Tiles gesamt
