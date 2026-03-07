@@ -13,7 +13,13 @@ PokemonCenter Tileset nicht fertig
 Pacifidlog Tileset nicht fertig
 NavelRock nicht fertig
 
-LavaridgeGym Tileset nicht fertig
+IslandHarbor zu wenig Metatiles in Secondary
+IslandHarbor zu wenig Tiles gesamt
+IslandHarbor Tileset nicht fertig
+
+Lavaridge zu wenig Metatiles in Secondary
+Lavaridge zu wenig Tiles gesamt
+Lavaridge Tileset nicht fertig
 
 Mauville zu wenig Metatiles in Secondary
 Mauville zu wenig Tiles gesamt
