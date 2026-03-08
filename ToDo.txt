@@ -1,4 +1,4 @@
-palette 6 wird zu 12
+palette 6 wird zu 12/11
 TrainerHill
 Underwater
 Slateport zu wenig Metatiles in Secondary
@@ -12,6 +12,12 @@ Rustboro Tileset nicht fertig
 PokemonCenter Tileset nicht fertig
 Pacifidlog Tileset nicht fertig
 NavelRock nicht fertig
+
+
+
+GenericBuilding zu wenig Metatiles in Secondary
+GenericBuilding zu wenig Tiles gesamt
+GenericBuilding Tileset nicht fertig
 
 IslandHarbor zu wenig Metatiles in Secondary
 IslandHarbor zu wenig Tiles gesamt

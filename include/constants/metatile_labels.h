@@ -206,7 +206,7 @@
 // gTileset_Fallarbor
 #define METATILE_Fallarbor_AshField                  0x218
 #define METATILE_Fallarbor_AshGrass                  0x20A
-#define METATILE_Fallarbor_BrownCaveEntrance_Bottom  0x261
+#define METATILE_Fallarbor_BrownCaveEntrance_Bottom  0x2E1
 #define METATILE_Fallarbor_BrownCaveEntrance_Top     0x259
 #define METATILE_Fallarbor_BrownCaveIndent           0x208
 #define METATILE_Fallarbor_BrownCaveOpen             0x210
@@ -307,18 +307,18 @@
 #define METATILE_GenericBuilding1_PlayersPCOn   0x28A
 
 // gTileset_InsideOfTruck
-#define METATILE_InsideOfTruck_DoorClosedFloor_Bottom  0x21D
-#define METATILE_InsideOfTruck_DoorClosedFloor_Mid     0x215
+#define METATILE_InsideOfTruck_DoorClosedFloor_Bottom  0x29D
+#define METATILE_InsideOfTruck_DoorClosedFloor_Mid     0x295
 #define METATILE_InsideOfTruck_DoorClosedFloor_Top     0x20D
-#define METATILE_InsideOfTruck_ExitLight_Bottom        0x218
+#define METATILE_InsideOfTruck_ExitLight_Bottom        0x298
 #define METATILE_InsideOfTruck_ExitLight_Mid           0x210
-#define METATILE_InsideOfTruck_ExitLight_Top           0x208
+#define METATILE_InsideOfTruck_ExitLight_Top           0x288
 
 // gTileset_InsideShip
 #define METATILE_InsideShip_DoorIndent_Locked           0x234
 #define METATILE_InsideShip_DoorIndent_Unlocked         0x21A
 #define METATILE_InsideShip_IntactDoor_Bottom_Interior  0x297
-#define METATILE_InsideShip_IntactDoor_Bottom_Locked    0x233
+#define METATILE_InsideShip_IntactDoor_Bottom_Locked    0x2B3
 #define METATILE_InsideShip_IntactDoor_Bottom_Unlocked  0x22B
 
 // gTileset_Lavaridge
