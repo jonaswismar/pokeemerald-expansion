@@ -836,26 +836,26 @@ const struct Tileset gTileset_UnionRoom =
 #else
 
 // FRLG tilesets
-const struct Tileset gTileset_BuildingFrlg =
+const struct Tileset gTileset_Building_Kanto =
 {
     .isCompressed = TRUE,
     .isSecondary = FALSE,
-    .tiles = gTilesetTiles_Building_Frlg,
-    .palettes = gTilesetPalettes_Building_Frlg,
-    .metatiles = gMetatiles_Building_Frlg,
-    .metatileAttributes = gMetatileAttributes_Building_Frlg,
+    .tiles = gTilesetTiles_Building_Kanto,
+    .palettes = gTilesetPalettes_Building_Kanto,
+    .metatiles = gMetatiles_Building_Kanto,
+    .metatileAttributes = gMetatileAttributes_Building_Kanto,
     .callback = NULL,
 };
 
-const struct Tileset gTileset_General_Frlg =
+const struct Tileset gTileset_General_Kanto =
 {
     .isCompressed = TRUE,
     .isSecondary = FALSE,
-    .tiles = gTilesetTiles_General_Frlg,
-    .palettes = gTilesetPalettes_General_Frlg,
-    .metatiles = gMetatiles_General_Frlg,
-    .metatileAttributes = gMetatileAttributes_General_Frlg,
-    .callback = InitTilesetAnim_General_Frlg,
+    .tiles = gTilesetTiles_General_Kanto,
+    .palettes = gTilesetPalettes_General_Kanto,
+    .metatiles = gMetatiles_General_Kanto,
+    .metatileAttributes = gMetatileAttributes_General_Kanto,
+    .callback = InitTilesetAnim_General_Kanto,
 };
 
 const struct Tileset gTileset_PalletTown =

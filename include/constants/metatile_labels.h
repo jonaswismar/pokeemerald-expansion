@@ -117,10 +117,6 @@
 #define METATILE_Building_TV_Off  0x002
 #define METATILE_Building_TV_On   0x003
 
-// gTileset_BuildingFrlg
-#define METATILE_BuildingFrlg_PCOff  0x062
-#define METATILE_BuildingFrlg_PCOn   0x063
-
 // gTileset_Cave
 #define METATILE_Cave_CrackedFloor                       0x22F
 #define METATILE_Cave_CrackedFloor_Hole                  0x206
@@ -163,27 +159,23 @@
 #define METATILE_CinnabarIsland_LabDoor  0x2AD
 
 // gTileset_Contest
-#define METATILE_Contest_CounterFlap_Bottom  0x2D9
-#define METATILE_Contest_CounterFlap_Top     0x2D1
-#define METATILE_Contest_FloorShadow         0x261
-#define METATILE_Contest_WallShadow          0x221
+#define METATILE_Contest_FloorShadow  0x2E1
+#define METATILE_Contest_WallShadow   0x221
 
 // gTileset_DepartmentStore
 #define METATILE_DepartmentStore_ElevatorDoor  0x28D
 
 // gTileset_Dewford
-#define METATILE_Dewford_Door              0x225
-#define METATILE_Dewford_Door_BattleTower  0x25D
+#define METATILE_Dewford_Door              0x2A5
+#define METATILE_Dewford_Door_BattleTower  0x2DD
 
 // gTileset_EliteFour
 #define METATILE_EliteFour_EntryDoor_ClosedBottom    0x20E
 #define METATILE_EliteFour_EntryDoor_ClosedTop       0x206
-#define METATILE_EliteFour_LeftSpotlightOff          0x2DD
-#define METATILE_EliteFour_OpenDoorChampion_Frame    0x346
-#define METATILE_EliteFour_OpenDoorChampion_Opening  0x347
-#define METATILE_EliteFour_OpenDoor_Frame            0x344
-#define METATILE_EliteFour_OpenDoor_Opening          0x345
-#define METATILE_EliteFour_RightSpotlightOff         0x2DE
+#define METATILE_EliteFour_OpenDoorChampion_Frame    0x3C6
+#define METATILE_EliteFour_OpenDoorChampion_Opening  0x3C7
+#define METATILE_EliteFour_OpenDoor_Frame            0x3C4
+#define METATILE_EliteFour_OpenDoor_Opening          0x3C5
 
 // gTileset_EverGrande
 #define METATILE_EverGrande_Door_PokemonLeague  0x21D
@@ -212,11 +204,12 @@
 #define METATILE_Fallarbor_BrownCaveOpen             0x210
 #define METATILE_Fallarbor_BrownRockWall             0x265
 #define METATILE_Fallarbor_Door_BattleTent           0x36C
+#define METATILE_Fallarbor_Door_DarkRoo              0x377
 #define METATILE_Fallarbor_Door_DarkRoof             0x2F7
 #define METATILE_Fallarbor_Door_LightRoof            0x2A5
 #define METATILE_Fallarbor_NormalGrass               0x212
-#define METATILE_Fallarbor_RedCaveEntrance_Bottom    0x34F
-#define METATILE_Fallarbor_RedCaveEntrance_Top       0x347
+#define METATILE_Fallarbor_RedCaveEntrance_Bottom    0x3CF
+#define METATILE_Fallarbor_RedCaveEntrance_Top       0x3C7
 #define METATILE_Fallarbor_RedRockWall               0x269
 
 // gTileset_Fortree
@@ -1058,6 +1051,8 @@
 #define METATILE_ViridianForest_HugeTreeTopMiddle_Mowed  0x281
 
 // Other
+#define METATILE_BuildingFrlg_PCOff                  0x062
+#define METATILE_BuildingFrlg_PCOn                   0x063
 #define METATILE_GeneralFrlg_CalmWater               0x12B
 #define METATILE_GeneralFrlg_Door                    0x03D
 #define METATILE_GeneralFrlg_Plain_Grass             0x00D

@@ -33,7 +33,7 @@ void InitTilesetAnim_BattleDome(void);
 void InitTilesetAnim_BattlePyramid(void);
 
 // FRLG
-void InitTilesetAnim_General_Frlg(void);
+void InitTilesetAnim_General_Kanto(void);
 void InitTilesetAnim_CeladonCity(void);
 void InitTilesetAnim_VermilionGym(void);
 void InitTilesetAnim_CeladonGym(void);

@@ -15,6 +15,10 @@ NavelRock nicht fertig
 
 
 
+Facility zu wenig Metatiles in Secondary
+Facility zu wenig Tiles gesamt
+Facility Tileset nicht fertig
+
 GenericBuilding zu wenig Metatiles in Secondary
 GenericBuilding zu wenig Tiles gesamt
 GenericBuilding Tileset nicht fertig
