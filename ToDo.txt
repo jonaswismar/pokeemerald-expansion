@@ -14,6 +14,9 @@ Pacifidlog Tileset nicht fertig
 NavelRock nicht fertig
 
 
+Cave zu wenig Metatiles in Secondary
+Cave zu wenig Tiles gesamt
+Cave Tileset nicht fertig
 
 Facility zu wenig Metatiles in Secondary
 Facility zu wenig Tiles gesamt

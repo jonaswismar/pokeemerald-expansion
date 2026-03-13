@@ -92,23 +92,23 @@
 #define METATILE_BikeShop_Button_Green             0x22E
 #define METATILE_BikeShop_Button_Pressed           0x24F
 #define METATILE_BikeShop_Floor_Shadow_Top         0x26D
-#define METATILE_BikeShop_Generator_Off_Tile0      0x2F0
-#define METATILE_BikeShop_Generator_Off_Tile1      0x2F1
-#define METATILE_BikeShop_Generator_Off_Tile2      0x2F2
-#define METATILE_BikeShop_Generator_Off_Tile3      0x2F3
-#define METATILE_BikeShop_Generator_Off_Tile4      0x2F4
+#define METATILE_BikeShop_Generator_Off_Tile0      0x370
+#define METATILE_BikeShop_Generator_Off_Tile1      0x371
+#define METATILE_BikeShop_Generator_Off_Tile2      0x372
+#define METATILE_BikeShop_Generator_Off_Tile3      0x373
+#define METATILE_BikeShop_Generator_Off_Tile4      0x374
 #define METATILE_BikeShop_Generator_Off_Tile5      0x2F5
 #define METATILE_BikeShop_Generator_Off_Tile6      0x2F6
 #define METATILE_BikeShop_Generator_Off_Tile7      0x2F7
 #define METATILE_BikeShop_Wall_Edge_Top            0x281
 
 // gTileset_BrendansMaysHouse
-#define METATILE_BrendansMaysHouse_BookOnTable       0x293
+#define METATILE_BrendansMaysHouse_BookOnTable       0x313
 #define METATILE_BrendansMaysHouse_BrendanPC_Off     0x25A
-#define METATILE_BrendansMaysHouse_BrendanPC_On      0x27F
-#define METATILE_BrendansMaysHouse_MayPC_Off         0x259
-#define METATILE_BrendansMaysHouse_MayPC_On          0x27E
-#define METATILE_BrendansMaysHouse_MovingBox_Closed  0x268
+#define METATILE_BrendansMaysHouse_BrendanPC_On      0x2FF
+#define METATILE_BrendansMaysHouse_MayPC_Off         0x2D9
+#define METATILE_BrendansMaysHouse_MayPC_On          0x2FE
+#define METATILE_BrendansMaysHouse_MovingBox_Closed  0x2E8
 #define METATILE_BrendansMaysHouse_MovingBox_Open    0x270
 
 // gTileset_Building
