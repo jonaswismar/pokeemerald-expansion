@@ -7,7 +7,7 @@
       "width": 30,
       "height": 30,
       "primary_tileset": "gTileset_General_Hoenn",
-      "secondary_tileset": "gTileset_InsideShip",
+      "secondary_tileset": "gTileset_BattlePalace",
       "border_filepath": "data/layouts/PetalburgCity/border.bin",
       "blockdata_filepath": "data/layouts/PetalburgCity/map.bin",
       "layout_version": "emerald"
