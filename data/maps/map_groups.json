@@ -74,7 +74,8 @@
     "gMapGroup_IndoorFiveIslandRoute_Frlg",
     "gMapGroup_IndoorTwoIslandRoute_Frlg",
     "gMapGroup_IndoorSixIslandRoute_Frlg",
-    "gMapGroup_IndoorSevenIslandRoute_Frlg"
+    "gMapGroup_IndoorSevenIslandRoute_Frlg",
+    "gMapGroup_TownsAndRoutesKanto"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1160,5 +1161,47 @@
   ],
   "gMapGroup_IndoorSevenIslandRoute_Frlg": [
     "SevenIsland_SevaultCanyon_House_Frlg"
+  ],
+  "gMapGroup_TownsAndRoutesKanto": [
+    "PalletTownKanto",
+    "ViridianCityKanto",
+    "PewterCityKanto",
+    "CeruleanCityKanto",
+    "VermilionCityKanto",
+    "LavenderTownKanto",
+    "CeladonCityKanto",
+    "SaffronCityKanto",
+    "FuchsiaCityKanto",
+    "CinnabarIslandKantoDestroyed",
+    "Route1Kanto",
+    "Route2Kanto",
+    "Route3Kanto",
+    "Route4Kanto",
+    "Route5Kanto",
+    "Route6Kanto",
+    "Route7Kanto",
+    "Route8Kanto",
+    "Route9Kanto",
+    "Route10Kanto",
+    "Route11Kanto",
+    "Route12Kanto",
+    "Route13Kanto",
+    "Route14Kanto",
+    "Route15Kanto",
+    "Route16Kanto",
+    "Route17Kanto",
+    "Route18Kanto",
+    "Route19Kanto",
+    "Route20Kanto",
+    "Route21Kanto",
+    "Route22Kanto",
+    "Route23Kanto",
+    "Route24Kanto",
+    "Route25Kanto",
+    "Route26Kanto",
+    "Route26NorthKanto",
+    "Route27Kanto",
+    "Route28Kanto",
+    "IndigoPlateauKanto"
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "id": "MAP_SAFFRON_CITY_KANTO",
+  "name": "SaffronCityKanto",
+  "layout": "LAYOUT_SAFFRON_CITY_KANTO",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_SAFFRON_CITY",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_CITY",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE6KANTO",
+      "offset": -12,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE8KANTO",
+      "offset": 6,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_ROUTE7KANTO",
+      "offset": 15,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE5KANTO",
+      "offset": 4,
+      "direction": "up"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

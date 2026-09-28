@@ -1738,3 +1738,83 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/scripts/battle_frontier.inc"
 	.include "data/scripts/apricorn_tree.inc"
 	.include "data/scripts/wild_encounter.inc"
+
+	.include "data/maps/PalletTownKanto/scripts.inc"
+
+	.include "data/maps/ViridianCityKanto/scripts.inc"
+
+	.include "data/maps/PewterCityKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityKanto/scripts.inc"
+
+	.include "data/maps/CinnabarIslandKantoDestroyed/scripts.inc"
+
+	.include "data/maps/CeladonCityKanto/scripts.inc"
+
+	.include "data/maps/LavenderTownKanto/scripts.inc"
+
+	.include "data/maps/Route7Kanto/scripts.inc"
+
+	.include "data/maps/Route3Kanto/scripts.inc"
+
+	.include "data/maps/Route5Kanto/scripts.inc"
+
+	.include "data/maps/Route11Kanto/scripts.inc"
+
+	.include "data/maps/Route8Kanto/scripts.inc"
+
+	.include "data/maps/Route1Kanto/scripts.inc"
+
+	.include "data/maps/Route2Kanto/scripts.inc"
+
+	.include "data/maps/Route6Kanto/scripts.inc"
+
+	.include "data/maps/Route4Kanto/scripts.inc"
+
+	.include "data/maps/Route9Kanto/scripts.inc"
+
+	.include "data/maps/Route10Kanto/scripts.inc"
+
+	.include "data/maps/Route12Kanto/scripts.inc"
+
+	.include "data/maps/Route21Kanto/scripts.inc"
+
+	.include "data/maps/Route19Kanto/scripts.inc"
+
+	.include "data/maps/Route15Kanto/scripts.inc"
+
+	.include "data/maps/Route18Kanto/scripts.inc"
+
+	.include "data/maps/Route24Kanto/scripts.inc"
+
+	.include "data/maps/Route16Kanto/scripts.inc"
+
+	.include "data/maps/Route25Kanto/scripts.inc"
+
+	.include "data/maps/Route17Kanto/scripts.inc"
+
+	.include "data/maps/Route14Kanto/scripts.inc"
+
+	.include "data/maps/Route20Kanto/scripts.inc"
+
+	.include "data/maps/Route22Kanto/scripts.inc"
+
+	.include "data/maps/Route23Kanto/scripts.inc"
+
+	.include "data/maps/Route13Kanto/scripts.inc"
+
+	.include "data/maps/Route27Kanto/scripts.inc"
+
+	.include "data/maps/Route28Kanto/scripts.inc"
+
+	.include "data/maps/Route26Kanto/scripts.inc"
+
+	.include "data/maps/Route26NorthKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauKanto/scripts.inc"

@@ -1,0 +1,31 @@
+{
+  "id": "MAP_ROUTE15KANTO",
+  "name": "Route15Kanto",
+  "layout": "LAYOUT_ROUTE15KANTO",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_ROUTE_15",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE14KANTO",
+      "offset": -50,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_FUCHSIA_CITY_KANTO",
+      "offset": -15,
+      "direction": "left"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}
