@@ -22,6 +22,11 @@
       "map": "MAP_CERULEAN_CITY_KANTO",
       "offset": -7,
       "direction": "right"
+    },
+    {
+      "map": "MAP_MT_MOON_KANTO",
+      "offset": 18,
+      "direction": "up"
     }
   ],
   "object_events": [],

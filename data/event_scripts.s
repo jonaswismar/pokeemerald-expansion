@@ -1818,3 +1818,15 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/Route26NorthKanto/scripts.inc"
 
 	.include "data/maps/IndigoPlateauKanto/scripts.inc"
+
+	.include "data/maps/MtMoonKanto/scripts.inc"
+
+	.include "data/maps/PalletTownLabKanto/scripts.inc"
+
+	.include "data/maps/PalletTownRedsHouse1Kanto/scripts.inc"
+
+	.include "data/maps/PalletTownRedsHouse2Kanto/scripts.inc"
+
+	.include "data/maps/PalletTownHouse2/scripts.inc"
+
+	.include "data/maps/PalletTownHouse3/scripts.inc"

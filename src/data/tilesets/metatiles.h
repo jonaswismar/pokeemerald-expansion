@@ -456,3 +456,21 @@ const u16 gMetatileAttributes_BlackthornCity_Johto[] = INCBIN_U16("data/tilesets
 
 const u16 gMetatiles_NewBarkTown_Johto[] = INCBIN_U16("data/tilesets/secondary/new_bark_town_johto/metatiles.bin");
 const u16 gMetatileAttributes_NewBarkTown_Johto[] = INCBIN_U16("data/tilesets/secondary/new_bark_town_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CherryGroveCity_Johto[] = INCBIN_U16("data/tilesets/secondary/cherry_grove_city_johto/metatiles.bin");
+const u16 gMetatileAttributes_CherryGroveCity_Johto[] = INCBIN_U16("data/tilesets/secondary/cherry_grove_city_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Building_Kanto[] = INCBIN_U16("data/tilesets/primary/building_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Building_Kanto[] = INCBIN_U16("data/tilesets/primary/building_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_HouseLabKanto[] = INCBIN_U16("data/tilesets/secondary/house_lab_kanto/metatiles.bin");
+const u16 gMetatileAttributes_HouseLabKanto[] = INCBIN_U16("data/tilesets/secondary/house_lab_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_HouseLabKano[] = INCBIN_U16("data/tilesets/secondary/house_lab_kano/metatiles.bin");
+const u16 gMetatileAttributes_HouseLabKano[] = INCBIN_U16("data/tilesets/secondary/house_lab_kano/metatile_attributes.bin");
+
+const u16 gMetatiles_PlayersHouseKanto[] = INCBIN_U16("data/tilesets/secondary/players_house_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PlayersHouseKanto[] = INCBIN_U16("data/tilesets/secondary/players_house_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_Building_Johto[] = INCBIN_U16("data/tilesets/primary/building_johto/metatiles.bin");
+const u16 gMetatileAttributes_Building_Johto[] = INCBIN_U16("data/tilesets/primary/building_johto/metatile_attributes.bin");

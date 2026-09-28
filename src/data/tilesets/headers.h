@@ -1717,3 +1717,69 @@ const struct Tileset gTileset_NewBarkTown_Johto =
     .metatileAttributes = gMetatileAttributes_NewBarkTown_Johto,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_CherryGroveCity_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_CherryGroveCity_Johto,
+    .palettes = gTilesetPalettes_CherryGroveCity_Johto,
+    .metatiles = gMetatiles_CherryGroveCity_Johto,
+    .metatileAttributes = gMetatileAttributes_CherryGroveCity_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Building_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_Building_Kanto,
+    .palettes = gTilesetPalettes_Building_Kanto,
+    .metatiles = gMetatiles_Building_Kanto,
+    .metatileAttributes = gMetatileAttributes_Building_Kanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_HouseLabKanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_HouseLabKanto,
+    .palettes = gTilesetPalettes_HouseLabKanto,
+    .metatiles = gMetatiles_HouseLabKanto,
+    .metatileAttributes = gMetatileAttributes_HouseLabKanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_HouseLabKano =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_HouseLabKano,
+    .palettes = gTilesetPalettes_HouseLabKano,
+    .metatiles = gMetatiles_HouseLabKano,
+    .metatileAttributes = gMetatileAttributes_HouseLabKano,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_PlayersHouseKanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_PlayersHouseKanto,
+    .palettes = gTilesetPalettes_PlayersHouseKanto,
+    .metatiles = gMetatiles_PlayersHouseKanto,
+    .metatileAttributes = gMetatileAttributes_PlayersHouseKanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Building_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_Building_Johto,
+    .palettes = gTilesetPalettes_Building_Johto,
+    .metatiles = gMetatiles_Building_Johto,
+    .metatileAttributes = gMetatileAttributes_Building_Johto,
+    .callback = NULL,
+};

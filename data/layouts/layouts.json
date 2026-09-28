@@ -9723,6 +9723,66 @@
       "secondary_tileset": "gTileset_IndigoPlateau_Kanto",
       "border_filepath": "data/layouts/IndigoPlateauKanto/border.bin",
       "blockdata_filepath": "data/layouts/IndigoPlateauKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MOON_KANTO",
+      "name": "MtMoonKanto_Layout",
+      "width": 49,
+      "height": 29,
+      "primary_tileset": "gTileset_General_Kanto",
+      "secondary_tileset": "gTileset_CherryGroveCity_Johto",
+      "border_filepath": "data/layouts/MtMoonKanto/border.bin",
+      "blockdata_filepath": "data/layouts/MtMoonKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_LAB_KANTO",
+      "name": "PalletTownLabKanto_Layout",
+      "width": 32,
+      "height": 28,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/PalletTownLabKanto/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTownLabKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_REDS_HOUSE1KANTO",
+      "name": "PalletTownRedsHouse1Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_PlayersHouseKanto",
+      "border_filepath": "data/layouts/PalletTownRedsHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTownRedsHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_REDS_HOUSE2KANTO",
+      "name": "PalletTownRedsHouse2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_PlayersHouseKanto",
+      "border_filepath": "data/layouts/PalletTownRedsHouse2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTownRedsHouse2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_HOUSE2",
+      "name": "PalletTownHouse2_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/PalletTownHouse2/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTownHouse2/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_HOUSE3",
+      "name": "PalletTownHouse3_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/PalletTownHouse3/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTownHouse3/map.bin"
     }
   ]
 }

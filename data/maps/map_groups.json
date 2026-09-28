@@ -75,7 +75,8 @@
     "gMapGroup_IndoorTwoIslandRoute_Frlg",
     "gMapGroup_IndoorSixIslandRoute_Frlg",
     "gMapGroup_IndoorSevenIslandRoute_Frlg",
-    "gMapGroup_TownsAndRoutesKanto"
+    "gMapGroup_TownsAndRoutesKanto",
+    "gMapGroup_IndoorPalletTownKanto"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1202,6 +1203,14 @@
     "Route26NorthKanto",
     "Route27Kanto",
     "Route28Kanto",
-    "IndigoPlateauKanto"
+    "IndigoPlateauKanto",
+    "MtMoonKanto"
+  ],
+  "gMapGroup_IndoorPalletTownKanto": [
+    "PalletTownLabKanto",
+    "PalletTownRedsHouse1Kanto",
+    "PalletTownRedsHouse2Kanto",
+    "PalletTownHouse2",
+    "PalletTownHouse3"
   ]
 }
