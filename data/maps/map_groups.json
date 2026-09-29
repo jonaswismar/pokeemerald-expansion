@@ -76,7 +76,16 @@
     "gMapGroup_IndoorSixIslandRoute_Frlg",
     "gMapGroup_IndoorSevenIslandRoute_Frlg",
     "gMapGroup_TownsAndRoutesKanto",
-    "gMapGroup_IndoorPalletTownKanto"
+    "gMapGroup_IndoorPalletTownKanto",
+    "gMapGroup_IndoorViridianCityKanto",
+    "gMapGroup_IndoorPewterCityKanto",
+    "gMapGroup_IndoorCeruleanCityKanto",
+    "gMapGroup_IndoorVermilionCityKanto",
+    "gMapGroup_IndoorLavenderTownKanto",
+    "gMapGroup_IndoorCeladonCityKanto",
+    "gMapGroup_IndoorSaffronCityKanto",
+    "gMapGroup_IndoorFuchsiaCityKanto",
+    "gMapGroup_IndoorCinnabarIslandKanto"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1212,5 +1221,28 @@
     "PalletTownRedsHouse2Kanto",
     "PalletTownHouse2",
     "PalletTownHouse3"
-  ]
+  ],
+  "gMapGroup_IndoorViridianCityKanto": [
+    "ViridianCityPokemonCenterKanto",
+    "ViridianCityMartKanto",
+    "ViridianCityHouse1Kanto",
+    "ViridianCityHouse2Kanto",
+    "ViridianCityGymKanto"
+  ],
+  "gMapGroup_IndoorPewterCityKanto": [
+    "PewterCityPokemonCenterKanto",
+    "PewterCityMartKanto",
+    "PewterCityHouse1Kanto",
+    "PewterCityHouse2Kanto",
+    "PewterCityGymKanto",
+    "PewterCityMuseum1FKanto",
+    "PewterCityMuseum2FKanto"
+  ],
+  "gMapGroup_IndoorCeruleanCityKanto": [],
+  "gMapGroup_IndoorVermilionCityKanto": [],
+  "gMapGroup_IndoorLavenderTownKanto": [],
+  "gMapGroup_IndoorCeladonCityKanto": [],
+  "gMapGroup_IndoorSaffronCityKanto": [],
+  "gMapGroup_IndoorFuchsiaCityKanto": [],
+  "gMapGroup_IndoorCinnabarIslandKanto": []
 }

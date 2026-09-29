@@ -9783,6 +9783,126 @@
       "secondary_tileset": "gTileset_HouseLabKanto",
       "border_filepath": "data/layouts/PalletTownHouse3/border.bin",
       "blockdata_filepath": "data/layouts/PalletTownHouse3/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_HOUSE2KANTO",
+      "name": "ViridianCityHouse2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/ViridianCityHouse2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCityHouse2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_MART_KANTO",
+      "name": "ViridianCityMartKanto_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_Mart_Kanto",
+      "border_filepath": "data/layouts/ViridianCityMartKanto/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCityMartKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_POKEMON_CENTER_KANTO",
+      "name": "ViridianCityPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/ViridianCityPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCityPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_HOUSE1KANTO",
+      "name": "ViridianCityHouse1Kanto_Layout",
+      "width": 17,
+      "height": 14,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/ViridianCityHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCityHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_GYM_KANTO",
+      "name": "ViridianCityGymKanto_Layout",
+      "width": 11,
+      "height": 22,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_ViridianCityGym_Kanto",
+      "border_filepath": "data/layouts/ViridianCityGymKanto/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCityGymKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_HOUSE1KANTO",
+      "name": "PewterCityHouse1Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/PewterCityHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCityHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_POKEMON_CENTER_KANTO",
+      "name": "PewterCityPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/PewterCityPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCityPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_HOUSE2KANTO",
+      "name": "PewterCityHouse2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/PewterCityHouse2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCityHouse2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_MART_KANTO",
+      "name": "PewterCityMartKanto_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_Mart_Kanto",
+      "border_filepath": "data/layouts/PewterCityMartKanto/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCityMartKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_MUSEUM2FKANTO",
+      "name": "PewterCityMuseum2FKanto_Layout",
+      "width": 19,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Museum_Kanto",
+      "border_filepath": "data/layouts/PewterCityMuseum2FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCityMuseum2FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_MUSEUM1FKANTO",
+      "name": "PewterCityMuseum1FKanto_Layout",
+      "width": 28,
+      "height": 11,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Museum_Kanto",
+      "border_filepath": "data/layouts/PewterCityMuseum1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCityMuseum1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_GYM_KANTO",
+      "name": "PewterCityGymKanto_Layout",
+      "width": 13,
+      "height": 16,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_EcruteakCityTheater_Johto",
+      "border_filepath": "data/layouts/PewterCityGymKanto/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCityGymKanto/map.bin"
     }
   ]
 }

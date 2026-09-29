@@ -466,11 +466,22 @@ const u16 gMetatileAttributes_Building_Kanto[] = INCBIN_U16("data/tilesets/prima
 const u16 gMetatiles_HouseLabKanto[] = INCBIN_U16("data/tilesets/secondary/house_lab_kanto/metatiles.bin");
 const u16 gMetatileAttributes_HouseLabKanto[] = INCBIN_U16("data/tilesets/secondary/house_lab_kanto/metatile_attributes.bin");
 
-const u16 gMetatiles_HouseLabKano[] = INCBIN_U16("data/tilesets/secondary/house_lab_kano/metatiles.bin");
-const u16 gMetatileAttributes_HouseLabKano[] = INCBIN_U16("data/tilesets/secondary/house_lab_kano/metatile_attributes.bin");
-
 const u16 gMetatiles_PlayersHouseKanto[] = INCBIN_U16("data/tilesets/secondary/players_house_kanto/metatiles.bin");
 const u16 gMetatileAttributes_PlayersHouseKanto[] = INCBIN_U16("data/tilesets/secondary/players_house_kanto/metatile_attributes.bin");
-
 const u16 gMetatiles_Building_Johto[] = INCBIN_U16("data/tilesets/primary/building_johto/metatiles.bin");
 const u16 gMetatileAttributes_Building_Johto[] = INCBIN_U16("data/tilesets/primary/building_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_PokemonCenter_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_center_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PokemonCenter_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_center_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_Mart_Kanto[] = INCBIN_U16("data/tilesets/secondary/mart_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Mart_Kanto[] = INCBIN_U16("data/tilesets/secondary/mart_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_ViridianCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/viridian_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_ViridianCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/viridian_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_EcruteakCityTheater_Johto[] = INCBIN_U16("data/tilesets/secondary/ecruteak_city_theater_johto/metatiles.bin");
+const u16 gMetatileAttributes_EcruteakCityTheater_Johto[] = INCBIN_U16("data/tilesets/secondary/ecruteak_city_theater_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Museum_Kanto[] = INCBIN_U16("data/tilesets/secondary/museum_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Museum_Kanto[] = INCBIN_U16("data/tilesets/secondary/museum_kanto/metatile_attributes.bin");

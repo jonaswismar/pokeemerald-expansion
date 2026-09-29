@@ -1830,3 +1830,27 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/PalletTownHouse2/scripts.inc"
 
 	.include "data/maps/PalletTownHouse3/scripts.inc"
+
+	.include "data/maps/ViridianCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/ViridianCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/ViridianCityGymKanto/scripts.inc"
+
+	.include "data/maps/ViridianCityMartKanto/scripts.inc"
+
+	.include "data/maps/ViridianCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/PewterCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/PewterCityMartKanto/scripts.inc"
+
+	.include "data/maps/PewterCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/PewterCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/PewterCityMuseum2FKanto/scripts.inc"
+
+	.include "data/maps/PewterCityGymKanto/scripts.inc"
+
+	.include "data/maps/PewterCityMuseum1FKanto/scripts.inc"

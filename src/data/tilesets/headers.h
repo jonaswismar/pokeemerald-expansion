@@ -1751,17 +1751,6 @@ const struct Tileset gTileset_HouseLabKanto =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_HouseLabKano =
-{
-    .isCompressed = TRUE,
-    .isSecondary = TRUE,
-    .tiles = gTilesetTiles_HouseLabKano,
-    .palettes = gTilesetPalettes_HouseLabKano,
-    .metatiles = gMetatiles_HouseLabKano,
-    .metatileAttributes = gMetatileAttributes_HouseLabKano,
-    .callback = NULL,
-};
-
 const struct Tileset gTileset_PlayersHouseKanto =
 {
     .isCompressed = TRUE,
@@ -1781,5 +1770,60 @@ const struct Tileset gTileset_Building_Johto =
     .palettes = gTilesetPalettes_Building_Johto,
     .metatiles = gMetatiles_Building_Johto,
     .metatileAttributes = gMetatileAttributes_Building_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_PokemonCenter_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_PokemonCenter_Kanto,
+    .palettes = gTilesetPalettes_PokemonCenter_Kanto,
+    .metatiles = gMetatiles_PokemonCenter_Kanto,
+    .metatileAttributes = gMetatileAttributes_PokemonCenter_Kanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Mart_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Mart_Kanto,
+    .palettes = gTilesetPalettes_Mart_Kanto,
+    .metatiles = gMetatiles_Mart_Kanto,
+    .metatileAttributes = gMetatileAttributes_Mart_Kanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_ViridianCityGym_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_ViridianCityGym_Kanto,
+    .palettes = gTilesetPalettes_ViridianCityGym_Kanto,
+    .metatiles = gMetatiles_ViridianCityGym_Kanto,
+    .metatileAttributes = gMetatileAttributes_ViridianCityGym_Kanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_EcruteakCityTheater_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_EcruteakCityTheater_Johto,
+    .palettes = gTilesetPalettes_EcruteakCityTheater_Johto,
+    .metatiles = gMetatiles_EcruteakCityTheater_Johto,
+    .metatileAttributes = gMetatileAttributes_EcruteakCityTheater_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Museum_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Museum_Kanto,
+    .palettes = gTilesetPalettes_Museum_Kanto,
+    .metatiles = gMetatiles_Museum_Kanto,
+    .metatileAttributes = gMetatileAttributes_Museum_Kanto,
     .callback = NULL,
 };
