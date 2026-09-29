@@ -1213,7 +1213,8 @@
     "Route27Kanto",
     "Route28Kanto",
     "IndigoPlateauKanto",
-    "MtMoonKanto"
+    "MtMoonKanto",
+    "VermilionCityPortOutside"
   ],
   "gMapGroup_IndoorPalletTownKanto": [
     "PalletTownLabKanto",
@@ -1238,11 +1239,30 @@
     "PewterCityMuseum1FKanto",
     "PewterCityMuseum2FKanto"
   ],
-  "gMapGroup_IndoorCeruleanCityKanto": [],
-  "gMapGroup_IndoorVermilionCityKanto": [],
+  "gMapGroup_IndoorCeruleanCityKanto": [
+    "CeruleanCityPokemonCenterKanto",
+    "CeruleanCityMartKanto",
+    "CeruleanCityHouse1Kanto",
+    "CeruleanCityHouse2Kanto",
+    "CeruleanCityHouse3Kanto",
+    "CeruleanCityBikeShopKanto",
+    "CeruleanCityGymKanto"
+  ],
+  "gMapGroup_IndoorVermilionCityKanto": [
+    "VermilionCityPokemonCenterKanto",
+    "VermilionCityMartKanto",
+    "VermilionCityPortIndoorKanto",
+    "VermilionCityGymKanto",
+    "VermilionCityPokemonDayCareKanto",
+    "VermilionCityHouse1Kanto",
+    "VermilionCityHouse2Kanto",
+    "VermilionCityHouse3Kanto"
+  ],
   "gMapGroup_IndoorLavenderTownKanto": [],
   "gMapGroup_IndoorCeladonCityKanto": [],
   "gMapGroup_IndoorSaffronCityKanto": [],
   "gMapGroup_IndoorFuchsiaCityKanto": [],
-  "gMapGroup_IndoorCinnabarIslandKanto": []
+  "gMapGroup_IndoorCinnabarIslandKanto": [
+    "CinnabarIslandPokemonCenterKanto"
+  ]
 }

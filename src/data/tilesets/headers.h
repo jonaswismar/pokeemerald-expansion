@@ -1827,3 +1827,69 @@ const struct Tileset gTileset_Museum_Kanto =
     .metatileAttributes = gMetatileAttributes_Museum_Kanto,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_BikeShop_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_BikeShop_Kanto,
+    .palettes = gTilesetPalettes_BikeShop_Kanto,
+    .metatiles = gMetatiles_BikeShop_Kanto,
+    .metatileAttributes = gMetatileAttributes_BikeShop_Kanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_CeruleanCityGym_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_CeruleanCityGym_Kanto,
+    .palettes = gTilesetPalettes_CeruleanCityGym_Kanto,
+    .metatiles = gMetatiles_CeruleanCityGym_Kanto,
+    .metatileAttributes = gMetatileAttributes_CeruleanCityGym_Kanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_PortIndoor_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_PortIndoor_Kanto,
+    .palettes = gTilesetPalettes_PortIndoor_Kanto,
+    .metatiles = gMetatiles_PortIndoor_Kanto,
+    .metatileAttributes = gMetatileAttributes_PortIndoor_Kanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_General_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_General_Johto,
+    .palettes = gTilesetPalettes_General_Johto,
+    .metatiles = gMetatiles_General_Johto,
+    .metatileAttributes = gMetatileAttributes_General_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_VermilionCityGym_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_VermilionCityGym_Kanto,
+    .palettes = gTilesetPalettes_VermilionCityGym_Kanto,
+    .metatiles = gMetatiles_VermilionCityGym_Kanto,
+    .metatileAttributes = gMetatileAttributes_VermilionCityGym_Kanto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_PokemonDayCare_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_PokemonDayCare_Kanto,
+    .palettes = gTilesetPalettes_PokemonDayCare_Kanto,
+    .metatiles = gMetatiles_PokemonDayCare_Kanto,
+    .metatileAttributes = gMetatileAttributes_PokemonDayCare_Kanto,
+    .callback = NULL,
+};

@@ -9903,6 +9903,176 @@
       "secondary_tileset": "gTileset_EcruteakCityTheater_Johto",
       "border_filepath": "data/layouts/PewterCityGymKanto/border.bin",
       "blockdata_filepath": "data/layouts/PewterCityGymKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CINNABAR_ISLAND_POKEMON_CENTER_KANTO",
+      "name": "CinnabarIslandPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/CinnabarIslandPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CinnabarIslandPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_POKEMON_CENTER_KANTO",
+      "name": "CeruleanCityPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/CeruleanCityPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCityPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_HOUSE2KANTO",
+      "name": "CeruleanCityHouse2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/CeruleanCityHouse2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCityHouse2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_MART_KANTO",
+      "name": "CeruleanCityMartKanto_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_Mart_Kanto",
+      "border_filepath": "data/layouts/CeruleanCityMartKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCityMartKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_HOUSE3KANTO",
+      "name": "CeruleanCityHouse3Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/CeruleanCityHouse3Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCityHouse3Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_BIKE_SHOP_KANTO",
+      "name": "CeruleanCityBikeShopKanto_Layout",
+      "width": 11,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_BikeShop_Kanto",
+      "border_filepath": "data/layouts/CeruleanCityBikeShopKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCityBikeShopKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_GYM_KANTO",
+      "name": "CeruleanCityGymKanto_Layout",
+      "width": 17,
+      "height": 20,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_CeruleanCityGym_Kanto",
+      "border_filepath": "data/layouts/CeruleanCityGymKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCityGymKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_HOUSE1KANTO",
+      "name": "CeruleanCityHouse1Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/CeruleanCityHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCityHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_GYM_KANTO",
+      "name": "VermilionCityGymKanto_Layout",
+      "width": 11,
+      "height": 21,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_VermilionCityGym_Kanto",
+      "border_filepath": "data/layouts/VermilionCityGymKanto/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityGymKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_POKEMON_DAY_CARE_KANTO",
+      "name": "VermilionCityPokemonDayCareKanto_Layout",
+      "width": 12,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonDayCare_Kanto",
+      "border_filepath": "data/layouts/VermilionCityPokemonDayCareKanto/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityPokemonDayCareKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_POKEMON_CENTER_KANTO",
+      "name": "VermilionCityPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/VermilionCityPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_MART_KANTO",
+      "name": "VermilionCityMartKanto_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_Mart_Kanto",
+      "border_filepath": "data/layouts/VermilionCityMartKanto/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityMartKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_HOUSE2KANTO",
+      "name": "VermilionCityHouse2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/VermilionCityHouse2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityHouse2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_HOUSE1KANTO",
+      "name": "VermilionCityHouse1Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/VermilionCityHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_HOUSE3KANTO",
+      "name": "VermilionCityHouse3Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/VermilionCityHouse3Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityHouse3Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_PORT_INDOOR_KANTO",
+      "name": "VermilionCityPortIndoorKanto_Layout",
+      "width": 18,
+      "height": 28,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_PortIndoor_Kanto",
+      "border_filepath": "data/layouts/VermilionCityPortIndoorKanto/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityPortIndoorKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_PORT_OUTSIDE",
+      "name": "VermilionCityPortOutside_Layout",
+      "width": 52,
+      "height": 23,
+      "primary_tileset": "gTileset_General_Kanto",
+      "secondary_tileset": "gTileset_PortIndoor_Kanto",
+      "border_filepath": "data/layouts/VermilionCityPortOutside/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCityPortOutside/map.bin"
     }
   ]
 }

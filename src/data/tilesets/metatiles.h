@@ -485,3 +485,21 @@ const u16 gMetatileAttributes_EcruteakCityTheater_Johto[] = INCBIN_U16("data/til
 
 const u16 gMetatiles_Museum_Kanto[] = INCBIN_U16("data/tilesets/secondary/museum_kanto/metatiles.bin");
 const u16 gMetatileAttributes_Museum_Kanto[] = INCBIN_U16("data/tilesets/secondary/museum_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_BikeShop_Kanto[] = INCBIN_U16("data/tilesets/secondary/bike_shop_kanto/metatiles.bin");
+const u16 gMetatileAttributes_BikeShop_Kanto[] = INCBIN_U16("data/tilesets/secondary/bike_shop_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CeruleanCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/cerulean_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CeruleanCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/cerulean_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PortIndoor_Kanto[] = INCBIN_U16("data/tilesets/secondary/port_indoor_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PortIndoor_Kanto[] = INCBIN_U16("data/tilesets/secondary/port_indoor_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Johto[] = INCBIN_U16("data/tilesets/primary/general_johto/metatiles.bin");
+const u16 gMetatileAttributes_General_Johto[] = INCBIN_U16("data/tilesets/primary/general_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_VermilionCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/vermilion_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_VermilionCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/vermilion_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PokemonDayCare_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_day_care_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PokemonDayCare_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_day_care_kanto/metatile_attributes.bin");

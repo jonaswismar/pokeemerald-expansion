@@ -1854,3 +1854,37 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/PewterCityGymKanto/scripts.inc"
 
 	.include "data/maps/PewterCityMuseum1FKanto/scripts.inc"
+
+	.include "data/maps/CinnabarIslandPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityMartKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityHouse3Kanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityBikeShopKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityGymKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/VermilionCityGymKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/VermilionCityPokemonDayCareKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityPortIndoorKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityHouse3Kanto/scripts.inc"
+
+	.include "data/maps/VermilionCityMartKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityPortOutside/scripts.inc"
+
+	.include "data/maps/VermilionCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityHouse1Kanto/scripts.inc"
