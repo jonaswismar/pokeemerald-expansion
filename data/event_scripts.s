@@ -1902,3 +1902,73 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/LavenderTownMartKanto/scripts.inc"
 
 	.include "data/maps/LavenderTownSoulHouseKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityGymKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityRoute15GateKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityRoute19GateKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityMartKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/SaffronCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityMartKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityTrainStationKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityGymKanto/scripts.inc"
+
+	.include "data/maps/SaffronCitySilphCoKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityFightingDojoVIPKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityFightingDojoKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityCopyCatsHouse2FKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/SaffronCityCopyCatsHouse1FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore5FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore2FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartments2FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartmentsRoofDayKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartments1FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityGameCornerKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore4FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStoreRoofDayKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore1FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore3FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartmentsRoofHouseKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartmentsRoofNightKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartments3FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStoreRoofNightKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityGymKanto/scripts.inc"

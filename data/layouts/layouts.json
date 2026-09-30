@@ -10143,6 +10143,356 @@
       "secondary_tileset": "gTileset_SoulHouse_Kanto",
       "border_filepath": "data/layouts/LavenderTownSoulHouseKanto/border.bin",
       "blockdata_filepath": "data/layouts/LavenderTownSoulHouseKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_FUCHSIA_CITY_HOUSE2KANTO",
+      "name": "FuchsiaCityHouse2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/FuchsiaCityHouse2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCityHouse2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_FUCHSIA_CITY_ROUTE19GATE_KANTO",
+      "name": "FuchsiaCityRoute19GateKanto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/FuchsiaCityRoute19GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCityRoute19GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_FUCHSIA_CITY_ROUTE15GATE_KANTO",
+      "name": "FuchsiaCityRoute15GateKanto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/FuchsiaCityRoute15GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCityRoute15GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_FUCHSIA_CITY_MART_KANTO",
+      "name": "FuchsiaCityMartKanto_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_Mart_Kanto",
+      "border_filepath": "data/layouts/FuchsiaCityMartKanto/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCityMartKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_FUCHSIA_CITY_GYM_KANTO",
+      "name": "FuchsiaCityGymKanto_Layout",
+      "width": 15,
+      "height": 23,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_FuchsiaCityGym_Kanto",
+      "border_filepath": "data/layouts/FuchsiaCityGymKanto/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCityGymKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_FUCHSIA_CITY_HOUSE1KANTO",
+      "name": "FuchsiaCityHouse1Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/FuchsiaCityHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCityHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_FUCHSIA_CITY_POKEMON_CENTER_KANTO",
+      "name": "FuchsiaCityPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/FuchsiaCityPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCityPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_POKEMON_CENTER_KANTO",
+      "name": "SaffronCityPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/SaffronCityPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_MART_KANTO",
+      "name": "SaffronCityMartKanto_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_Mart_Kanto",
+      "border_filepath": "data/layouts/SaffronCityMartKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityMartKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_TRAIN_STATION_KANTO",
+      "name": "SaffronCityTrainStationKanto_Layout",
+      "width": 154,
+      "height": 28,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GoldenrodCityTrainstation_Johto",
+      "border_filepath": "data/layouts/SaffronCityTrainStationKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityTrainStationKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_GYM_KANTO",
+      "name": "SaffronCityGymKanto_Layout",
+      "width": 29,
+      "height": 25,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_SaffronCityGym_Kanto",
+      "border_filepath": "data/layouts/SaffronCityGymKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityGymKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_FIGHTING_DOJO_VIPKANTO",
+      "name": "SaffronCityFightingDojoVIPKanto_Layout",
+      "width": 45,
+      "height": 43,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_SaffronCityFightingDojoVIP_Kanto",
+      "border_filepath": "data/layouts/SaffronCityFightingDojoVIPKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityFightingDojoVIPKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_FIGHTING_DOJO_KANTO",
+      "name": "SaffronCityFightingDojoKanto_Layout",
+      "width": 29,
+      "height": 16,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_EcruteakCityTheater_Johto",
+      "border_filepath": "data/layouts/SaffronCityFightingDojoKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityFightingDojoKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_SILPH_CO_KANTO",
+      "name": "SaffronCitySilphCoKanto_Layout",
+      "width": 36,
+      "height": 22,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_SilphCoKanto",
+      "border_filepath": "data/layouts/SaffronCitySilphCoKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCitySilphCoKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_COPY_CATS_HOUSE1FKANTO",
+      "name": "SaffronCityCopyCatsHouse1FKanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/SaffronCityCopyCatsHouse1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityCopyCatsHouse1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_COPY_CATS_HOUSE2FKANTO",
+      "name": "SaffronCityCopyCatsHouse2FKanto_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PlayersHouseKanto",
+      "border_filepath": "data/layouts/SaffronCityCopyCatsHouse2FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityCopyCatsHouse2FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_HOUSE1KANTO",
+      "name": "SaffronCityHouse1Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/SaffronCityHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_APARTMENTS3FKANTO",
+      "name": "CeladonCityApartments3FKanto_Layout",
+      "width": 15,
+      "height": 20,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_CeladonApartments_Kanto",
+      "border_filepath": "data/layouts/CeladonCityApartments3FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityApartments3FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_APARTMENTS_ROOF_HOUSE_KANTO",
+      "name": "CeladonCityApartmentsRoofHouseKanto_Layout",
+      "width": 12,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/CeladonCityApartmentsRoofHouseKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityApartmentsRoofHouseKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_HOUSE2KANTO",
+      "name": "CeladonCityHouse2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/CeladonCityHouse2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityHouse2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_DEPARTMENT_STORE3FKANTO",
+      "name": "CeladonCityDepartmentStore3FKanto_Layout",
+      "width": 13,
+      "height": 15,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_DepartmentStore_Kanto",
+      "border_filepath": "data/layouts/CeladonCityDepartmentStore3FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityDepartmentStore3FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_DEPARTMENT_STORE_ROOF_NIGHT_KANTO",
+      "name": "CeladonCityDepartmentStoreRoofNightKanto_Layout",
+      "width": 19,
+      "height": 14,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_DepartmentStore_Kanto",
+      "border_filepath": "data/layouts/CeladonCityDepartmentStoreRoofNightKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityDepartmentStoreRoofNightKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_DEPARTMENT_STORE_ROOF_DAY_KANTO",
+      "name": "CeladonCityDepartmentStoreRoofDayKanto_Layout",
+      "width": 19,
+      "height": 14,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_DepartmentStore_Kanto",
+      "border_filepath": "data/layouts/CeladonCityDepartmentStoreRoofDayKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityDepartmentStoreRoofDayKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_APARTMENTS_ROOF_DAY_KANTO",
+      "name": "CeladonCityApartmentsRoofDayKanto_Layout",
+      "width": 14,
+      "height": 23,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_CeladonApartments_Kanto",
+      "border_filepath": "data/layouts/CeladonCityApartmentsRoofDayKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityApartmentsRoofDayKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_GAME_CORNER_KANTO",
+      "name": "CeladonCityGameCornerKanto_Layout",
+      "width": 21,
+      "height": 14,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GameCorner_Kanto",
+      "border_filepath": "data/layouts/CeladonCityGameCornerKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityGameCornerKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_APARTMENTS1FKANTO",
+      "name": "CeladonCityApartments1FKanto_Layout",
+      "width": 15,
+      "height": 20,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_CeladonApartments_Kanto",
+      "border_filepath": "data/layouts/CeladonCityApartments1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityApartments1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_APARTMENTS_ROOF_NIGHT_KANTO",
+      "name": "CeladonCityApartmentsRoofNightKanto_Layout",
+      "width": 14,
+      "height": 23,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_CeladonApartments_Kanto",
+      "border_filepath": "data/layouts/CeladonCityApartmentsRoofNightKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityApartmentsRoofNightKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_DEPARTMENT_STORE1FKANTO",
+      "name": "CeladonCityDepartmentStore1FKanto_Layout",
+      "width": 13,
+      "height": 16,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_DepartmentStore_Kanto",
+      "border_filepath": "data/layouts/CeladonCityDepartmentStore1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityDepartmentStore1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_DEPARTMENT_STORE5FKANTO",
+      "name": "CeladonCityDepartmentStore5FKanto_Layout",
+      "width": 13,
+      "height": 15,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_DepartmentStore_Kanto",
+      "border_filepath": "data/layouts/CeladonCityDepartmentStore5FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityDepartmentStore5FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_DEPARTMENT_STORE4FKANTO",
+      "name": "CeladonCityDepartmentStore4FKanto_Layout",
+      "width": 13,
+      "height": 15,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_DepartmentStore_Kanto",
+      "border_filepath": "data/layouts/CeladonCityDepartmentStore4FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityDepartmentStore4FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_DEPARTMENT_STORE2FKANTO",
+      "name": "CeladonCityDepartmentStore2FKanto_Layout",
+      "width": 13,
+      "height": 15,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_DepartmentStore_Kanto",
+      "border_filepath": "data/layouts/CeladonCityDepartmentStore2FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityDepartmentStore2FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_POKEMON_CENTER_KANTO",
+      "name": "CeladonCityPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/CeladonCityPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_HOUSE1KANTO",
+      "name": "CeladonCityHouse1Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Cafe_Kanto",
+      "border_filepath": "data/layouts/CeladonCityHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_APARTMENTS2FKANTO",
+      "name": "CeladonCityApartments2FKanto_Layout",
+      "width": 15,
+      "height": 20,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_CeladonApartments_Kanto",
+      "border_filepath": "data/layouts/CeladonCityApartments2FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityApartments2FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_GYM_KANTO",
+      "name": "CeladonCityGymKanto_Layout",
+      "width": 13,
+      "height": 20,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_AzaleaTownGym_Johto",
+      "border_filepath": "data/layouts/CeladonCityGymKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityGymKanto/map.bin"
     }
   ]
 }

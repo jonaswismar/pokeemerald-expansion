@@ -1267,9 +1267,47 @@
     "LavenderTownRadioStationKanto",
     "LavenderTownSoulHouseKanto"
   ],
-  "gMapGroup_IndoorCeladonCityKanto": [],
-  "gMapGroup_IndoorSaffronCityKanto": [],
-  "gMapGroup_IndoorFuchsiaCityKanto": [],
+  "gMapGroup_IndoorCeladonCityKanto": [
+    "CeladonCityPokemonCenterKanto",
+    "CeladonCityHouse1Kanto",
+    "CeladonCityHouse2Kanto",
+    "CeladonCityApartments1FKanto",
+    "CeladonCityApartments2FKanto",
+    "CeladonCityApartments3FKanto",
+    "CeladonCityApartmentsRoofDayKanto",
+    "CeladonCityApartmentsRoofNightKanto",
+    "CeladonCityApartmentsRoofHouseKanto",
+    "CeladonCityGameCornerKanto",
+    "CeladonCityDepartmentStore1FKanto",
+    "CeladonCityDepartmentStore2FKanto",
+    "CeladonCityDepartmentStore3FKanto",
+    "CeladonCityDepartmentStore4FKanto",
+    "CeladonCityDepartmentStore5FKanto",
+    "CeladonCityDepartmentStoreRoofDayKanto",
+    "CeladonCityDepartmentStoreRoofNightKanto",
+    "CeladonCityGymKanto"
+  ],
+  "gMapGroup_IndoorSaffronCityKanto": [
+    "SaffronCityPokemonCenterKanto",
+    "SaffronCityMartKanto",
+    "SaffronCityTrainStationKanto",
+    "SaffronCityFightingDojoKanto",
+    "SaffronCityFightingDojoVIPKanto",
+    "SaffronCityGymKanto",
+    "SaffronCitySilphCoKanto",
+    "SaffronCityCopyCatsHouse1FKanto",
+    "SaffronCityCopyCatsHouse2FKanto",
+    "SaffronCityHouse1Kanto"
+  ],
+  "gMapGroup_IndoorFuchsiaCityKanto": [
+    "FuchsiaCityPokemonCenterKanto",
+    "FuchsiaCityMartKanto",
+    "FuchsiaCityHouse1Kanto",
+    "FuchsiaCityHouse2Kanto",
+    "FuchsiaCityGymKanto",
+    "FuchsiaCityRoute19GateKanto",
+    "FuchsiaCityRoute15GateKanto"
+  ],
   "gMapGroup_IndoorCinnabarIslandKanto": [
     "CinnabarIslandPokemonCenterKanto"
   ]

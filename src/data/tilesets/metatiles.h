@@ -509,3 +509,39 @@ const u16 gMetatileAttributes_GoldenrodCityUndergroundRocket_Johto[] = INCBIN_U1
 
 const u16 gMetatiles_SoulHouse_Kanto[] = INCBIN_U16("data/tilesets/secondary/soul_house_kanto/metatiles.bin");
 const u16 gMetatileAttributes_SoulHouse_Kanto[] = INCBIN_U16("data/tilesets/secondary/soul_house_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_FuchsiaCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/fuchsia_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_FuchsiaCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/fuchsia_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GateStandard_Kanto[] = INCBIN_U16("data/tilesets/secondary/gate_standard_kanto/metatiles.bin");
+const u16 gMetatileAttributes_GateStandard_Kanto[] = INCBIN_U16("data/tilesets/secondary/gate_standard_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GoldenrodCityTrainstation_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_trainstation_johto/metatiles.bin");
+const u16 gMetatileAttributes_GoldenrodCityTrainstation_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_trainstation_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SaffronCityFightingDojoVIP_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_fighting_dojo_vip_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SaffronCityFightingDojoVIP_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_fighting_dojo_vip_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_SaffronCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SaffronCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_SilphCoKanto[] = INCBIN_U16("data/tilesets/secondary/silph_co_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SilphCoKanto[] = INCBIN_U16("data/tilesets/secondary/silph_co_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_Cafe_Kanto[] = INCBIN_U16("data/tilesets/secondary/cafe_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Cafe_Kanto[] = INCBIN_U16("data/tilesets/secondary/cafe_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CeladonApartments_Kanto[] = INCBIN_U16("data/tilesets/secondary/celadon_apartments_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CeladonApartments_Kanto[] = INCBIN_U16("data/tilesets/secondary/celadon_apartments_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GameCorner_Kanto[] = INCBIN_U16("data/tilesets/secondary/game_corner_kanto/metatiles.bin");
+const u16 gMetatileAttributes_GameCorner_Kanto[] = INCBIN_U16("data/tilesets/secondary/game_corner_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_DepartmentStore_Kanto[] = INCBIN_U16("data/tilesets/secondary/department_store_kanto/metatiles.bin");
+const u16 gMetatileAttributes_DepartmentStore_Kanto[] = INCBIN_U16("data/tilesets/secondary/department_store_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_ShopRooftop_Kanto[] = INCBIN_U16("data/tilesets/secondary/shop_rooftop_kanto/metatiles.bin");
+const u16 gMetatileAttributes_ShopRooftop_Kanto[] = INCBIN_U16("data/tilesets/secondary/shop_rooftop_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_AzaleaTownGym_Johto[] = INCBIN_U16("data/tilesets/secondary/azalea_town_gym_johto/metatiles.bin");
+const u16 gMetatileAttributes_AzaleaTownGym_Johto[] = INCBIN_U16("data/tilesets/secondary/azalea_town_gym_johto/metatile_attributes.bin");
