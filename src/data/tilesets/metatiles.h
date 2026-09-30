@@ -503,3 +503,9 @@ const u16 gMetatileAttributes_VermilionCityGym_Kanto[] = INCBIN_U16("data/tilese
 
 const u16 gMetatiles_PokemonDayCare_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_day_care_kanto/metatiles.bin");
 const u16 gMetatileAttributes_PokemonDayCare_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_day_care_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GoldenrodCityUndergroundRocket_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_underground_rocket_johto/metatiles.bin");
+const u16 gMetatileAttributes_GoldenrodCityUndergroundRocket_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_underground_rocket_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SoulHouse_Kanto[] = INCBIN_U16("data/tilesets/secondary/soul_house_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SoulHouse_Kanto[] = INCBIN_U16("data/tilesets/secondary/soul_house_kanto/metatile_attributes.bin");

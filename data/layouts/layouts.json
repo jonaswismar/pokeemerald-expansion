@@ -10073,6 +10073,76 @@
       "secondary_tileset": "gTileset_PortIndoor_Kanto",
       "border_filepath": "data/layouts/VermilionCityPortOutside/border.bin",
       "blockdata_filepath": "data/layouts/VermilionCityPortOutside/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAVENDER_TOWN_HOUSE2KANTO",
+      "name": "LavenderTownHouse2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/LavenderTownHouse2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTownHouse2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAVENDER_TOWN_POKEMON_CENTER_KANTO",
+      "name": "LavenderTownPokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/LavenderTownPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTownPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAVENDER_TOWN_HOUSE3KANTO",
+      "name": "LavenderTownHouse3Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/LavenderTownHouse3Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTownHouse3Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAVENDER_TOWN_RADIO_STATION_KANTO",
+      "name": "LavenderTownRadioStationKanto_Layout",
+      "width": 21,
+      "height": 11,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GoldenrodCityUndergroundRocket_Johto",
+      "border_filepath": "data/layouts/LavenderTownRadioStationKanto/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTownRadioStationKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAVENDER_TOWN_MART_KANTO",
+      "name": "LavenderTownMartKanto_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_Mart_Kanto",
+      "border_filepath": "data/layouts/LavenderTownMartKanto/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTownMartKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAVENDER_TOWN_HOUSE1KANTO",
+      "name": "LavenderTownHouse1Kanto_Layout",
+      "width": 12,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonDayCare_Kanto",
+      "border_filepath": "data/layouts/LavenderTownHouse1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTownHouse1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAVENDER_TOWN_SOUL_HOUSE_KANTO",
+      "name": "LavenderTownSoulHouseKanto_Layout",
+      "width": 24,
+      "height": 20,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_SoulHouse_Kanto",
+      "border_filepath": "data/layouts/LavenderTownSoulHouseKanto/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTownSoulHouseKanto/map.bin"
     }
   ]
 }

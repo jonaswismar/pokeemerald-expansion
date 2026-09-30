@@ -1258,7 +1258,15 @@
     "VermilionCityHouse2Kanto",
     "VermilionCityHouse3Kanto"
   ],
-  "gMapGroup_IndoorLavenderTownKanto": [],
+  "gMapGroup_IndoorLavenderTownKanto": [
+    "LavenderTownPokemonCenterKanto",
+    "LavenderTownMartKanto",
+    "LavenderTownHouse1Kanto",
+    "LavenderTownHouse2Kanto",
+    "LavenderTownHouse3Kanto",
+    "LavenderTownRadioStationKanto",
+    "LavenderTownSoulHouseKanto"
+  ],
   "gMapGroup_IndoorCeladonCityKanto": [],
   "gMapGroup_IndoorSaffronCityKanto": [],
   "gMapGroup_IndoorFuchsiaCityKanto": [],

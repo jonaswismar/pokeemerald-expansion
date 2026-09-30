@@ -1888,3 +1888,17 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/VermilionCityPokemonCenterKanto/scripts.inc"
 
 	.include "data/maps/VermilionCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/LavenderTownHouse3Kanto/scripts.inc"
+
+	.include "data/maps/LavenderTownRadioStationKanto/scripts.inc"
+
+	.include "data/maps/LavenderTownPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/LavenderTownHouse2Kanto/scripts.inc"
+
+	.include "data/maps/LavenderTownHouse1Kanto/scripts.inc"
+
+	.include "data/maps/LavenderTownMartKanto/scripts.inc"
+
+	.include "data/maps/LavenderTownSoulHouseKanto/scripts.inc"

@@ -1893,3 +1893,25 @@ const struct Tileset gTileset_PokemonDayCare_Kanto =
     .metatileAttributes = gMetatileAttributes_PokemonDayCare_Kanto,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_GoldenrodCityUndergroundRocket_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_GoldenrodCityUndergroundRocket_Johto,
+    .palettes = gTilesetPalettes_GoldenrodCityUndergroundRocket_Johto,
+    .metatiles = gMetatiles_GoldenrodCityUndergroundRocket_Johto,
+    .metatileAttributes = gMetatileAttributes_GoldenrodCityUndergroundRocket_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_SoulHouse_Kanto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_SoulHouse_Kanto,
+    .palettes = gTilesetPalettes_SoulHouse_Kanto,
+    .metatiles = gMetatiles_SoulHouse_Kanto,
+    .metatileAttributes = gMetatileAttributes_SoulHouse_Kanto,
+    .callback = NULL,
+};
