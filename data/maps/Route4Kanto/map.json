@@ -27,6 +27,11 @@
       "map": "MAP_MT_MOON_KANTO",
       "offset": 18,
       "direction": "up"
+    },
+    {
+      "map": "MAP_MT_MOON_OUTSIDE_KANTO",
+      "offset": 18,
+      "direction": "up"
     }
   ],
   "object_events": [],

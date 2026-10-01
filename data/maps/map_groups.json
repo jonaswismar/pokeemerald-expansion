@@ -85,7 +85,11 @@
     "gMapGroup_IndoorCeladonCityKanto",
     "gMapGroup_IndoorSaffronCityKanto",
     "gMapGroup_IndoorFuchsiaCityKanto",
-    "gMapGroup_IndoorCinnabarIslandKanto"
+    "gMapGroup_IndoorCinnabarIslandKanto",
+    "gMapGroup_IndoorIndigoPlateauKanto",
+    "gMapGroup_IndoorRoutesKanto",
+    "gMapGroup_DungeonsKanto",
+    "gMapGroup_SpecialAreaKanto"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1285,7 +1289,8 @@
     "CeladonCityDepartmentStore5FKanto",
     "CeladonCityDepartmentStoreRoofDayKanto",
     "CeladonCityDepartmentStoreRoofNightKanto",
-    "CeladonCityGymKanto"
+    "CeladonCityGymKanto",
+    "CeladonCityRoute16GateKanto"
   ],
   "gMapGroup_IndoorSaffronCityKanto": [
     "SaffronCityPokemonCenterKanto",
@@ -1297,7 +1302,11 @@
     "SaffronCitySilphCoKanto",
     "SaffronCityCopyCatsHouse1FKanto",
     "SaffronCityCopyCatsHouse2FKanto",
-    "SaffronCityHouse1Kanto"
+    "SaffronCityHouse1Kanto",
+    "SaffronCityRoute5GateKanto",
+    "SaffronCityRoute6GateKanto",
+    "SaffronCityRoute7GateKanto",
+    "SaffronCityRoute8GateKanto"
   ],
   "gMapGroup_IndoorFuchsiaCityKanto": [
     "FuchsiaCityPokemonCenterKanto",
@@ -1306,9 +1315,70 @@
     "FuchsiaCityHouse2Kanto",
     "FuchsiaCityGymKanto",
     "FuchsiaCityRoute19GateKanto",
-    "FuchsiaCityRoute15GateKanto"
+    "FuchsiaCityRoute15GateKanto",
+    "FuchsiaCityRoute18GateKanto"
   ],
   "gMapGroup_IndoorCinnabarIslandKanto": [
     "CinnabarIslandPokemonCenterKanto"
+  ],
+  "gMapGroup_IndoorIndigoPlateauKanto": [
+    "IndigoPlateauPokemonCenterKanto",
+    "IndigoPlateauWillsRoomKanto",
+    "IndigoPlateauKogasRoomKanto",
+    "IndigoPlateauBrunosRoomKanto",
+    "IndigoPlateauKarensRoomKanto",
+    "IndigoPlateauChampionsRoomKanto",
+    "IndigoPlateauHallOfFameKanto"
+  ],
+  "gMapGroup_IndoorRoutesKanto": [
+    "Route26House1Kanto",
+    "Route26House2Kanto",
+    "Route2HouseKanto",
+    "Route5HouseKanto",
+    "Route9PokemonCenterKanto",
+    "Route16HouseKanto",
+    "Route12HouseKanto",
+    "Route4PokemonCenterKanto",
+    "Route25BillsHouseKanto",
+    "Route10PowerPlantEntranceKanto",
+    "Route10PowerPlantBackRoomKanto",
+    "Route5TunnelEntranceKanto",
+    "Route6TunnelEntranceKanto",
+    "Route7TunnelEntranceKanto",
+    "Route8TunnelEntranceKanto",
+    "MtMoonShop",
+    "Route7TunnelSW",
+    "Route5TunnelNS",
+    "Route2Gate",
+    "Route2ViridianForestGateKanto",
+    "ViridianForestRoute2GateKanto"
+  ],
+  "gMapGroup_DungeonsKanto": [
+    "VictoryRoadKantoB2FKanto",
+    "VictoryRoadKantoB1FKanto",
+    "VictoryRoadKanto1FKanto",
+    "ViridianForestKanto",
+    "MtMoonCaveKanto",
+    "MtMoonOutsideKanto",
+    "RockTunnelB1FKanto",
+    "RockTunnel1FKanto",
+    "CeruleanCave1FKanto",
+    "CeruleanCaveB1FKanto",
+    "CeruleanCaveB2FKanto",
+    "DiglettsCaveEntranceNorthKanto",
+    "DiglettsCaveEntranceSouthKanto",
+    "DiglettsCaveTunnelKanto",
+    "SeafoamIslands1F",
+    "SeafoamIslandsGymKanto",
+    "SeafoamIslandsB1FKanto",
+    "SeafoamIslandsSecretCave",
+    "Route19CaveKanto"
+  ],
+  "gMapGroup_SpecialAreaKanto": [
+    "SafariZonEntranceKanto",
+    "SafariZoneBeachKanto",
+    "SafariZoneBrushKanto",
+    "SafariZoneMountainKanto",
+    "SafariZoneCaveKanto"
   ]
 }

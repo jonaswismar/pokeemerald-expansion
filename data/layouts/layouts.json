@@ -10317,7 +10317,7 @@
     {
       "id": "LAYOUT_CELADON_CITY_APARTMENTS3FKANTO",
       "name": "CeladonCityApartments3FKanto_Layout",
-      "width": 15,
+      "width": 16,
       "height": 20,
       "primary_tileset": "gTileset_Building_Kanto",
       "secondary_tileset": "gTileset_CeladonApartments_Kanto",
@@ -10360,7 +10360,7 @@
       "width": 19,
       "height": 14,
       "primary_tileset": "gTileset_Building_Johto",
-      "secondary_tileset": "gTileset_DepartmentStore_Kanto",
+      "secondary_tileset": "gTileset_ShopRooftop_Kanto",
       "border_filepath": "data/layouts/CeladonCityDepartmentStoreRoofNightKanto/border.bin",
       "blockdata_filepath": "data/layouts/CeladonCityDepartmentStoreRoofNightKanto/map.bin"
     },
@@ -10493,6 +10493,586 @@
       "secondary_tileset": "gTileset_AzaleaTownGym_Johto",
       "border_filepath": "data/layouts/CeladonCityGymKanto/border.bin",
       "blockdata_filepath": "data/layouts/CeladonCityGymKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_INDIGO_PLATEAU_POKEMON_CENTER_KANTO",
+      "name": "IndigoPlateauPokemonCenterKanto_Layout",
+      "width": 35,
+      "height": 18,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenterWhite_Kanto",
+      "border_filepath": "data/layouts/IndigoPlateauPokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/IndigoPlateauPokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_INDIGO_PLATEAU_BRUNOS_ROOM_KANTO",
+      "name": "IndigoPlateauBrunosRoomKanto_Layout",
+      "width": 13,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonLeague_Kanto",
+      "border_filepath": "data/layouts/IndigoPlateauBrunosRoomKanto/border.bin",
+      "blockdata_filepath": "data/layouts/IndigoPlateauBrunosRoomKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_INDIGO_PLATEAU_HALL_OF_FAME_KANTO",
+      "name": "IndigoPlateauHallOfFameKanto_Layout",
+      "width": 11,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HallOfFame_Kanto",
+      "border_filepath": "data/layouts/IndigoPlateauHallOfFameKanto/border.bin",
+      "blockdata_filepath": "data/layouts/IndigoPlateauHallOfFameKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_INDIGO_PLATEAU_CHAMPIONS_ROOM_KANTO",
+      "name": "IndigoPlateauChampionsRoomKanto_Layout",
+      "width": 13,
+      "height": 20,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonLeague_Kanto",
+      "border_filepath": "data/layouts/IndigoPlateauChampionsRoomKanto/border.bin",
+      "blockdata_filepath": "data/layouts/IndigoPlateauChampionsRoomKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_INDIGO_PLATEAU_WILLS_ROOM_KANTO",
+      "name": "IndigoPlateauWillsRoomKanto_Layout",
+      "width": 13,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonLeague_Kanto",
+      "border_filepath": "data/layouts/IndigoPlateauWillsRoomKanto/border.bin",
+      "blockdata_filepath": "data/layouts/IndigoPlateauWillsRoomKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_INDIGO_PLATEAU_KOGAS_ROOM_KANTO",
+      "name": "IndigoPlateauKogasRoomKanto_Layout",
+      "width": 13,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonLeague_Kanto",
+      "border_filepath": "data/layouts/IndigoPlateauKogasRoomKanto/border.bin",
+      "blockdata_filepath": "data/layouts/IndigoPlateauKogasRoomKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_INDIGO_PLATEAU_KARENS_ROOM_KANTO",
+      "name": "IndigoPlateauKarensRoomKanto_Layout",
+      "width": 28,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonLeague_Kanto",
+      "border_filepath": "data/layouts/IndigoPlateauKarensRoomKanto/border.bin",
+      "blockdata_filepath": "data/layouts/IndigoPlateauKarensRoomKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE2HOUSE_KANTO",
+      "name": "Route2HouseKanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route2HouseKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route2HouseKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE4POKEMON_CENTER_KANTO",
+      "name": "Route4PokemonCenterKanto_Layout",
+      "width": 15,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/Route4PokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route4PokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE12HOUSE_KANTO",
+      "name": "Route12HouseKanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route12HouseKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route12HouseKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE26HOUSE2KANTO",
+      "name": "Route26House2Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route26House2Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route26House2Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE25BILLS_HOUSE_KANTO",
+      "name": "Route25BillsHouseKanto_Layout",
+      "width": 15,
+      "height": 11,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_SeaCottage_Kanto",
+      "border_filepath": "data/layouts/Route25BillsHouseKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route25BillsHouseKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE5HOUSE_KANTO",
+      "name": "Route5HouseKanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route5HouseKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route5HouseKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE9POKEMON_CENTER_KANTO",
+      "name": "Route9PokemonCenterKanto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/Route9PokemonCenterKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route9PokemonCenterKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE16HOUSE_KANTO",
+      "name": "Route16HouseKanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route16HouseKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route16HouseKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE26HOUSE1KANTO",
+      "name": "Route26House1Kanto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route26House1Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route26House1Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE10POWER_PLANT_BACK_ROOM_KANTO",
+      "name": "Route10PowerPlantBackRoomKanto_Layout",
+      "width": 18,
+      "height": 14,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PowerPlantGeneratorRoom_Kanto",
+      "border_filepath": "data/layouts/Route10PowerPlantBackRoomKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route10PowerPlantBackRoomKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE10POWER_PLANT_ENTRANCE_KANTO",
+      "name": "Route10PowerPlantEntranceKanto_Layout",
+      "width": 23,
+      "height": 24,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_SilphCoKanto",
+      "border_filepath": "data/layouts/Route10PowerPlantEntranceKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route10PowerPlantEntranceKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE8TUNNEL_ENTRANCE_KANTO",
+      "name": "Route8TunnelEntranceKanto_Layout",
+      "width": 27,
+      "height": 18,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GoldenrodCityUndergroundTunnel_Johto",
+      "border_filepath": "data/layouts/Route8TunnelEntranceKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route8TunnelEntranceKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE7TUNNEL_ENTRANCE_KANTO",
+      "name": "Route7TunnelEntranceKanto_Layout",
+      "width": 27,
+      "height": 18,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GoldenrodCityUndergroundTunnel_Johto",
+      "border_filepath": "data/layouts/Route7TunnelEntranceKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route7TunnelEntranceKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE6TUNNEL_ENTRANCE_KANTO",
+      "name": "Route6TunnelEntranceKanto_Layout",
+      "width": 27,
+      "height": 18,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GoldenrodCityUndergroundTunnel_Johto",
+      "border_filepath": "data/layouts/Route6TunnelEntranceKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route6TunnelEntranceKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE5TUNNEL_ENTRANCE_KANTO",
+      "name": "Route5TunnelEntranceKanto_Layout",
+      "width": 27,
+      "height": 18,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GoldenrodCityUndergroundTunnel_Johto",
+      "border_filepath": "data/layouts/Route5TunnelEntranceKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route5TunnelEntranceKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MOON_SHOP",
+      "name": "MtMoonShop_Layout",
+      "width": 10,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_House2Kanto",
+      "border_filepath": "data/layouts/MtMoonShop/border.bin",
+      "blockdata_filepath": "data/layouts/MtMoonShop/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE7TUNNEL_SW",
+      "name": "Route7TunnelSW_Layout",
+      "width": 80,
+      "height": 7,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GoldenrodCityUndergroundTunnel_Johto",
+      "border_filepath": "data/layouts/Route7TunnelSW/border.bin",
+      "blockdata_filepath": "data/layouts/Route7TunnelSW/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE5TUNNEL_NS",
+      "name": "Route5TunnelNS_Layout",
+      "width": 8,
+      "height": 41,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GoldenrodCityUndergroundTunnel_Johto",
+      "border_filepath": "data/layouts/Route5TunnelNS/border.bin",
+      "blockdata_filepath": "data/layouts/Route5TunnelNS/map.bin"
+    },
+    {
+      "id": "LAYOUT_FUCHSIA_CITY_ROUTE18GATE_KANTO",
+      "name": "FuchsiaCityRoute18GateKanto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/FuchsiaCityRoute18GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCityRoute18GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELADON_CITY_ROUTE16GATE_KANTO",
+      "name": "CeladonCityRoute16GateKanto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/CeladonCityRoute16GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeladonCityRoute16GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_ROUTE7GATE_KANTO",
+      "name": "SaffronCityRoute7GateKanto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/SaffronCityRoute7GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityRoute7GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_ROUTE5GATE_KANTO",
+      "name": "SaffronCityRoute5GateKanto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/SaffronCityRoute5GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityRoute5GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_ROUTE8GATE_KANTO",
+      "name": "SaffronCityRoute8GateKanto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/SaffronCityRoute8GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityRoute8GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_ROUTE6GATE_KANTO",
+      "name": "SaffronCityRoute6GateKanto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/SaffronCityRoute6GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCityRoute6GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE2GATE",
+      "name": "Route2Gate_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route2Gate/border.bin",
+      "blockdata_filepath": "data/layouts/Route2Gate/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_FOREST_ROUTE2GATE_KANTO",
+      "name": "ViridianForestRoute2GateKanto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/ViridianForestRoute2GateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianForestRoute2GateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE2VIRIDIAN_FOREST_GATE_KANTO",
+      "name": "Route2ViridianForestGateKanto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route2ViridianForestGateKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route2ViridianForestGateKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VICTORY_ROAD_KANTO_B1FKANTO",
+      "name": "VictoryRoadKantoB1FKanto_Layout",
+      "width": 60,
+      "height": 30,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveDefault_Kanto",
+      "border_filepath": "data/layouts/VictoryRoadKantoB1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/VictoryRoadKantoB1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VICTORY_ROAD_KANTO1FKANTO",
+      "name": "VictoryRoadKanto1FKanto_Layout",
+      "width": 50,
+      "height": 30,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveDefault_Kanto",
+      "border_filepath": "data/layouts/VictoryRoadKanto1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/VictoryRoadKanto1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VICTORY_ROAD_KANTO_B2FKANTO",
+      "name": "VictoryRoadKantoB2FKanto_Layout",
+      "width": 40,
+      "height": 50,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveDefault_Kanto",
+      "border_filepath": "data/layouts/VictoryRoadKantoB2FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/VictoryRoadKantoB2FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_FOREST_KANTO",
+      "name": "ViridianForestKanto_Layout",
+      "width": 74,
+      "height": 79,
+      "primary_tileset": "gTileset_General_Kanto",
+      "secondary_tileset": "gTileset_ViridianForest_Kanto",
+      "border_filepath": "data/layouts/ViridianForestKanto/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianForestKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MOON_OUTSIDE_KANTO",
+      "name": "MtMoonOutsideKanto_Layout",
+      "width": 49,
+      "height": 29,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CherryGroveCity_Johto",
+      "border_filepath": "data/layouts/MtMoonOutsideKanto/border.bin",
+      "blockdata_filepath": "data/layouts/MtMoonOutsideKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MOON_CAVE_KANTO",
+      "name": "MtMoonCaveKanto_Layout",
+      "width": 50,
+      "height": 40,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveMtMoon_Kanto",
+      "border_filepath": "data/layouts/MtMoonCaveKanto/border.bin",
+      "blockdata_filepath": "data/layouts/MtMoonCaveKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROCK_TUNNEL1FKANTO",
+      "name": "RockTunnel1FKanto_Layout",
+      "width": 48,
+      "height": 50,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveGray_Kanto",
+      "border_filepath": "data/layouts/RockTunnel1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/RockTunnel1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROCK_TUNNEL_B1FKANTO",
+      "name": "RockTunnelB1FKanto_Layout",
+      "width": 58,
+      "height": 40,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveGray_Kanto",
+      "border_filepath": "data/layouts/RockTunnelB1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/RockTunnelB1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CAVE1FKANTO",
+      "name": "CeruleanCave1FKanto_Layout",
+      "width": 44,
+      "height": 27,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveGreen_Kanto",
+      "border_filepath": "data/layouts/CeruleanCave1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCave1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CAVE_B2FKANTO",
+      "name": "CeruleanCaveB2FKanto_Layout",
+      "width": 42,
+      "height": 25,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveGreen_Kanto",
+      "border_filepath": "data/layouts/CeruleanCaveB2FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCaveB2FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CAVE_B1FKANTO",
+      "name": "CeruleanCaveB1FKanto_Layout",
+      "width": 42,
+      "height": 25,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveGreen_Kanto",
+      "border_filepath": "data/layouts/CeruleanCaveB1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCaveB1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_DIGLETTS_CAVE_ENTRANCE_NORTH_KANTO",
+      "name": "DiglettsCaveEntranceNorthKanto_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveSandy_Kanto",
+      "border_filepath": "data/layouts/DiglettsCaveEntranceNorthKanto/border.bin",
+      "blockdata_filepath": "data/layouts/DiglettsCaveEntranceNorthKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_DIGLETTS_CAVE_ENTRANCE_SOUTH_KANTO",
+      "name": "DiglettsCaveEntranceSouthKanto_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveSandy_Kanto",
+      "border_filepath": "data/layouts/DiglettsCaveEntranceSouthKanto/border.bin",
+      "blockdata_filepath": "data/layouts/DiglettsCaveEntranceSouthKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_DIGLETTS_CAVE_TUNNEL_KANTO",
+      "name": "DiglettsCaveTunnelKanto_Layout",
+      "width": 85,
+      "height": 80,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveSandy_Kanto",
+      "border_filepath": "data/layouts/DiglettsCaveTunnelKanto/border.bin",
+      "blockdata_filepath": "data/layouts/DiglettsCaveTunnelKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS1F",
+      "name": "SeafoamIslands1F_Layout",
+      "width": 66,
+      "height": 56,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveIce_Kanto",
+      "border_filepath": "data/layouts/SeafoamIslands1F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslands1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_GYM_KANTO",
+      "name": "SeafoamIslandsGymKanto_Layout",
+      "width": 39,
+      "height": 39,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_BlackThornCityGym_Johto",
+      "border_filepath": "data/layouts/SeafoamIslandsGymKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslandsGymKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B1FKANTO",
+      "name": "SeafoamIslandsB1FKanto_Layout",
+      "width": 66,
+      "height": 55,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveIce_Kanto",
+      "border_filepath": "data/layouts/SeafoamIslandsB1FKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslandsB1FKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_SECRET_CAVE",
+      "name": "SeafoamIslandsSecretCave_Layout",
+      "width": 35,
+      "height": 28,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_BlackThornCityGym_Johto",
+      "border_filepath": "data/layouts/SeafoamIslandsSecretCave/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslandsSecretCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE19CAVE_KANTO",
+      "name": "Route19CaveKanto_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveDefault_Kanto",
+      "border_filepath": "data/layouts/Route19CaveKanto/border.bin",
+      "blockdata_filepath": "data/layouts/Route19CaveKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_BRUSH_KANTO",
+      "name": "SafariZoneBrushKanto_Layout",
+      "width": 50,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SafariZone_Kanto",
+      "border_filepath": "data/layouts/SafariZoneBrushKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZoneBrushKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_BEACH_KANTO",
+      "name": "SafariZoneBeachKanto_Layout",
+      "width": 50,
+      "height": 46,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SafariZone_Johto",
+      "border_filepath": "data/layouts/SafariZoneBeachKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZoneBeachKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_MOUNTAIN_KANTO",
+      "name": "SafariZoneMountainKanto_Layout",
+      "width": 68,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SafariZone_Kanto",
+      "border_filepath": "data/layouts/SafariZoneMountainKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZoneMountainKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_CAVE_KANTO",
+      "name": "SafariZoneCaveKanto_Layout",
+      "width": 50,
+      "height": 30,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_WhirlIslands_Johto",
+      "border_filepath": "data/layouts/SafariZoneCaveKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZoneCaveKanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZON_ENTRANCE_KANTO",
+      "name": "SafariZonEntranceKanto_Layout",
+      "width": 15,
+      "height": 15,
+      "primary_tileset": "gTileset_Building_Kanto",
+      "secondary_tileset": "gTileset_SafariZoneEntranceKanto",
+      "border_filepath": "data/layouts/SafariZonEntranceKanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZonEntranceKanto/map.bin"
     }
   ]
 }

@@ -27,6 +27,11 @@
       "map": "MAP_ROUTE19KANTO",
       "offset": 12,
       "direction": "down"
+    },
+    {
+      "map": "MAP_SAFARI_ZONE_BEACH_KANTO",
+      "offset": 20,
+      "direction": "up"
     }
   ],
   "object_events": [],
