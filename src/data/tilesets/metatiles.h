@@ -408,3 +408,197 @@ const u16 gMetatiles_HallOfFame[] = INCBIN_U16("data/tilesets/secondary/hall_of_
 const u16 gMetatileAttributes_HallOfFame[] = INCBIN_U16("data/tilesets/secondary/hall_of_fame_frlg/metatile_attributes.bin");
 
 #endif // IS_FRLG
+
+const u16 gMetatiles_General_Kanto[] = INCBIN_U16("data/tilesets/primary/general_kanto/metatiles.bin");
+const u16 gMetatileAttributes_General_Kanto[] = INCBIN_U16("data/tilesets/primary/general_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PalletTown_Kanto[] = INCBIN_U16("data/tilesets/secondary/pallet_town_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PalletTown_Kanto[] = INCBIN_U16("data/tilesets/secondary/pallet_town_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_ViridianCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/viridian_city_kanto/metatiles.bin");
+const u16 gMetatileAttributes_ViridianCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/viridian_city_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PewterCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/pewter_city_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PewterCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/pewter_city_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CeruleanCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/cerulean_city_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CeruleanCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/cerulean_city_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_VermillionCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/vermillion_city_kanto/metatiles.bin");
+const u16 gMetatileAttributes_VermillionCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/vermillion_city_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_LavenderTown_Kanto[] = INCBIN_U16("data/tilesets/secondary/lavender_town_kanto/metatiles.bin");
+const u16 gMetatileAttributes_LavenderTown_Kanto[] = INCBIN_U16("data/tilesets/secondary/lavender_town_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CeladonCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/celadon_city_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CeladonCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/celadon_city_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_SaffronCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SaffronCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_FuchsiaCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/fuchsia_city_kanto/metatiles.bin");
+const u16 gMetatileAttributes_FuchsiaCity_Kanto[] = INCBIN_U16("data/tilesets/secondary/fuchsia_city_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CinnabarIsland_Kanto[] = INCBIN_U16("data/tilesets/secondary/cinnabar_island_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CinnabarIsland_Kanto[] = INCBIN_U16("data/tilesets/secondary/cinnabar_island_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_Route12_Kanto[] = INCBIN_U16("data/tilesets/secondary/route_12_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Route12_Kanto[] = INCBIN_U16("data/tilesets/secondary/route_12_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CyclingRoad_Kanto[] = INCBIN_U16("data/tilesets/secondary/cycling_road_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CyclingRoad_Kanto[] = INCBIN_U16("data/tilesets/secondary/cycling_road_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_IndigoPlateau_Kanto[] = INCBIN_U16("data/tilesets/secondary/indigo_plateau_kanto/metatiles.bin");
+const u16 gMetatileAttributes_IndigoPlateau_Kanto[] = INCBIN_U16("data/tilesets/secondary/indigo_plateau_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_BlackthornCity_Johto[] = INCBIN_U16("data/tilesets/secondary/blackthorn_city_johto/metatiles.bin");
+const u16 gMetatileAttributes_BlackthornCity_Johto[] = INCBIN_U16("data/tilesets/secondary/blackthorn_city_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_NewBarkTown_Johto[] = INCBIN_U16("data/tilesets/secondary/new_bark_town_johto/metatiles.bin");
+const u16 gMetatileAttributes_NewBarkTown_Johto[] = INCBIN_U16("data/tilesets/secondary/new_bark_town_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CherryGroveCity_Johto[] = INCBIN_U16("data/tilesets/secondary/cherry_grove_city_johto/metatiles.bin");
+const u16 gMetatileAttributes_CherryGroveCity_Johto[] = INCBIN_U16("data/tilesets/secondary/cherry_grove_city_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Building_Kanto[] = INCBIN_U16("data/tilesets/primary/building_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Building_Kanto[] = INCBIN_U16("data/tilesets/primary/building_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_HouseLabKanto[] = INCBIN_U16("data/tilesets/secondary/house_lab_kanto/metatiles.bin");
+const u16 gMetatileAttributes_HouseLabKanto[] = INCBIN_U16("data/tilesets/secondary/house_lab_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PlayersHouseKanto[] = INCBIN_U16("data/tilesets/secondary/players_house_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PlayersHouseKanto[] = INCBIN_U16("data/tilesets/secondary/players_house_kanto/metatile_attributes.bin");
+const u16 gMetatiles_Building_Johto[] = INCBIN_U16("data/tilesets/primary/building_johto/metatiles.bin");
+const u16 gMetatileAttributes_Building_Johto[] = INCBIN_U16("data/tilesets/primary/building_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_PokemonCenter_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_center_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PokemonCenter_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_center_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_Mart_Kanto[] = INCBIN_U16("data/tilesets/secondary/mart_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Mart_Kanto[] = INCBIN_U16("data/tilesets/secondary/mart_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_ViridianCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/viridian_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_ViridianCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/viridian_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_EcruteakCityTheater_Johto[] = INCBIN_U16("data/tilesets/secondary/ecruteak_city_theater_johto/metatiles.bin");
+const u16 gMetatileAttributes_EcruteakCityTheater_Johto[] = INCBIN_U16("data/tilesets/secondary/ecruteak_city_theater_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Museum_Kanto[] = INCBIN_U16("data/tilesets/secondary/museum_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Museum_Kanto[] = INCBIN_U16("data/tilesets/secondary/museum_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_BikeShop_Kanto[] = INCBIN_U16("data/tilesets/secondary/bike_shop_kanto/metatiles.bin");
+const u16 gMetatileAttributes_BikeShop_Kanto[] = INCBIN_U16("data/tilesets/secondary/bike_shop_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CeruleanCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/cerulean_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CeruleanCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/cerulean_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PortIndoor_Kanto[] = INCBIN_U16("data/tilesets/secondary/port_indoor_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PortIndoor_Kanto[] = INCBIN_U16("data/tilesets/secondary/port_indoor_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Johto[] = INCBIN_U16("data/tilesets/primary/general_johto/metatiles.bin");
+const u16 gMetatileAttributes_General_Johto[] = INCBIN_U16("data/tilesets/primary/general_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_VermilionCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/vermilion_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_VermilionCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/vermilion_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PokemonDayCare_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_day_care_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PokemonDayCare_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_day_care_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GoldenrodCityUndergroundRocket_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_underground_rocket_johto/metatiles.bin");
+const u16 gMetatileAttributes_GoldenrodCityUndergroundRocket_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_underground_rocket_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SoulHouse_Kanto[] = INCBIN_U16("data/tilesets/secondary/soul_house_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SoulHouse_Kanto[] = INCBIN_U16("data/tilesets/secondary/soul_house_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_FuchsiaCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/fuchsia_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_FuchsiaCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/fuchsia_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GateStandard_Kanto[] = INCBIN_U16("data/tilesets/secondary/gate_standard_kanto/metatiles.bin");
+const u16 gMetatileAttributes_GateStandard_Kanto[] = INCBIN_U16("data/tilesets/secondary/gate_standard_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GoldenrodCityTrainstation_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_trainstation_johto/metatiles.bin");
+const u16 gMetatileAttributes_GoldenrodCityTrainstation_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_trainstation_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SaffronCityFightingDojoVIP_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_fighting_dojo_vip_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SaffronCityFightingDojoVIP_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_fighting_dojo_vip_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_SaffronCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_gym_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SaffronCityGym_Kanto[] = INCBIN_U16("data/tilesets/secondary/saffron_city_gym_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_SilphCoKanto[] = INCBIN_U16("data/tilesets/secondary/silph_co_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SilphCoKanto[] = INCBIN_U16("data/tilesets/secondary/silph_co_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_Cafe_Kanto[] = INCBIN_U16("data/tilesets/secondary/cafe_kanto/metatiles.bin");
+const u16 gMetatileAttributes_Cafe_Kanto[] = INCBIN_U16("data/tilesets/secondary/cafe_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CeladonApartments_Kanto[] = INCBIN_U16("data/tilesets/secondary/celadon_apartments_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CeladonApartments_Kanto[] = INCBIN_U16("data/tilesets/secondary/celadon_apartments_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GameCorner_Kanto[] = INCBIN_U16("data/tilesets/secondary/game_corner_kanto/metatiles.bin");
+const u16 gMetatileAttributes_GameCorner_Kanto[] = INCBIN_U16("data/tilesets/secondary/game_corner_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_DepartmentStore_Kanto[] = INCBIN_U16("data/tilesets/secondary/department_store_kanto/metatiles.bin");
+const u16 gMetatileAttributes_DepartmentStore_Kanto[] = INCBIN_U16("data/tilesets/secondary/department_store_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_ShopRooftop_Kanto[] = INCBIN_U16("data/tilesets/secondary/shop_rooftop_kanto/metatiles.bin");
+const u16 gMetatileAttributes_ShopRooftop_Kanto[] = INCBIN_U16("data/tilesets/secondary/shop_rooftop_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_AzaleaTownGym_Johto[] = INCBIN_U16("data/tilesets/secondary/azalea_town_gym_johto/metatiles.bin");
+const u16 gMetatileAttributes_AzaleaTownGym_Johto[] = INCBIN_U16("data/tilesets/secondary/azalea_town_gym_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_PokemonCenterWhite_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_center_white_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PokemonCenterWhite_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_center_white_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PokemonLeague_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_league_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PokemonLeague_Kanto[] = INCBIN_U16("data/tilesets/secondary/pokemon_league_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_HallOfFame_Kanto[] = INCBIN_U16("data/tilesets/secondary/hall_of_fame_kanto/metatiles.bin");
+const u16 gMetatileAttributes_HallOfFame_Kanto[] = INCBIN_U16("data/tilesets/secondary/hall_of_fame_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_SeaCottage_Kanto[] = INCBIN_U16("data/tilesets/secondary/sea_cottage_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SeaCottage_Kanto[] = INCBIN_U16("data/tilesets/secondary/sea_cottage_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_PowerPlantGeneratorRoom_Kanto[] = INCBIN_U16("data/tilesets/secondary/power_plant_generator_room_kanto/metatiles.bin");
+const u16 gMetatileAttributes_PowerPlantGeneratorRoom_Kanto[] = INCBIN_U16("data/tilesets/secondary/power_plant_generator_room_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_GoldenrodCityUndergroundTunnel_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_underground_tunnel_johto/metatiles.bin");
+const u16 gMetatileAttributes_GoldenrodCityUndergroundTunnel_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_underground_tunnel_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_House2Kanto[] = INCBIN_U16("data/tilesets/secondary/house_2kanto/metatiles.bin");
+const u16 gMetatileAttributes_House2Kanto[] = INCBIN_U16("data/tilesets/secondary/house_2kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveDefault_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_default_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CaveDefault_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_default_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_ViridianForest_Kanto[] = INCBIN_U16("data/tilesets/secondary/viridian_forest_kanto/metatiles.bin");
+const u16 gMetatileAttributes_ViridianForest_Kanto[] = INCBIN_U16("data/tilesets/secondary/viridian_forest_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveMtMoon_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_mt_moon_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CaveMtMoon_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_mt_moon_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveGray_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_gray_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CaveGray_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_gray_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveGreen_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_green_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CaveGreen_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_green_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveSandy_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_sandy_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CaveSandy_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_sandy_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveIce_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_ice_kanto/metatiles.bin");
+const u16 gMetatileAttributes_CaveIce_Kanto[] = INCBIN_U16("data/tilesets/secondary/cave_ice_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_BlackThornCityGym_Johto[] = INCBIN_U16("data/tilesets/secondary/black_thorn_city_gym_johto/metatiles.bin");
+const u16 gMetatileAttributes_BlackThornCityGym_Johto[] = INCBIN_U16("data/tilesets/secondary/black_thorn_city_gym_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SafariZoneEntranceKanto[] = INCBIN_U16("data/tilesets/secondary/safari_zone_entrance_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SafariZoneEntranceKanto[] = INCBIN_U16("data/tilesets/secondary/safari_zone_entrance_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_SafariZone_Kanto[] = INCBIN_U16("data/tilesets/secondary/safari_zone_kanto/metatiles.bin");
+const u16 gMetatileAttributes_SafariZone_Kanto[] = INCBIN_U16("data/tilesets/secondary/safari_zone_kanto/metatile_attributes.bin");
+
+const u16 gMetatiles_SafariZone_Johto[] = INCBIN_U16("data/tilesets/secondary/safari_zone_johto/metatiles.bin");
+const u16 gMetatileAttributes_SafariZone_Johto[] = INCBIN_U16("data/tilesets/secondary/safari_zone_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_WhirlIslands_Johto[] = INCBIN_U16("data/tilesets/secondary/whirl_islands_johto/metatiles.bin");
+const u16 gMetatileAttributes_WhirlIslands_Johto[] = INCBIN_U16("data/tilesets/secondary/whirl_islands_johto/metatile_attributes.bin");

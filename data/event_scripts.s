@@ -1738,3 +1738,353 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/scripts/battle_frontier.inc"
 	.include "data/scripts/apricorn_tree.inc"
 	.include "data/scripts/wild_encounter.inc"
+
+	.include "data/maps/PalletTownKanto/scripts.inc"
+
+	.include "data/maps/ViridianCityKanto/scripts.inc"
+
+	.include "data/maps/PewterCityKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityKanto/scripts.inc"
+
+	.include "data/maps/CinnabarIslandKantoDestroyed/scripts.inc"
+
+	.include "data/maps/CeladonCityKanto/scripts.inc"
+
+	.include "data/maps/LavenderTownKanto/scripts.inc"
+
+	.include "data/maps/Route7Kanto/scripts.inc"
+
+	.include "data/maps/Route3Kanto/scripts.inc"
+
+	.include "data/maps/Route5Kanto/scripts.inc"
+
+	.include "data/maps/Route11Kanto/scripts.inc"
+
+	.include "data/maps/Route8Kanto/scripts.inc"
+
+	.include "data/maps/Route1Kanto/scripts.inc"
+
+	.include "data/maps/Route2Kanto/scripts.inc"
+
+	.include "data/maps/Route6Kanto/scripts.inc"
+
+	.include "data/maps/Route4Kanto/scripts.inc"
+
+	.include "data/maps/Route9Kanto/scripts.inc"
+
+	.include "data/maps/Route10Kanto/scripts.inc"
+
+	.include "data/maps/Route12Kanto/scripts.inc"
+
+	.include "data/maps/Route21Kanto/scripts.inc"
+
+	.include "data/maps/Route19Kanto/scripts.inc"
+
+	.include "data/maps/Route15Kanto/scripts.inc"
+
+	.include "data/maps/Route18Kanto/scripts.inc"
+
+	.include "data/maps/Route24Kanto/scripts.inc"
+
+	.include "data/maps/Route16Kanto/scripts.inc"
+
+	.include "data/maps/Route25Kanto/scripts.inc"
+
+	.include "data/maps/Route17Kanto/scripts.inc"
+
+	.include "data/maps/Route14Kanto/scripts.inc"
+
+	.include "data/maps/Route20Kanto/scripts.inc"
+
+	.include "data/maps/Route22Kanto/scripts.inc"
+
+	.include "data/maps/Route23Kanto/scripts.inc"
+
+	.include "data/maps/Route13Kanto/scripts.inc"
+
+	.include "data/maps/Route27Kanto/scripts.inc"
+
+	.include "data/maps/Route28Kanto/scripts.inc"
+
+	.include "data/maps/Route26Kanto/scripts.inc"
+
+	.include "data/maps/Route26NorthKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauKanto/scripts.inc"
+
+	.include "data/maps/MtMoonKanto/scripts.inc"
+
+	.include "data/maps/PalletTownLabKanto/scripts.inc"
+
+	.include "data/maps/PalletTownRedsHouse1Kanto/scripts.inc"
+
+	.include "data/maps/PalletTownRedsHouse2Kanto/scripts.inc"
+
+	.include "data/maps/PalletTownHouse2/scripts.inc"
+
+	.include "data/maps/PalletTownHouse3/scripts.inc"
+
+	.include "data/maps/ViridianCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/ViridianCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/ViridianCityGymKanto/scripts.inc"
+
+	.include "data/maps/ViridianCityMartKanto/scripts.inc"
+
+	.include "data/maps/ViridianCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/PewterCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/PewterCityMartKanto/scripts.inc"
+
+	.include "data/maps/PewterCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/PewterCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/PewterCityMuseum2FKanto/scripts.inc"
+
+	.include "data/maps/PewterCityGymKanto/scripts.inc"
+
+	.include "data/maps/PewterCityMuseum1FKanto/scripts.inc"
+
+	.include "data/maps/CinnabarIslandPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityMartKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityHouse3Kanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityBikeShopKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityGymKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/VermilionCityGymKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/VermilionCityPokemonDayCareKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityPortIndoorKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityHouse3Kanto/scripts.inc"
+
+	.include "data/maps/VermilionCityMartKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityPortOutside/scripts.inc"
+
+	.include "data/maps/VermilionCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/VermilionCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/LavenderTownHouse3Kanto/scripts.inc"
+
+	.include "data/maps/LavenderTownRadioStationKanto/scripts.inc"
+
+	.include "data/maps/LavenderTownPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/LavenderTownHouse2Kanto/scripts.inc"
+
+	.include "data/maps/LavenderTownHouse1Kanto/scripts.inc"
+
+	.include "data/maps/LavenderTownMartKanto/scripts.inc"
+
+	.include "data/maps/LavenderTownSoulHouseKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityGymKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityRoute15GateKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityRoute19GateKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityMartKanto/scripts.inc"
+
+	.include "data/maps/FuchsiaCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/SaffronCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityMartKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityTrainStationKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityGymKanto/scripts.inc"
+
+	.include "data/maps/SaffronCitySilphCoKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityFightingDojoVIPKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityFightingDojoKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityCopyCatsHouse2FKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/SaffronCityCopyCatsHouse1FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityHouse1Kanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore5FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore2FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartments2FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartmentsRoofDayKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartments1FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityGameCornerKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore4FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStoreRoofDayKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore1FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStore3FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartmentsRoofHouseKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartmentsRoofNightKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityApartments3FKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityHouse2Kanto/scripts.inc"
+
+	.include "data/maps/CeladonCityDepartmentStoreRoofNightKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityGymKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauPokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauHallOfFameKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauKogasRoomKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauChampionsRoomKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauWillsRoomKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauKarensRoomKanto/scripts.inc"
+
+	.include "data/maps/IndigoPlateauBrunosRoomKanto/scripts.inc"
+
+	.include "data/maps/Route5HouseKanto/scripts.inc"
+
+	.include "data/maps/Route25BillsHouseKanto/scripts.inc"
+
+	.include "data/maps/Route26House1Kanto/scripts.inc"
+
+	.include "data/maps/Route26House2Kanto/scripts.inc"
+
+	.include "data/maps/Route16HouseKanto/scripts.inc"
+
+	.include "data/maps/Route2HouseKanto/scripts.inc"
+
+	.include "data/maps/Route12HouseKanto/scripts.inc"
+
+	.include "data/maps/Route4PokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/Route9PokemonCenterKanto/scripts.inc"
+
+	.include "data/maps/Route10PowerPlantEntranceKanto/scripts.inc"
+
+	.include "data/maps/Route10PowerPlantBackRoomKanto/scripts.inc"
+
+	.include "data/maps/Route7TunnelEntranceKanto/scripts.inc"
+
+	.include "data/maps/Route8TunnelEntranceKanto/scripts.inc"
+
+	.include "data/maps/Route5TunnelEntranceKanto/scripts.inc"
+
+	.include "data/maps/Route6TunnelEntranceKanto/scripts.inc"
+
+	.include "data/maps/MtMoonShop/scripts.inc"
+
+	.include "data/maps/Route5TunnelNS/scripts.inc"
+
+	.include "data/maps/Route7TunnelSW/scripts.inc"
+
+	.include "data/maps/FuchsiaCityRoute18GateKanto/scripts.inc"
+
+	.include "data/maps/CeladonCityRoute16GateKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityRoute6GateKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityRoute8GateKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityRoute5GateKanto/scripts.inc"
+
+	.include "data/maps/SaffronCityRoute7GateKanto/scripts.inc"
+
+	.include "data/maps/Route2Gate/scripts.inc"
+
+	.include "data/maps/Route2ViridianForestGateKanto/scripts.inc"
+
+	.include "data/maps/ViridianForestRoute2GateKanto/scripts.inc"
+
+	.include "data/maps/VictoryRoadKantoB1FKanto/scripts.inc"
+
+	.include "data/maps/VictoryRoadKanto1FKanto/scripts.inc"
+
+	.include "data/maps/VictoryRoadKantoB2FKanto/scripts.inc"
+
+	.include "data/maps/ViridianForestKanto/scripts.inc"
+
+	.include "data/maps/MtMoonOutsideKanto/scripts.inc"
+
+	.include "data/maps/MtMoonCaveKanto/scripts.inc"
+
+	.include "data/maps/RockTunnelB1FKanto/scripts.inc"
+
+	.include "data/maps/RockTunnel1FKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCave1FKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCaveB2FKanto/scripts.inc"
+
+	.include "data/maps/CeruleanCaveB1FKanto/scripts.inc"
+
+	.include "data/maps/DiglettsCaveTunnelKanto/scripts.inc"
+
+	.include "data/maps/DiglettsCaveEntranceSouthKanto/scripts.inc"
+
+	.include "data/maps/DiglettsCaveEntranceNorthKanto/scripts.inc"
+
+	.include "data/maps/SeafoamIslandsSecretCave/scripts.inc"
+
+	.include "data/maps/SeafoamIslands1F/scripts.inc"
+
+	.include "data/maps/SeafoamIslandsB1FKanto/scripts.inc"
+
+	.include "data/maps/SeafoamIslandsGymKanto/scripts.inc"
+
+	.include "data/maps/Route19CaveKanto/scripts.inc"
+
+	.include "data/maps/SafariZonEntranceKanto/scripts.inc"
+
+	.include "data/maps/SafariZoneBrushKanto/scripts.inc"
+
+	.include "data/maps/SafariZoneCaveKanto/scripts.inc"
+
+	.include "data/maps/SafariZoneBeachKanto/scripts.inc"
+
+	.include "data/maps/SafariZoneMountainKanto/scripts.inc"
