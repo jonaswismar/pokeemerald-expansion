@@ -671,3 +671,21 @@ const u16 gMetatileAttributes_GoldenrodCityUndergroundStorage_Johto[] = INCBIN_U
 
 const u16 gMetatiles_BikeShop_Johto[] = INCBIN_U16("data/tilesets/secondary/bike_shop_johto/metatiles.bin");
 const u16 gMetatileAttributes_BikeShop_Johto[] = INCBIN_U16("data/tilesets/secondary/bike_shop_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Lighthouse_Johto[] = INCBIN_U16("data/tilesets/secondary/lighthouse_johto/metatiles.bin");
+const u16 gMetatileAttributes_Lighthouse_Johto[] = INCBIN_U16("data/tilesets/secondary/lighthouse_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CianwoodCityGym_Johto[] = INCBIN_U16("data/tilesets/secondary/cianwood_city_gym_johto/metatiles.bin");
+const u16 gMetatileAttributes_CianwoodCityGym_Johto[] = INCBIN_U16("data/tilesets/secondary/cianwood_city_gym_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SootopolisGym_Johto[] = INCBIN_U16("data/tilesets/secondary/sootopolis_gym_johto/metatiles.bin");
+const u16 gMetatileAttributes_SootopolisGym_Johto[] = INCBIN_U16("data/tilesets/secondary/sootopolis_gym_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_RuinsOfAlphWriting_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_writing_johto/metatiles.bin");
+const u16 gMetatileAttributes_RuinsOfAlphWriting_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_writing_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_RuinsOfAlph_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_johto/metatiles.bin");
+const u16 gMetatileAttributes_RuinsOfAlph_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_IlexForest_Johto[] = INCBIN_U16("data/tilesets/secondary/ilex_forest_johto/metatiles.bin");
+const u16 gMetatileAttributes_IlexForest_Johto[] = INCBIN_U16("data/tilesets/secondary/ilex_forest_johto/metatile_attributes.bin");

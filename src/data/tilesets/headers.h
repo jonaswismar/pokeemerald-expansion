@@ -2509,3 +2509,69 @@ const struct Tileset gTileset_BikeShop_Johto =
     .metatileAttributes = gMetatileAttributes_BikeShop_Johto,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Lighthouse_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Lighthouse_Johto,
+    .palettes = gTilesetPalettes_Lighthouse_Johto,
+    .metatiles = gMetatiles_Lighthouse_Johto,
+    .metatileAttributes = gMetatileAttributes_Lighthouse_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_CianwoodCityGym_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_CianwoodCityGym_Johto,
+    .palettes = gTilesetPalettes_CianwoodCityGym_Johto,
+    .metatiles = gMetatiles_CianwoodCityGym_Johto,
+    .metatileAttributes = gMetatileAttributes_CianwoodCityGym_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_SootopolisGym_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_SootopolisGym_Johto,
+    .palettes = gTilesetPalettes_SootopolisGym_Johto,
+    .metatiles = gMetatiles_SootopolisGym_Johto,
+    .metatileAttributes = gMetatileAttributes_SootopolisGym_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_RuinsOfAlphWriting_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_RuinsOfAlphWriting_Johto,
+    .palettes = gTilesetPalettes_RuinsOfAlphWriting_Johto,
+    .metatiles = gMetatiles_RuinsOfAlphWriting_Johto,
+    .metatileAttributes = gMetatileAttributes_RuinsOfAlphWriting_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_RuinsOfAlph_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_RuinsOfAlph_Johto,
+    .palettes = gTilesetPalettes_RuinsOfAlph_Johto,
+    .metatiles = gMetatiles_RuinsOfAlph_Johto,
+    .metatileAttributes = gMetatileAttributes_RuinsOfAlph_Johto,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_IlexForest_Johto =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_IlexForest_Johto,
+    .palettes = gTilesetPalettes_IlexForest_Johto,
+    .metatiles = gMetatiles_IlexForest_Johto,
+    .metatileAttributes = gMetatileAttributes_IlexForest_Johto,
+    .callback = NULL,
+};

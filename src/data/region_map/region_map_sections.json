@@ -1766,6 +1766,30 @@
     {
       "id": "MAPSEC_RUINS_OF_ALPH",
       "name": "RUINS OF ALPH"
+    },
+    {
+      "id": "MAPSEC_NATIONAL_PARK",
+      "name": "NATIONAL PARK"
+    },
+    {
+      "id": "MAPSEC_MT_SILVER",
+      "name": "MT SILVER"
+    },
+    {
+      "id": "MAPSEC_SAFARI_ZONE_GATE",
+      "name": "SAFARI ZONE GATE"
+    },
+    {
+      "id": "MAPSEC_DARK_CAVE",
+      "name": "DARK CAVE"
+    },
+    {
+      "id": "MAPSEC_SPROUT_TOWER",
+      "name": "SPROUT TOWER"
+    },
+    {
+      "id": "MAPSEC_ILEX_FOREST",
+      "name": "ILEX FOREST"
     }
   ]
 }

@@ -11933,6 +11933,736 @@
       "secondary_tileset": "gTileset_DepartmentStore_Kanto",
       "border_filepath": "data/layouts/GoldenrodCityDepartmentStore5FJohto/border.bin",
       "blockdata_filepath": "data/layouts/GoldenrodCityDepartmentStore5FJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY_MART_JOHTO",
+      "name": "EcruteakCityMartJohto_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Mart_Johto",
+      "border_filepath": "data/layouts/EcruteakCityMartJohto/border.bin",
+      "blockdata_filepath": "data/layouts/EcruteakCityMartJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY_SAGE_OFFICE1JOHTO",
+      "name": "EcruteakCitySageOffice1Johto_Layout",
+      "width": 19,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_EcruteakCityTheater_Johto",
+      "border_filepath": "data/layouts/EcruteakCitySageOffice1Johto/border.bin",
+      "blockdata_filepath": "data/layouts/EcruteakCitySageOffice1Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY_THEATER_JOHTO",
+      "name": "EcruteakCityTheaterJohto_Layout",
+      "width": 21,
+      "height": 19,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_EcruteakCityTheater_Johto",
+      "border_filepath": "data/layouts/EcruteakCityTheaterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/EcruteakCityTheaterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY_HOUSE1JOHTO",
+      "name": "EcruteakCityHouse1Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/EcruteakCityHouse1Johto/border.bin",
+      "blockdata_filepath": "data/layouts/EcruteakCityHouse1Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY_GYM_JOHTO",
+      "name": "EcruteakCityGymJohto_Layout",
+      "width": 17,
+      "height": 48,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_EcruteakCityGym_Johto",
+      "border_filepath": "data/layouts/EcruteakCityGymJohto/border.bin",
+      "blockdata_filepath": "data/layouts/EcruteakCityGymJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY_SAGE_OFFICE2JOHTO",
+      "name": "EcruteakCitySageOffice2Johto_Layout",
+      "width": 10,
+      "height": 17,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_EcruteakCityTheater_Johto",
+      "border_filepath": "data/layouts/EcruteakCitySageOffice2Johto/border.bin",
+      "blockdata_filepath": "data/layouts/EcruteakCitySageOffice2Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY_HOUSE2JOHTO",
+      "name": "EcruteakCityHouse2Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/EcruteakCityHouse2Johto/border.bin",
+      "blockdata_filepath": "data/layouts/EcruteakCityHouse2Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY_POKEMON_CENTER_JOHTO",
+      "name": "EcruteakCityPokemonCenterJohto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/EcruteakCityPokemonCenterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/EcruteakCityPokemonCenterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_HOUSE3JOHTO",
+      "name": "OlivineCityHouse3Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/OlivineCityHouse3Johto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityHouse3Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_CAFE_JOHTO",
+      "name": "OlivineCityCafeJohto_Layout",
+      "width": 8,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Cafe_Kanto",
+      "border_filepath": "data/layouts/OlivineCityCafeJohto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityCafeJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_GYM_JOHTO",
+      "name": "OlivineCityGymJohto_Layout",
+      "width": 17,
+      "height": 22,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_EcruteakCityTheater_Johto",
+      "border_filepath": "data/layouts/OlivineCityGymJohto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityGymJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_HOUSE1JOHTO",
+      "name": "OlivineCityHouse1Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/OlivineCityHouse1Johto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityHouse1Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_MART_JOHTO",
+      "name": "OlivineCityMartJohto_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Mart_Johto",
+      "border_filepath": "data/layouts/OlivineCityMartJohto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityMartJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_POKEMON_CENTER_JOHTO",
+      "name": "OlivineCityPokemonCenterJohto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/OlivineCityPokemonCenterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityPokemonCenterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_LIGHTHOUSE_JOHTO",
+      "name": "OlivineCityLighthouseJohto_Layout",
+      "width": 170,
+      "height": 20,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Lighthouse_Johto",
+      "border_filepath": "data/layouts/OlivineCityLighthouseJohto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityLighthouseJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_HOUSE2JOHTO",
+      "name": "OlivineCityHouse2Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/OlivineCityHouse2Johto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityHouse2Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY_PORT_INDOOR_JOHTO",
+      "name": "OlivineCityPortIndoorJohto_Layout",
+      "width": 18,
+      "height": 28,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_PortIndoor_Kanto",
+      "border_filepath": "data/layouts/OlivineCityPortIndoorJohto/border.bin",
+      "blockdata_filepath": "data/layouts/OlivineCityPortIndoorJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIANWOOD_CITY_HOUSE1JOHTO",
+      "name": "CianwoodCityHouse1Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/CianwoodCityHouse1Johto/border.bin",
+      "blockdata_filepath": "data/layouts/CianwoodCityHouse1Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIANWOOD_CITY_HOUSE2JOHTO",
+      "name": "CianwoodCityHouse2Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/CianwoodCityHouse2Johto/border.bin",
+      "blockdata_filepath": "data/layouts/CianwoodCityHouse2Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIANWOOD_CITY_POKEMON_CENTER_JOHTO",
+      "name": "CianwoodCityPokemonCenterJohto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/CianwoodCityPokemonCenterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/CianwoodCityPokemonCenterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIANWOOD_CITY_BIKE_SHOP_JOHTO",
+      "name": "CianwoodCityBikeShopJohto_Layout",
+      "width": 16,
+      "height": 15,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_BikeShop_Kanto",
+      "border_filepath": "data/layouts/CianwoodCityBikeShopJohto/border.bin",
+      "blockdata_filepath": "data/layouts/CianwoodCityBikeShopJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIANWOOD_CITY_HOUSE3JOHTO",
+      "name": "CianwoodCityHouse3Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/CianwoodCityHouse3Johto/border.bin",
+      "blockdata_filepath": "data/layouts/CianwoodCityHouse3Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIANWOOD_CITY_GYM_JOHTO",
+      "name": "CianwoodCityGymJohto_Layout",
+      "width": 21,
+      "height": 17,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_CianwoodCityGym_Johto",
+      "border_filepath": "data/layouts/CianwoodCityGymJohto/border.bin",
+      "blockdata_filepath": "data/layouts/CianwoodCityGymJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAHOGANY_TOWN_SHOP_JOHTO",
+      "name": "MahoganyTownShopJohto_Layout",
+      "width": 10,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_House2Kanto",
+      "border_filepath": "data/layouts/MahoganyTownShopJohto/border.bin",
+      "blockdata_filepath": "data/layouts/MahoganyTownShopJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAHOGANY_TOWN_GYM_JOHTO",
+      "name": "MahoganyTownGymJohto_Layout",
+      "width": 25,
+      "height": 30,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_SootopolisGym_Johto",
+      "border_filepath": "data/layouts/MahoganyTownGymJohto/border.bin",
+      "blockdata_filepath": "data/layouts/MahoganyTownGymJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAHOGANY_TOWN_HOUUSE1JOHTO",
+      "name": "MahoganyTownHouuse1Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/MahoganyTownHouuse1Johto/border.bin",
+      "blockdata_filepath": "data/layouts/MahoganyTownHouuse1Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAHOGANY_TOWN_POKEMON_CENTER_JOHTO",
+      "name": "MahoganyTownPokemonCenterJohto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/MahoganyTownPokemonCenterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/MahoganyTownPokemonCenterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAKE_OF_RAGE_HOUSE1JOHTO",
+      "name": "LakeOfRageHouse1Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/LakeOfRageHouse1Johto/border.bin",
+      "blockdata_filepath": "data/layouts/LakeOfRageHouse1Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAKE_OF_RAGE_HOUSE2JOHTO",
+      "name": "LakeOfRageHouse2Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/LakeOfRageHouse2Johto/border.bin",
+      "blockdata_filepath": "data/layouts/LakeOfRageHouse2Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_BLACKTHORN_CITY_GYM_JOHTO",
+      "name": "BlackthornCityGymJohto_Layout",
+      "width": 41,
+      "height": 60,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_BlackThornCityGym_Johto",
+      "border_filepath": "data/layouts/BlackthornCityGymJohto/border.bin",
+      "blockdata_filepath": "data/layouts/BlackthornCityGymJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_BLACKTHORN_CITY_MART_JOHTO",
+      "name": "BlackthornCityMartJohto_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Mart_Johto",
+      "border_filepath": "data/layouts/BlackthornCityMartJohto/border.bin",
+      "blockdata_filepath": "data/layouts/BlackthornCityMartJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_BLACKTHORN_CITY_HOUSE2JOHTO",
+      "name": "BlackthornCityHouse2Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/BlackthornCityHouse2Johto/border.bin",
+      "blockdata_filepath": "data/layouts/BlackthornCityHouse2Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_BLACKTHORN_CITY_HOUSE3JOHTO",
+      "name": "BlackthornCityHouse3Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/BlackthornCityHouse3Johto/border.bin",
+      "blockdata_filepath": "data/layouts/BlackthornCityHouse3Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_BLACKTHORN_CITY_HOUSE1JOHTO",
+      "name": "BlackthornCityHouse1Johto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/BlackthornCityHouse1Johto/border.bin",
+      "blockdata_filepath": "data/layouts/BlackthornCityHouse1Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_BLACKTHORN_CITY_POKEMON_CENTER_JOHTO",
+      "name": "BlackthornCityPokemonCenterJohto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/BlackthornCityPokemonCenterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/BlackthornCityPokemonCenterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE31VIOLET_CITY_GATE_JOHTO",
+      "name": "Route31VioletCityGateJohto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route31VioletCityGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route31VioletCityGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE29ROUTE46GATE_JOHTO",
+      "name": "Route29Route46GateJohto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route29Route46GateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route29Route46GateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE36RUINS_OF_ALPH_JOHTO",
+      "name": "Route36RuinsOfAlphJohto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route36RuinsOfAlphJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route36RuinsOfAlphJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE32RUINS_OF_ALPH_JOHTO",
+      "name": "Route32RuinsOfAlphJohto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route32RuinsOfAlphJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route32RuinsOfAlphJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE28HOUSE_JOHTO",
+      "name": "Route28HouseJohto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route28HouseJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route28HouseJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE27HOUSE_JOHTO",
+      "name": "Route27HouseJohto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route27HouseJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route27HouseJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE30HOUSE",
+      "name": "Route30House_Layout",
+      "width": 11,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route30House/border.bin",
+      "blockdata_filepath": "data/layouts/Route30House/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE30MR_POKEMONS_HOUSE_JOHTO",
+      "name": "Route30MrPokemonsHouseJohto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route30MrPokemonsHouseJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route30MrPokemonsHouseJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE34DAY_CARE_JOHTO",
+      "name": "Route34DayCareJohto_Layout",
+      "width": 14,
+      "height": 11,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonDayCare_Kanto",
+      "border_filepath": "data/layouts/Route34DayCareJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route34DayCareJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE32POKEMON_CENTER_JOHTO",
+      "name": "Route32PokemonCenterJohto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/Route32PokemonCenterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route32PokemonCenterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE34ILEX_FOREST_GATE_JOHTO",
+      "name": "Route34IlexForestGateJohto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route34IlexForestGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route34IlexForestGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE35GOLDENROD_CITY_GATE_JOHTO",
+      "name": "Route35GoldenrodCityGateJohto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route35GoldenrodCityGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route35GoldenrodCityGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE38ECRUTEAK_CITY_GATE_JOHTO",
+      "name": "Route38EcruteakCityGateJohto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route38EcruteakCityGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route38EcruteakCityGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE39BARN",
+      "name": "Route39Barn_Layout",
+      "width": 17,
+      "height": 22,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_Barn_Johto",
+      "border_filepath": "data/layouts/Route39Barn/border.bin",
+      "blockdata_filepath": "data/layouts/Route39Barn/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE39FARM_HOUSE_JOHTO",
+      "name": "Route39FarmHouseJohto_Layout",
+      "width": 13,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/Route39FarmHouseJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route39FarmHouseJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE40TRAINER_HILL_COURTYARD_JOHTO",
+      "name": "Route40TrainerHillCourtyardJohto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route40TrainerHillCourtyardJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route40TrainerHillCourtyardJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE42ECRUTEAK_CITY_GATE_JOHTO",
+      "name": "Route42EcruteakCityGateJohto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route42EcruteakCityGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route42EcruteakCityGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE43GATE_JOHTO",
+      "name": "Route43GateJohto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route43GateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route43GateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE43MAHOGANY_TOWN_GATE_JOHTO",
+      "name": "Route43MahoganyTownGateJohto_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/Route43MahoganyTownGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/Route43MahoganyTownGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_AZALEA_TOWN_ILEX_FOREST_GATE_JOHTO",
+      "name": "AzaleaTownIlexForestGateJohto_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/AzaleaTownIlexForestGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/AzaleaTownIlexForestGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_NATIONAL_PARK_GATE_JOHTO",
+      "name": "NationalParkGateJohto_Layout",
+      "width": 50,
+      "height": 18,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_GateStandard_Kanto",
+      "border_filepath": "data/layouts/NationalParkGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/NationalParkGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_SILVER_POKEMON_CENTER_JOHTO",
+      "name": "MtSilverPokemonCenterJohto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenterWhite_Kanto",
+      "border_filepath": "data/layouts/MtSilverPokemonCenterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/MtSilverPokemonCenterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_RECEPTION_GATE",
+      "name": "ReceptionGate_Layout",
+      "width": 22,
+      "height": 21,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenterWhite_Kanto",
+      "border_filepath": "data/layouts/ReceptionGate/border.bin",
+      "blockdata_filepath": "data/layouts/ReceptionGate/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUINS_OF_ALPH_LAB_JOHTO",
+      "name": "RuinsOfAlphLabJohto_Layout",
+      "width": 10,
+      "height": 9,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_HouseLabKanto",
+      "border_filepath": "data/layouts/RuinsOfAlphLabJohto/border.bin",
+      "blockdata_filepath": "data/layouts/RuinsOfAlphLabJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_ENTRANCE_SAFARI_ZONE_GATE_JOHTO",
+      "name": "SafariZoneEntranceSafariZoneGateJohto_Layout",
+      "width": 19,
+      "height": 15,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_SafariZoneEntranceKanto",
+      "border_filepath": "data/layouts/SafariZoneEntranceSafariZoneGateJohto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZoneEntranceSafariZoneGateJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_GATE_POKEMON_CENTER_JOHTO",
+      "name": "SafariZoneGatePokemonCenterJohto_Layout",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PokemonCenter_Kanto",
+      "border_filepath": "data/layouts/SafariZoneGatePokemonCenterJohto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZoneGatePokemonCenterJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_DARK_CAVE_NORTH_SIDE_JOHTO",
+      "name": "DarkCaveNorthSideJohto_Layout",
+      "width": 57,
+      "height": 44,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveDefault_Kanto",
+      "border_filepath": "data/layouts/DarkCaveNorthSideJohto/border.bin",
+      "blockdata_filepath": "data/layouts/DarkCaveNorthSideJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_DARK_CAVE_SOUTH_SIDE_JOHTO",
+      "name": "DarkCaveSouthSideJohto_Layout",
+      "width": 78,
+      "height": 50,
+      "primary_tileset": "gTileset_General_Johto",
+      "secondary_tileset": "gTileset_CaveDefault_Kanto",
+      "border_filepath": "data/layouts/DarkCaveSouthSideJohto/border.bin",
+      "blockdata_filepath": "data/layouts/DarkCaveSouthSideJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPROUT_TOWER1FJOHTO",
+      "name": "SproutTower1FJohto_Layout",
+      "width": 25,
+      "height": 25,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PowerPlantGeneratorRoom_Kanto",
+      "border_filepath": "data/layouts/SproutTower1FJohto/border.bin",
+      "blockdata_filepath": "data/layouts/SproutTower1FJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPROUT_TOWER3FJOHTO",
+      "name": "SproutTower3FJohto_Layout",
+      "width": 25,
+      "height": 25,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PowerPlantGeneratorRoom_Kanto",
+      "border_filepath": "data/layouts/SproutTower3FJohto/border.bin",
+      "blockdata_filepath": "data/layouts/SproutTower3FJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPROUT_TOWER2FJOHTO",
+      "name": "SproutTower2FJohto_Layout",
+      "width": 25,
+      "height": 25,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_PowerPlantGeneratorRoom_Kanto",
+      "border_filepath": "data/layouts/SproutTower2FJohto/border.bin",
+      "blockdata_filepath": "data/layouts/SproutTower2FJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUINS_OF_ALPH_WORDS_ROOM2JOHTO",
+      "name": "RuinsOfAlphWordsRoom2Johto_Layout",
+      "width": 20,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_RuinsOfAlphWriting_Johto",
+      "border_filepath": "data/layouts/RuinsOfAlphWordsRoom2Johto/border.bin",
+      "blockdata_filepath": "data/layouts/RuinsOfAlphWordsRoom2Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUINS_OF_ALPH_WORDS_ROOM4JOHTO",
+      "name": "RuinsOfAlphWordsRoom4Johto_Layout",
+      "width": 20,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_RuinsOfAlphWriting_Johto",
+      "border_filepath": "data/layouts/RuinsOfAlphWordsRoom4Johto/border.bin",
+      "blockdata_filepath": "data/layouts/RuinsOfAlphWordsRoom4Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUINS_OF_ALPH_B1FJOHTO",
+      "name": "RuinsOfAlphB1FJohto_Layout",
+      "width": 29,
+      "height": 32,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_RuinsOfAlph_Johto",
+      "border_filepath": "data/layouts/RuinsOfAlphB1FJohto/border.bin",
+      "blockdata_filepath": "data/layouts/RuinsOfAlphB1FJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUINS_OF_ALPH_WORDS_ROOM1JOHTO",
+      "name": "RuinsOfAlphWordsRoom1Johto_Layout",
+      "width": 20,
+      "height": 17,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_RuinsOfAlphWriting_Johto",
+      "border_filepath": "data/layouts/RuinsOfAlphWordsRoom1Johto/border.bin",
+      "blockdata_filepath": "data/layouts/RuinsOfAlphWordsRoom1Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUINS_OF_ALPH_WORDS_ROOM3JOHTO",
+      "name": "RuinsOfAlphWordsRoom3Johto_Layout",
+      "width": 20,
+      "height": 13,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_RuinsOfAlphWriting_Johto",
+      "border_filepath": "data/layouts/RuinsOfAlphWordsRoom3Johto/border.bin",
+      "blockdata_filepath": "data/layouts/RuinsOfAlphWordsRoom3Johto/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUINS_OF_ALPH_PUZZLE_AND_REWARD_CHAMBERS_JOHTO",
+      "name": "RuinsOfAlphPuzzleAndRewardChambersJohto_Layout",
+      "width": 26,
+      "height": 69,
+      "primary_tileset": "gTileset_Building_Johto",
+      "secondary_tileset": "gTileset_RuinsOfAlphWriting_Johto",
+      "border_filepath": "data/layouts/RuinsOfAlphPuzzleAndRewardChambersJohto/border.bin",
+      "blockdata_filepath": "data/layouts/RuinsOfAlphPuzzleAndRewardChambersJohto/map.bin"
+    },
+    {
+      "id": "LAYOUT_ILEX_FOREST_JOHTO",
+      "name": "IlexForestJohto_Layout",
+      "width": 82,
+      "height": 73,
+      "primary_tileset": "gTileset_General_Johto_South",
+      "secondary_tileset": "gTileset_IlexForest_Johto",
+      "border_filepath": "data/layouts/IlexForestJohto/border.bin",
+      "blockdata_filepath": "data/layouts/IlexForestJohto/map.bin"
     }
   ]
 }
