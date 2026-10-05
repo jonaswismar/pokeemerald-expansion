@@ -17,6 +17,11 @@
       "map": "MAP_ROUTE26NORTH_KANTO",
       "offset": 29,
       "direction": "right"
+    },
+    {
+      "map": "MAP_MT_SILVER_OUTSIDE_JOHTO",
+      "offset": -6,
+      "direction": "left"
     }
   ],
   "object_events": [],

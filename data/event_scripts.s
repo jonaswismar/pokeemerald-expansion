@@ -2406,3 +2406,167 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/RuinsOfAlphPuzzleAndRewardChambersJohto/scripts.inc"
 
 	.include "data/maps/IlexForestJohto/scripts.inc"
+
+	.include "data/maps/UnionCaveB1FJohto/scripts.inc"
+
+	.include "data/maps/UnionCave1FJohto/scripts.inc"
+
+	.include "data/maps/UnionCaveB2FJohto/scripts.inc"
+
+	.include "data/maps/SlowpokeWellB2FJohto/scripts.inc"
+
+	.include "data/maps/SlowpokeWellB1FJohto/scripts.inc"
+
+	.include "data/maps/NationalParkBugContestJohto/scripts.inc"
+
+	.include "data/maps/NationalParkNormalJohto/scripts.inc"
+
+	.include "data/maps/BurnedTower1FJohto/scripts.inc"
+
+	.include "data/maps/BurnedTowerB1FJohto/scripts.inc"
+
+	.include "data/maps/CliffEdgeGateJohto/scripts.inc"
+
+	.include "data/maps/MtMortar1FNorthJohto/scripts.inc"
+
+	.include "data/maps/MtMortarB1FJohto/scripts.inc"
+
+	.include "data/maps/MtMortar2FJohto/scripts.inc"
+
+	.include "data/maps/MtMortar1FSouthJohto/scripts.inc"
+
+	.include "data/maps/IcePath1FJohto/scripts.inc"
+
+	.include "data/maps/IcePathB1FJohto/scripts.inc"
+
+	.include "data/maps/IcePathB3FJohto/scripts.inc"
+
+	.include "data/maps/IcePathB2FJohto/scripts.inc"
+
+	.include "data/maps/IcePathB4FJohto/scripts.inc"
+
+	.include "data/maps/CliffEdgeCaveJohto/scripts.inc"
+
+	.include "data/maps/DragonsDenEntranceJohto/scripts.inc"
+
+	.include "data/maps/DragonsDenShrineJohto/scripts.inc"
+
+	.include "data/maps/DragonsDenCavernJohto/scripts.inc"
+
+	.include "data/maps/TohjoFallsCavernJohto/scripts.inc"
+
+	.include "data/maps/TohjoFallsGiovanniRoomJohto/scripts.inc"
+
+	.include "data/maps/EmbeddedTowerJohto/scripts.inc"
+
+	.include "data/maps/MtSilverOutsideJohto/scripts.inc"
+
+	.include "data/maps/MtSilver1FWaterfallRoomJohto/scripts.inc"
+
+	.include "data/maps/MtSilver1FItemRoomJohto/scripts.inc"
+
+	.include "data/maps/MtSilver1FMoltresRoomJohto/scripts.inc"
+
+	.include "data/maps/MtSilverSnowJohto/scripts.inc"
+
+	.include "data/maps/MtSilverSummitDayJohto/scripts.inc"
+
+	.include "data/maps/MtSilver2FJohto/scripts.inc"
+
+	.include "data/maps/MtSilverSummitNightJohto/scripts.inc"
+
+	.include "data/maps/MtSilverMountainSideJohto/scripts.inc"
+
+	.include "data/maps/MtSilver3FJohto/scripts.inc"
+
+	.include "data/maps/RocketHideoutB1FJohto/scripts.inc"
+
+	.include "data/maps/RocketHideoutB2FJohto/scripts.inc"
+
+	.include "data/maps/RocketHideoutB3FJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslands1FJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB1FJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsLugiaChamberJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsDescentJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB1FInnerJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB3FJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB2FJohto/scripts.inc"
+
+	.include "data/maps/TinTower1FJohto/scripts.inc"
+
+	.include "data/maps/TinTower2FJohto/scripts.inc"
+
+	.include "data/maps/TinTower4FJohto/scripts.inc"
+
+	.include "data/maps/TinTower6FJohto/scripts.inc"
+
+	.include "data/maps/TinTower5FJohto/scripts.inc"
+
+	.include "data/maps/TinTower8FJohto/scripts.inc"
+
+	.include "data/maps/TinTower9FJohto/scripts.inc"
+
+	.include "data/maps/TinTower7FJohto/scripts.inc"
+
+	.include "data/maps/TinTower3FJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomSSEJohto/scripts.inc"
+
+	.include "data/maps/SSAquaB1FJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomSSWJohto/scripts.inc"
+
+	.include "data/maps/SSAqua1FJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomNEJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomSWJohto/scripts.inc"
+
+	.include "data/maps/SSAquaPlayersRoomJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomNNEJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomSEJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomNWJohto/scripts.inc"
+
+	.include "data/maps/SSAquaCaptainsRoomJohto_hns/scripts.inc"
+
+	.include "data/maps/SafariZoneLowMidJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneEnteranceJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneLowLeftJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneLowRightJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneTopRightJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneTopMidJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneTopLeftJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneGateJohto/scripts.inc"
+
+	.include "data/maps/SafariZone1Other/scripts.inc"
+
+	.include "data/maps/SafariZone2Other/scripts.inc"
+
+	.include "data/maps/SafariZone3Other/scripts.inc"
+
+	.include "data/maps/PoniIslandAlola/scripts.inc"
+
+	.include "data/maps/MelemeleIslandAlola/scripts.inc"
+
+	.include "data/maps/AkalaIslandAlola/scripts.inc"
+
+	.include "data/maps/UlaulaIslandAlola/scripts.inc"
+
+	.include "data/maps/AlolaWaterAlola/scripts.inc"

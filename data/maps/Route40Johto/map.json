@@ -22,6 +22,11 @@
       "map": "MAP_ROUTE41JOHTO",
       "offset": -25,
       "direction": "down"
+    },
+    {
+      "map": "MAP_TRAINER_HILL_COURTYARD_JOHTO",
+      "offset": -2,
+      "direction": "up"
     }
   ],
   "object_events": [],

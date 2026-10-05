@@ -689,3 +689,30 @@ const u16 gMetatileAttributes_RuinsOfAlph_Johto[] = INCBIN_U16("data/tilesets/se
 
 const u16 gMetatiles_IlexForest_Johto[] = INCBIN_U16("data/tilesets/secondary/ilex_forest_johto/metatiles.bin");
 const u16 gMetatileAttributes_IlexForest_Johto[] = INCBIN_U16("data/tilesets/secondary/ilex_forest_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_NationalPark_Johto[] = INCBIN_U16("data/tilesets/secondary/national_park_johto/metatiles.bin");
+const u16 gMetatileAttributes_NationalPark_Johto[] = INCBIN_U16("data/tilesets/secondary/national_park_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_BurnedTower_Johto[] = INCBIN_U16("data/tilesets/secondary/burned_tower_johto/metatiles.bin");
+const u16 gMetatileAttributes_BurnedTower_Johto[] = INCBIN_U16("data/tilesets/secondary/burned_tower_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveIce_Johto[] = INCBIN_U16("data/tilesets/secondary/cave_ice_johto/metatiles.bin");
+const u16 gMetatileAttributes_CaveIce_Johto[] = INCBIN_U16("data/tilesets/secondary/cave_ice_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveDragonsDen_Johto[] = INCBIN_U16("data/tilesets/secondary/cave_dragons_den_johto/metatiles.bin");
+const u16 gMetatileAttributes_CaveDragonsDen_Johto[] = INCBIN_U16("data/tilesets/secondary/cave_dragons_den_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_DragonsDenShrine_Johto[] = INCBIN_U16("data/tilesets/secondary/dragons_den_shrine_johto/metatiles.bin");
+const u16 gMetatileAttributes_DragonsDenShrine_Johto[] = INCBIN_U16("data/tilesets/secondary/dragons_den_shrine_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_MtSilverSnow_Johto[] = INCBIN_U16("data/tilesets/secondary/mt_silver_snow_johto/metatiles.bin");
+const u16 gMetatileAttributes_MtSilverSnow_Johto[] = INCBIN_U16("data/tilesets/secondary/mt_silver_snow_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SSAqua_Johto[] = INCBIN_U16("data/tilesets/secondary/ssaqua_johto/metatiles.bin");
+const u16 gMetatileAttributes_SSAqua_Johto[] = INCBIN_U16("data/tilesets/secondary/ssaqua_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Alola[] = INCBIN_U16("data/tilesets/primary/general_alola/metatiles.bin");
+const u16 gMetatileAttributes_General_Alola[] = INCBIN_U16("data/tilesets/primary/general_alola/metatile_attributes.bin");
+
+const u16 gMetatiles_Islands_Alola[] = INCBIN_U16("data/tilesets/secondary/islands_alola/metatiles.bin");
+const u16 gMetatileAttributes_Islands_Alola[] = INCBIN_U16("data/tilesets/secondary/islands_alola/metatile_attributes.bin");
