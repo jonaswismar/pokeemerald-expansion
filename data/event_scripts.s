@@ -2570,3 +2570,73 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/UlaulaIslandAlola/scripts.inc"
 
 	.include "data/maps/AlolaWaterAlola/scripts.inc"
+
+	.include "data/maps/AkalaForestAlola/scripts.inc"
+
+	.include "data/maps/AkalaHouseAlola/scripts.inc"
+
+	.include "data/maps/AkalaCaveAlola/scripts.inc"
+
+	.include "data/maps/UlaulaHouse/scripts.inc"
+
+	.include "data/maps/MelemeleHouse3Alola/scripts.inc"
+
+	.include "data/maps/PoniCaveAlola/scripts.inc"
+
+	.include "data/maps/MelemeleHouse5Alola/scripts.inc"
+
+	.include "data/maps/UlaulaCave2/scripts.inc"
+
+	.include "data/maps/MelemeleHouse4Alola/scripts.inc"
+
+	.include "data/maps/MelemelePlayersHouseAlola/scripts.inc"
+
+	.include "data/maps/MelemelePokemonCenterAlola/scripts.inc"
+
+	.include "data/maps/UlaulaCave/scripts.inc"
+
+	.include "data/maps/UlaulaForestAlola/scripts.inc"
+
+	.include "data/maps/MelemeleHouse6Alola/scripts.inc"
+
+	.include "data/maps/MelemeleMartAlola/scripts.inc"
+
+	.include "data/maps/Route49Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohSinjoh/scripts.inc"
+
+	.include "data/maps/Route50Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHotspringsSinjoh/scripts.inc"
+
+	.include "data/maps/SnowsweptCavernSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsSinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohPokemonCenterSinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHouse2Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHouse1Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHouse4Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHouse3Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohKimonoHideoutSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsTempleSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegigigasRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsArceusRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegirockRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegiiceRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegielekiRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegisteelRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegidracoRoomSinjoh/scripts.inc"

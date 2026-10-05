@@ -106,7 +106,13 @@
     "gMapGroup_IndoorRoutesJohto",
     "gMapGroup_SpecialAreaOther",
     "gMapGroup_TownAndRoutesAlola",
-    "gMapGroup_IndoorAlola"
+    "gMapGroup_IndoorAlola",
+    "gMapGroup_SpecialAreaAlola",
+    "gMapGroup_TownsAndRoutesSinjoh",
+    "gMapGroup_SpecialAreaSinjoh",
+    "gMapGroup_DungeonsSinjoh",
+    "gMapGroup_IndoorNewSinjohSinjoh",
+    "gMapGroup_IndoorSinjohRuinsSinjoh"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1671,5 +1677,53 @@
     "UlaulaIslandAlola",
     "AlolaWaterAlola"
   ],
-  "gMapGroup_IndoorAlola": []
+  "gMapGroup_IndoorAlola": [
+    "AkalaHouseAlola",
+    "UlaulaHouse",
+    "MelemelePlayersHouseAlola",
+    "MelemelePokemonCenterAlola",
+    "MelemeleMartAlola",
+    "MelemeleHouse3Alola",
+    "MelemeleHouse4Alola",
+    "MelemeleHouse5Alola",
+    "MelemeleHouse6Alola"
+  ],
+  "gMapGroup_SpecialAreaAlola": [
+    "AkalaForestAlola",
+    "AkalaCaveAlola",
+    "PoniCaveAlola",
+    "UlaulaCave",
+    "UlaulaForestAlola",
+    "UlaulaCave2"
+  ],
+  "gMapGroup_TownsAndRoutesSinjoh": [
+    "Route49Sinjoh",
+    "Route50Sinjoh",
+    "NewSinjohSinjoh"
+  ],
+  "gMapGroup_SpecialAreaSinjoh": [
+    "SinjohRuinsSinjoh"
+  ],
+  "gMapGroup_DungeonsSinjoh": [
+    "NewSinjohHotspringsSinjoh",
+    "SnowsweptCavernSinjoh"
+  ],
+  "gMapGroup_IndoorNewSinjohSinjoh": [
+    "NewSinjohPokemonCenterSinjoh",
+    "NewSinjohHouse1Sinjoh",
+    "NewSinjohHouse2Sinjoh",
+    "NewSinjohHouse3Sinjoh",
+    "NewSinjohHouse4Sinjoh",
+    "NewSinjohKimonoHideoutSinjoh"
+  ],
+  "gMapGroup_IndoorSinjohRuinsSinjoh": [
+    "SinjohRuinsTempleSinjoh",
+    "SinjohRuinsRegirockRoomSinjoh",
+    "SinjohRuinsRegiiceRoomSinjoh",
+    "SinjohRuinsRegisteelRoomSinjoh",
+    "SinjohRuinsRegidracoRoomSinjoh",
+    "SinjohRuinsRegielekiRoomSinjoh",
+    "SinjohRuinsRegigigasRoomSinjoh",
+    "SinjohRuinsArceusRoomSinjoh"
+  ]
 }

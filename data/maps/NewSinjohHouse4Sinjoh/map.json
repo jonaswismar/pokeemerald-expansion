@@ -1,0 +1,20 @@
+{
+  "id": "MAP_NEW_SINJOH_HOUSE4SINJOH",
+  "name": "NewSinjohHouse4Sinjoh",
+  "layout": "LAYOUT_NEW_SINJOH_HOUSE4SINJOH",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_NEW_SINJOH",
+  "requires_flash": false,
+  "weather": "WEATHER_SHADE",
+  "map_type": "MAP_TYPE_INDOOR",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": false,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}
