@@ -17,6 +17,11 @@
       "map": "MAP_ROUTE26KANTO",
       "offset": -42,
       "direction": "right"
+    },
+    {
+      "map": "MAP_NEW_BARK_TOWN_JOHTO",
+      "offset": 11,
+      "direction": "left"
     }
   ],
   "object_events": [],

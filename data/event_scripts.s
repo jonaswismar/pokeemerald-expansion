@@ -2088,3 +2088,555 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/SafariZoneBeachKanto/scripts.inc"
 
 	.include "data/maps/SafariZoneMountainKanto/scripts.inc"
+
+	.include "data/maps/NewBarkTownJohto/scripts.inc"
+
+	.include "data/maps/VioletCityJohto/scripts.inc"
+
+	.include "data/maps/AzaleaTownJohto/scripts.inc"
+
+	.include "data/maps/CherrygroveCityJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityJohto/scripts.inc"
+
+	.include "data/maps/EcruteakCityJohto/scripts.inc"
+
+	.include "data/maps/OlivineCityJohto/scripts.inc"
+
+	.include "data/maps/CianwoodCityJohto/scripts.inc"
+
+	.include "data/maps/BlackthornCityJohto/scripts.inc"
+
+	.include "data/maps/MahoganyTownJohto/scripts.inc"
+
+	.include "data/maps/Route29Johto/scripts.inc"
+
+	.include "data/maps/Route30Johto/scripts.inc"
+
+	.include "data/maps/Route32Johto/scripts.inc"
+
+	.include "data/maps/Route33Johto/scripts.inc"
+
+	.include "data/maps/Route31Johto/scripts.inc"
+
+	.include "data/maps/Route44Johto/scripts.inc"
+
+	.include "data/maps/Route34Johto/scripts.inc"
+
+	.include "data/maps/Route35Johto/scripts.inc"
+
+	.include "data/maps/Route36Johto/scripts.inc"
+
+	.include "data/maps/Route27Johto/scripts.inc"
+
+	.include "data/maps/Route38Johto/scripts.inc"
+
+	.include "data/maps/Route41Johto/scripts.inc"
+
+	.include "data/maps/Route39Johto/scripts.inc"
+
+	.include "data/maps/Route40Johto/scripts.inc"
+
+	.include "data/maps/Route43Johto/scripts.inc"
+
+	.include "data/maps/Route42Johto/scripts.inc"
+
+	.include "data/maps/Route45Johto/scripts.inc"
+
+	.include "data/maps/Route48Johto/scripts.inc"
+
+	.include "data/maps/Route47Johto/scripts.inc"
+
+	.include "data/maps/Route46Johto/scripts.inc"
+
+	.include "data/maps/OlivineCityPortJohto/scripts.inc"
+
+	.include "data/maps/TrainerHillCourtyardJohto/scripts.inc"
+
+	.include "data/maps/BellchimeTrailJohto/scripts.inc"
+
+	.include "data/maps/LakeOfRageJohto/scripts.inc"
+
+	.include "data/maps/LakeOfRageLowTideJohto/scripts.inc"
+
+	.include "data/maps/RuinsOfAlphOutsideJohto/scripts.inc"
+
+	.include "data/maps/NewBarkTownPlayersHouse1FJohto/scripts.inc"
+
+	.include "data/maps/NewBarkTownHouse1Johto/scripts.inc"
+
+	.include "data/maps/NewBarkTownHouse2Johto/scripts.inc"
+
+	.include "data/maps/NewBarkTownLabJohto/scripts.inc"
+
+	.include "data/maps/NewBarkTownPlayersHouse2FJohto/scripts.inc"
+
+	.include "data/maps/CherrygroveCityPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/CherrygroveCityHouse1Johto/scripts.inc"
+
+	.include "data/maps/CherrygroveCityHouse3Johto/scripts.inc"
+
+	.include "data/maps/CherrygroveCityMartJohto/scripts.inc"
+
+	.include "data/maps/CherrygroveCityHouse2Johto/scripts.inc"
+
+	.include "data/maps/VioletCityHouse1Johto/scripts.inc"
+
+	.include "data/maps/VioletCityHouse2Johto/scripts.inc"
+
+	.include "data/maps/VioletCityGymJohto/scripts.inc"
+
+	.include "data/maps/VioletCityPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/VioletCityTrainerSchoolJohto/scripts.inc"
+
+	.include "data/maps/VioletCityMartJohto/scripts.inc"
+
+	.include "data/maps/AzaleaTownPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/AzaleaTownHouse1Johto/scripts.inc"
+
+	.include "data/maps/AzaleaTownMartJohto/scripts.inc"
+
+	.include "data/maps/AzaleaTownGymJohto/scripts.inc"
+
+	.include "data/maps/AzaleaTownKurtsHouseJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityUndergroundEntranceJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityUndergroundStorageJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityUndergroundSwitchesJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityUndergroundTunnelJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityFlowerShopJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityHouse3Johto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityHouse1Johto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityGymJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityHouse2Johto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityBikeShopJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityGameCornerJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityTrainstationJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityBillsHouseJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityRadioTower5FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityRadioTower4FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityRadioTower1FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityRadioTower3FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityRadioTower2FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStore6FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStore3FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStore1FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStore7FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStore2FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStore5FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStore7FNightJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStore4FJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStoreElevatorJohto/scripts.inc"
+
+	.include "data/maps/GoldenrodCityDepartmentStoreBasementJohto/scripts.inc"
+
+	.include "data/maps/EcruteakCitySageOffice2Johto/scripts.inc"
+
+	.include "data/maps/EcruteakCitySageOffice1Johto/scripts.inc"
+
+	.include "data/maps/EcruteakCityMartJohto/scripts.inc"
+
+	.include "data/maps/EcruteakCityHouse1Johto/scripts.inc"
+
+	.include "data/maps/EcruteakCityTheaterJohto/scripts.inc"
+
+	.include "data/maps/EcruteakCityPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/EcruteakCityHouse2Johto/scripts.inc"
+
+	.include "data/maps/EcruteakCityGymJohto/scripts.inc"
+
+	.include "data/maps/OlivineCityMartJohto/scripts.inc"
+
+	.include "data/maps/OlivineCityGymJohto/scripts.inc"
+
+	.include "data/maps/OlivineCityLighthouseJohto/scripts.inc"
+
+	.include "data/maps/OlivineCityHouse2Johto/scripts.inc"
+
+	.include "data/maps/OlivineCityCafeJohto/scripts.inc"
+
+	.include "data/maps/OlivineCityHouse1Johto/scripts.inc"
+
+	.include "data/maps/OlivineCityHouse3Johto/scripts.inc"
+
+	.include "data/maps/OlivineCityPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/OlivineCityPortIndoorJohto/scripts.inc"
+
+	.include "data/maps/CianwoodCityPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/CianwoodCityBikeShopJohto/scripts.inc"
+
+	.include "data/maps/CianwoodCityGymJohto/scripts.inc"
+
+	.include "data/maps/CianwoodCityHouse2Johto/scripts.inc"
+
+	.include "data/maps/CianwoodCityHouse1Johto/scripts.inc"
+
+	.include "data/maps/CianwoodCityHouse3Johto/scripts.inc"
+
+	.include "data/maps/MahoganyTownGymJohto/scripts.inc"
+
+	.include "data/maps/MahoganyTownShopJohto/scripts.inc"
+
+	.include "data/maps/MahoganyTownPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/MahoganyTownHouuse1Johto/scripts.inc"
+
+	.include "data/maps/LakeOfRageHouse2Johto/scripts.inc"
+
+	.include "data/maps/LakeOfRageHouse1Johto/scripts.inc"
+
+	.include "data/maps/BlackthornCityPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/BlackthornCityHouse2Johto/scripts.inc"
+
+	.include "data/maps/BlackthornCityGymJohto/scripts.inc"
+
+	.include "data/maps/BlackthornCityMartJohto/scripts.inc"
+
+	.include "data/maps/BlackthornCityHouse3Johto/scripts.inc"
+
+	.include "data/maps/BlackthornCityHouse1Johto/scripts.inc"
+
+	.include "data/maps/Route29Route46GateJohto/scripts.inc"
+
+	.include "data/maps/Route31VioletCityGateJohto/scripts.inc"
+
+	.include "data/maps/Route36RuinsOfAlphJohto/scripts.inc"
+
+	.include "data/maps/Route32RuinsOfAlphJohto/scripts.inc"
+
+	.include "data/maps/Route27HouseJohto/scripts.inc"
+
+	.include "data/maps/Route30House/scripts.inc"
+
+	.include "data/maps/Route28HouseJohto/scripts.inc"
+
+	.include "data/maps/Route30MrPokemonsHouseJohto/scripts.inc"
+
+	.include "data/maps/Route34DayCareJohto/scripts.inc"
+
+	.include "data/maps/Route34IlexForestGateJohto/scripts.inc"
+
+	.include "data/maps/Route32PokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/Route35GoldenrodCityGateJohto/scripts.inc"
+
+	.include "data/maps/Route39Barn/scripts.inc"
+
+	.include "data/maps/Route39FarmHouseJohto/scripts.inc"
+
+	.include "data/maps/Route38EcruteakCityGateJohto/scripts.inc"
+
+	.include "data/maps/Route40TrainerHillCourtyardJohto/scripts.inc"
+
+	.include "data/maps/Route42EcruteakCityGateJohto/scripts.inc"
+
+	.include "data/maps/Route43MahoganyTownGateJohto/scripts.inc"
+
+	.include "data/maps/Route43GateJohto/scripts.inc"
+
+	.include "data/maps/NationalParkGateJohto/scripts.inc"
+
+	.include "data/maps/AzaleaTownIlexForestGateJohto/scripts.inc"
+
+	.include "data/maps/MtSilverPokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/ReceptionGate/scripts.inc"
+
+	.include "data/maps/RuinsOfAlphLabJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneEntranceSafariZoneGateJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneGatePokemonCenterJohto/scripts.inc"
+
+	.include "data/maps/DarkCaveNorthSideJohto/scripts.inc"
+
+	.include "data/maps/DarkCaveSouthSideJohto/scripts.inc"
+
+	.include "data/maps/SproutTower2FJohto/scripts.inc"
+
+	.include "data/maps/SproutTower3FJohto/scripts.inc"
+
+	.include "data/maps/SproutTower1FJohto/scripts.inc"
+
+	.include "data/maps/RuinsOfAlphWordsRoom2Johto/scripts.inc"
+
+	.include "data/maps/RuinsOfAlphB1FJohto/scripts.inc"
+
+	.include "data/maps/RuinsOfAlphWordsRoom4Johto/scripts.inc"
+
+	.include "data/maps/RuinsOfAlphWordsRoom1Johto/scripts.inc"
+
+	.include "data/maps/RuinsOfAlphWordsRoom3Johto/scripts.inc"
+
+	.include "data/maps/RuinsOfAlphPuzzleAndRewardChambersJohto/scripts.inc"
+
+	.include "data/maps/IlexForestJohto/scripts.inc"
+
+	.include "data/maps/UnionCaveB1FJohto/scripts.inc"
+
+	.include "data/maps/UnionCave1FJohto/scripts.inc"
+
+	.include "data/maps/UnionCaveB2FJohto/scripts.inc"
+
+	.include "data/maps/SlowpokeWellB2FJohto/scripts.inc"
+
+	.include "data/maps/SlowpokeWellB1FJohto/scripts.inc"
+
+	.include "data/maps/NationalParkBugContestJohto/scripts.inc"
+
+	.include "data/maps/NationalParkNormalJohto/scripts.inc"
+
+	.include "data/maps/BurnedTower1FJohto/scripts.inc"
+
+	.include "data/maps/BurnedTowerB1FJohto/scripts.inc"
+
+	.include "data/maps/CliffEdgeGateJohto/scripts.inc"
+
+	.include "data/maps/MtMortar1FNorthJohto/scripts.inc"
+
+	.include "data/maps/MtMortarB1FJohto/scripts.inc"
+
+	.include "data/maps/MtMortar2FJohto/scripts.inc"
+
+	.include "data/maps/MtMortar1FSouthJohto/scripts.inc"
+
+	.include "data/maps/IcePath1FJohto/scripts.inc"
+
+	.include "data/maps/IcePathB1FJohto/scripts.inc"
+
+	.include "data/maps/IcePathB3FJohto/scripts.inc"
+
+	.include "data/maps/IcePathB2FJohto/scripts.inc"
+
+	.include "data/maps/IcePathB4FJohto/scripts.inc"
+
+	.include "data/maps/CliffEdgeCaveJohto/scripts.inc"
+
+	.include "data/maps/DragonsDenEntranceJohto/scripts.inc"
+
+	.include "data/maps/DragonsDenShrineJohto/scripts.inc"
+
+	.include "data/maps/DragonsDenCavernJohto/scripts.inc"
+
+	.include "data/maps/TohjoFallsCavernJohto/scripts.inc"
+
+	.include "data/maps/TohjoFallsGiovanniRoomJohto/scripts.inc"
+
+	.include "data/maps/EmbeddedTowerJohto/scripts.inc"
+
+	.include "data/maps/MtSilverOutsideJohto/scripts.inc"
+
+	.include "data/maps/MtSilver1FWaterfallRoomJohto/scripts.inc"
+
+	.include "data/maps/MtSilver1FItemRoomJohto/scripts.inc"
+
+	.include "data/maps/MtSilver1FMoltresRoomJohto/scripts.inc"
+
+	.include "data/maps/MtSilverSnowJohto/scripts.inc"
+
+	.include "data/maps/MtSilverSummitDayJohto/scripts.inc"
+
+	.include "data/maps/MtSilver2FJohto/scripts.inc"
+
+	.include "data/maps/MtSilverSummitNightJohto/scripts.inc"
+
+	.include "data/maps/MtSilverMountainSideJohto/scripts.inc"
+
+	.include "data/maps/MtSilver3FJohto/scripts.inc"
+
+	.include "data/maps/RocketHideoutB1FJohto/scripts.inc"
+
+	.include "data/maps/RocketHideoutB2FJohto/scripts.inc"
+
+	.include "data/maps/RocketHideoutB3FJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslands1FJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB1FJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsLugiaChamberJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsDescentJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB1FInnerJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB3FJohto/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB2FJohto/scripts.inc"
+
+	.include "data/maps/TinTower1FJohto/scripts.inc"
+
+	.include "data/maps/TinTower2FJohto/scripts.inc"
+
+	.include "data/maps/TinTower4FJohto/scripts.inc"
+
+	.include "data/maps/TinTower6FJohto/scripts.inc"
+
+	.include "data/maps/TinTower5FJohto/scripts.inc"
+
+	.include "data/maps/TinTower8FJohto/scripts.inc"
+
+	.include "data/maps/TinTower9FJohto/scripts.inc"
+
+	.include "data/maps/TinTower7FJohto/scripts.inc"
+
+	.include "data/maps/TinTower3FJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomSSEJohto/scripts.inc"
+
+	.include "data/maps/SSAquaB1FJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomSSWJohto/scripts.inc"
+
+	.include "data/maps/SSAqua1FJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomNEJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomSWJohto/scripts.inc"
+
+	.include "data/maps/SSAquaPlayersRoomJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomNNEJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomSEJohto/scripts.inc"
+
+	.include "data/maps/SSAquaRoomNWJohto/scripts.inc"
+
+	.include "data/maps/SSAquaCaptainsRoomJohto_hns/scripts.inc"
+
+	.include "data/maps/SafariZoneLowMidJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneEnteranceJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneLowLeftJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneLowRightJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneTopRightJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneTopMidJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneTopLeftJohto/scripts.inc"
+
+	.include "data/maps/SafariZoneGateJohto/scripts.inc"
+
+	.include "data/maps/SafariZone1Other/scripts.inc"
+
+	.include "data/maps/SafariZone2Other/scripts.inc"
+
+	.include "data/maps/SafariZone3Other/scripts.inc"
+
+	.include "data/maps/PoniIslandAlola/scripts.inc"
+
+	.include "data/maps/MelemeleIslandAlola/scripts.inc"
+
+	.include "data/maps/AkalaIslandAlola/scripts.inc"
+
+	.include "data/maps/UlaulaIslandAlola/scripts.inc"
+
+	.include "data/maps/AlolaWaterAlola/scripts.inc"
+
+	.include "data/maps/AkalaForestAlola/scripts.inc"
+
+	.include "data/maps/AkalaHouseAlola/scripts.inc"
+
+	.include "data/maps/AkalaCaveAlola/scripts.inc"
+
+	.include "data/maps/UlaulaHouse/scripts.inc"
+
+	.include "data/maps/MelemeleHouse3Alola/scripts.inc"
+
+	.include "data/maps/PoniCaveAlola/scripts.inc"
+
+	.include "data/maps/MelemeleHouse5Alola/scripts.inc"
+
+	.include "data/maps/UlaulaCave2/scripts.inc"
+
+	.include "data/maps/MelemeleHouse4Alola/scripts.inc"
+
+	.include "data/maps/MelemelePlayersHouseAlola/scripts.inc"
+
+	.include "data/maps/MelemelePokemonCenterAlola/scripts.inc"
+
+	.include "data/maps/UlaulaCave/scripts.inc"
+
+	.include "data/maps/UlaulaForestAlola/scripts.inc"
+
+	.include "data/maps/MelemeleHouse6Alola/scripts.inc"
+
+	.include "data/maps/MelemeleMartAlola/scripts.inc"
+
+	.include "data/maps/Route49Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohSinjoh/scripts.inc"
+
+	.include "data/maps/Route50Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHotspringsSinjoh/scripts.inc"
+
+	.include "data/maps/SnowsweptCavernSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsSinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohPokemonCenterSinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHouse2Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHouse1Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHouse4Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohHouse3Sinjoh/scripts.inc"
+
+	.include "data/maps/NewSinjohKimonoHideoutSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsTempleSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegigigasRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsArceusRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegirockRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegiiceRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegielekiRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegisteelRoomSinjoh/scripts.inc"
+
+	.include "data/maps/SinjohRuinsRegidracoRoomSinjoh/scripts.inc"

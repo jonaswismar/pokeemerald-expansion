@@ -1,0 +1,31 @@
+{
+  "id": "MAP_PONI_ISLAND_ALOLA",
+  "name": "PoniIslandAlola",
+  "layout": "LAYOUT_PONI_ISLAND_ALOLA",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_PONI_ISLAND",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_MELEMELE_ISLAND_ALOLA",
+      "offset": 30,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_ALOLA_WATER_ALOLA",
+      "offset": 0,
+      "direction": "right"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

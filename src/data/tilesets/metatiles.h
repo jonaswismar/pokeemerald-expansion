@@ -602,3 +602,132 @@ const u16 gMetatileAttributes_SafariZone_Johto[] = INCBIN_U16("data/tilesets/sec
 
 const u16 gMetatiles_WhirlIslands_Johto[] = INCBIN_U16("data/tilesets/secondary/whirl_islands_johto/metatiles.bin");
 const u16 gMetatileAttributes_WhirlIslands_Johto[] = INCBIN_U16("data/tilesets/secondary/whirl_islands_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_VioletCity_Johto[] = INCBIN_U16("data/tilesets/secondary/violet_city_johto/metatiles.bin");
+const u16 gMetatileAttributes_VioletCity_Johto[] = INCBIN_U16("data/tilesets/secondary/violet_city_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_AzaleaTown_Johto[] = INCBIN_U16("data/tilesets/secondary/azalea_town_johto/metatiles.bin");
+const u16 gMetatileAttributes_AzaleaTown_Johto[] = INCBIN_U16("data/tilesets/secondary/azalea_town_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Johto_South[] = INCBIN_U16("data/tilesets/primary/general_johto_south/metatiles.bin");
+const u16 gMetatileAttributes_General_Johto_South[] = INCBIN_U16("data/tilesets/primary/general_johto_south/metatile_attributes.bin");
+
+const u16 gMetatiles_GoldenrodCity_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_johto/metatiles.bin");
+const u16 gMetatileAttributes_GoldenrodCity_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Johto_NorthWest[] = INCBIN_U16("data/tilesets/primary/general_johto_north_west/metatiles.bin");
+const u16 gMetatileAttributes_General_Johto_NorthWest[] = INCBIN_U16("data/tilesets/primary/general_johto_north_west/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Johto_NorthEast[] = INCBIN_U16("data/tilesets/primary/general_johto_north_east/metatiles.bin");
+const u16 gMetatileAttributes_General_Johto_NorthEast[] = INCBIN_U16("data/tilesets/primary/general_johto_north_east/metatile_attributes.bin");
+
+const u16 gMetatiles_EcruteakCity_Johto[] = INCBIN_U16("data/tilesets/secondary/ecruteak_city_johto/metatiles.bin");
+const u16 gMetatileAttributes_EcruteakCity_Johto[] = INCBIN_U16("data/tilesets/secondary/ecruteak_city_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_EcruteakCityGym_Johto[] = INCBIN_U16("data/tilesets/secondary/ecruteak_city_gym_johto/metatiles.bin");
+const u16 gMetatileAttributes_EcruteakCityGym_Johto[] = INCBIN_U16("data/tilesets/secondary/ecruteak_city_gym_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_OlivineCity_Johto[] = INCBIN_U16("data/tilesets/secondary/olivine_city_johto/metatiles.bin");
+const u16 gMetatileAttributes_OlivineCity_Johto[] = INCBIN_U16("data/tilesets/secondary/olivine_city_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CianwoodCity_Johto[] = INCBIN_U16("data/tilesets/secondary/cianwood_city_johto/metatiles.bin");
+const u16 gMetatileAttributes_CianwoodCity_Johto[] = INCBIN_U16("data/tilesets/secondary/cianwood_city_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_MahoganyTown_Johto[] = INCBIN_U16("data/tilesets/secondary/mahogany_town_johto/metatiles.bin");
+const u16 gMetatileAttributes_MahoganyTown_Johto[] = INCBIN_U16("data/tilesets/secondary/mahogany_town_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Route32_Johto[] = INCBIN_U16("data/tilesets/secondary/route_32_johto/metatiles.bin");
+const u16 gMetatileAttributes_Route32_Johto[] = INCBIN_U16("data/tilesets/secondary/route_32_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Route38_Farmlands_Johto[] = INCBIN_U16("data/tilesets/secondary/route_38_farmlands_johto/metatiles.bin");
+const u16 gMetatileAttributes_Route38_Farmlands_Johto[] = INCBIN_U16("data/tilesets/secondary/route_38_farmlands_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Route40_Johto[] = INCBIN_U16("data/tilesets/secondary/route_40_johto/metatiles.bin");
+const u16 gMetatileAttributes_Route40_Johto[] = INCBIN_U16("data/tilesets/secondary/route_40_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_TrainerHillCourtyard_Johto[] = INCBIN_U16("data/tilesets/secondary/trainer_hill_courtyard_johto/metatiles.bin");
+const u16 gMetatileAttributes_TrainerHillCourtyard_Johto[] = INCBIN_U16("data/tilesets/secondary/trainer_hill_courtyard_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_BellchimeTraiil_Johto[] = INCBIN_U16("data/tilesets/secondary/bellchime_traiil_johto/metatiles.bin");
+const u16 gMetatileAttributes_BellchimeTraiil_Johto[] = INCBIN_U16("data/tilesets/secondary/bellchime_traiil_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_RuinsOfAlphOutside_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_outside_johto/metatiles.bin");
+const u16 gMetatileAttributes_RuinsOfAlphOutside_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_outside_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Mart_Johto[] = INCBIN_U16("data/tilesets/secondary/mart_johto/metatiles.bin");
+const u16 gMetatileAttributes_Mart_Johto[] = INCBIN_U16("data/tilesets/secondary/mart_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_TrainerSchool_Johto[] = INCBIN_U16("data/tilesets/secondary/trainer_school_johto/metatiles.bin");
+const u16 gMetatileAttributes_TrainerSchool_Johto[] = INCBIN_U16("data/tilesets/secondary/trainer_school_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_KurtsHouse_Johto[] = INCBIN_U16("data/tilesets/secondary/kurts_house_johto/metatiles.bin");
+const u16 gMetatileAttributes_KurtsHouse_Johto[] = INCBIN_U16("data/tilesets/secondary/kurts_house_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Barn_Johto[] = INCBIN_U16("data/tilesets/secondary/barn_johto/metatiles.bin");
+const u16 gMetatileAttributes_Barn_Johto[] = INCBIN_U16("data/tilesets/secondary/barn_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_GoldenrodCityUndergroundStorage_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_underground_storage_johto/metatiles.bin");
+const u16 gMetatileAttributes_GoldenrodCityUndergroundStorage_Johto[] = INCBIN_U16("data/tilesets/secondary/goldenrod_city_underground_storage_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_BikeShop_Johto[] = INCBIN_U16("data/tilesets/secondary/bike_shop_johto/metatiles.bin");
+const u16 gMetatileAttributes_BikeShop_Johto[] = INCBIN_U16("data/tilesets/secondary/bike_shop_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_Lighthouse_Johto[] = INCBIN_U16("data/tilesets/secondary/lighthouse_johto/metatiles.bin");
+const u16 gMetatileAttributes_Lighthouse_Johto[] = INCBIN_U16("data/tilesets/secondary/lighthouse_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CianwoodCityGym_Johto[] = INCBIN_U16("data/tilesets/secondary/cianwood_city_gym_johto/metatiles.bin");
+const u16 gMetatileAttributes_CianwoodCityGym_Johto[] = INCBIN_U16("data/tilesets/secondary/cianwood_city_gym_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SootopolisGym_Johto[] = INCBIN_U16("data/tilesets/secondary/sootopolis_gym_johto/metatiles.bin");
+const u16 gMetatileAttributes_SootopolisGym_Johto[] = INCBIN_U16("data/tilesets/secondary/sootopolis_gym_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_RuinsOfAlphWriting_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_writing_johto/metatiles.bin");
+const u16 gMetatileAttributes_RuinsOfAlphWriting_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_writing_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_RuinsOfAlph_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_johto/metatiles.bin");
+const u16 gMetatileAttributes_RuinsOfAlph_Johto[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_IlexForest_Johto[] = INCBIN_U16("data/tilesets/secondary/ilex_forest_johto/metatiles.bin");
+const u16 gMetatileAttributes_IlexForest_Johto[] = INCBIN_U16("data/tilesets/secondary/ilex_forest_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_NationalPark_Johto[] = INCBIN_U16("data/tilesets/secondary/national_park_johto/metatiles.bin");
+const u16 gMetatileAttributes_NationalPark_Johto[] = INCBIN_U16("data/tilesets/secondary/national_park_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_BurnedTower_Johto[] = INCBIN_U16("data/tilesets/secondary/burned_tower_johto/metatiles.bin");
+const u16 gMetatileAttributes_BurnedTower_Johto[] = INCBIN_U16("data/tilesets/secondary/burned_tower_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveIce_Johto[] = INCBIN_U16("data/tilesets/secondary/cave_ice_johto/metatiles.bin");
+const u16 gMetatileAttributes_CaveIce_Johto[] = INCBIN_U16("data/tilesets/secondary/cave_ice_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_CaveDragonsDen_Johto[] = INCBIN_U16("data/tilesets/secondary/cave_dragons_den_johto/metatiles.bin");
+const u16 gMetatileAttributes_CaveDragonsDen_Johto[] = INCBIN_U16("data/tilesets/secondary/cave_dragons_den_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_DragonsDenShrine_Johto[] = INCBIN_U16("data/tilesets/secondary/dragons_den_shrine_johto/metatiles.bin");
+const u16 gMetatileAttributes_DragonsDenShrine_Johto[] = INCBIN_U16("data/tilesets/secondary/dragons_den_shrine_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_MtSilverSnow_Johto[] = INCBIN_U16("data/tilesets/secondary/mt_silver_snow_johto/metatiles.bin");
+const u16 gMetatileAttributes_MtSilverSnow_Johto[] = INCBIN_U16("data/tilesets/secondary/mt_silver_snow_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_SSAqua_Johto[] = INCBIN_U16("data/tilesets/secondary/ssaqua_johto/metatiles.bin");
+const u16 gMetatileAttributes_SSAqua_Johto[] = INCBIN_U16("data/tilesets/secondary/ssaqua_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Alola[] = INCBIN_U16("data/tilesets/primary/general_alola/metatiles.bin");
+const u16 gMetatileAttributes_General_Alola[] = INCBIN_U16("data/tilesets/primary/general_alola/metatile_attributes.bin");
+
+const u16 gMetatiles_Islands_Alola[] = INCBIN_U16("data/tilesets/secondary/islands_alola/metatiles.bin");
+const u16 gMetatileAttributes_Islands_Alola[] = INCBIN_U16("data/tilesets/secondary/islands_alola/metatile_attributes.bin");
+
+const u16 gMetatiles_MtSilverNewSinjoh_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_new_sinjoh_sinjoh/metatiles.bin");
+const u16 gMetatileAttributes_MtSilverNewSinjoh_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_new_sinjoh_sinjoh/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Sinjoh[] = INCBIN_U16("data/tilesets/primary/general_sinjoh/metatiles.bin");
+const u16 gMetatileAttributes_General_Sinjoh[] = INCBIN_U16("data/tilesets/primary/general_sinjoh/metatile_attributes.bin");
+
+const u16 gMetatiles_MtSilverAncient_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_ancient_sinjoh/metatiles.bin");
+const u16 gMetatileAttributes_MtSilverAncient_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_ancient_sinjoh/metatile_attributes.bin");
+
+const u16 gMetatiles_MtEmberJohto[] = INCBIN_U16("data/tilesets/secondary/mt_ember_johto/metatiles.bin");
+const u16 gMetatileAttributes_MtEmberJohto[] = INCBIN_U16("data/tilesets/secondary/mt_ember_johto/metatile_attributes.bin");
+
+const u16 gMetatiles_ArceusRoomSinjoh[] = INCBIN_U16("data/tilesets/secondary/arceus_room_sinjoh/metatiles.bin");
+const u16 gMetatileAttributes_ArceusRoomSinjoh[] = INCBIN_U16("data/tilesets/secondary/arceus_room_sinjoh/metatile_attributes.bin");

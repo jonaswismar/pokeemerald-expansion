@@ -1,0 +1,36 @@
+{
+  "id": "MAP_AKALA_ISLAND_ALOLA",
+  "name": "AkalaIslandAlola",
+  "layout": "LAYOUT_AKALA_ISLAND_ALOLA",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_AKALA_ISLAND",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_MELEMELE_ISLAND_ALOLA",
+      "offset": 0,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ALOLA_WATER_ALOLA",
+      "offset": 38,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ULAULA_ISLAND_ALOLA",
+      "offset": 0,
+      "direction": "right"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}
