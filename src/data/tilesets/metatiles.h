@@ -731,3 +731,12 @@ const u16 gMetatileAttributes_MtEmberJohto[] = INCBIN_U16("data/tilesets/seconda
 
 const u16 gMetatiles_ArceusRoomSinjoh[] = INCBIN_U16("data/tilesets/secondary/arceus_room_sinjoh/metatiles.bin");
 const u16 gMetatileAttributes_ArceusRoomSinjoh[] = INCBIN_U16("data/tilesets/secondary/arceus_room_sinjoh/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Sinjoh2[] = INCBIN_U16("data/tilesets/primary/general_sinjoh_2/metatiles.bin");
+const u16 gMetatileAttributes_General_Sinjoh2[] = INCBIN_U16("data/tilesets/primary/general_sinjoh_2/metatile_attributes.bin");
+
+const u16 gMetatiles_TwinleafTown_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/twinleaf_town_sinjoh/metatiles.bin");
+const u16 gMetatileAttributes_TwinleafTown_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/twinleaf_town_sinjoh/metatile_attributes.bin");
+
+const u16 gMetatiles_JubilifeCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/jubilife_city_sinjoh/metatiles.bin");
+const u16 gMetatileAttributes_JubilifeCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/jubilife_city_sinjoh/metatile_attributes.bin");

@@ -1699,7 +1699,15 @@
   "gMapGroup_TownsAndRoutesSinjoh": [
     "Route49Sinjoh",
     "Route50Sinjoh",
-    "NewSinjohSinjoh"
+    "NewSinjohSinjoh",
+    "TwinleafTownSinjoh",
+    "SandgemTownSinjoh",
+    "Route201Sinjoh",
+    "Route202Sinjoh",
+    "Route219Sinjoh",
+    "Route220Sinjoh",
+    "Route221Sinjoh",
+    "VerityLakeFrontSinjoh"
   ],
   "gMapGroup_SpecialAreaSinjoh": [
     "SinjohRuinsSinjoh"

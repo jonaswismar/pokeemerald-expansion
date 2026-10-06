@@ -1878,6 +1878,206 @@
     {
       "id": "MAPSEC_SINJOH_RUINS",
       "name": "SINJOH RUINS"
+    },
+    {
+      "id": "MAPSEC_TWINLEAF_TOWN",
+      "name": "TWINLEAF TOWN"
+    },
+    {
+      "id": "MAPSEC_SANDGEM_TOWN",
+      "name": "SANDGEM TOWN"
+    },
+    {
+      "id": "MAPSEC_JUBILIFE_CITY",
+      "name": "JUBILIFE CITY"
+    },
+    {
+      "id": "MAPSEC_OREBURGH_CITY",
+      "name": "OREBURGH CITY"
+    },
+    {
+      "id": "MAPSEC_FLOAROMA_TOWN",
+      "name": "FLOAROMA TOWN"
+    },
+    {
+      "id": "MAPSEC_ETERNA_CITTY",
+      "name": "ETERNA CITTY"
+    },
+    {
+      "id": "MAPSEC_HEARTHOME_CITY",
+      "name": "HEARTHOME CITY"
+    },
+    {
+      "id": "MAPSEC_SOLACEON_TOWN",
+      "name": "SOLACEON TOWN"
+    },
+    {
+      "id": "MAPSEC_CELESTIC_TOWN",
+      "name": "CELESTIC TOWN"
+    },
+    {
+      "id": "MAPSEC_VEILSTONE_CITY",
+      "name": "VEILSTONE CITY"
+    },
+    {
+      "id": "MAPSEC_PASTORIA_CITY",
+      "name": "PASTORIA CITY"
+    },
+    {
+      "id": "MAPSEC_CANALAVE_CITY",
+      "name": "CANALAVE CITY"
+    },
+    {
+      "id": "MAPSEC_SNOWPOINT_CITY",
+      "name": "SNOWPOINT CITY"
+    },
+    {
+      "id": "MAPSEC_SUNYSHORE_CITY",
+      "name": "SUNYSHORE CITY"
+    },
+    {
+      "id": "MAPSEC_ROUTE_201",
+      "name": "ROUTE 201"
+    },
+    {
+      "id": "MAPSEC_ROUTE_202",
+      "name": "ROUTE 202"
+    },
+    {
+      "id": "MAPSEC_ROUTE_203",
+      "name": "ROUTE 203"
+    },
+    {
+      "id": "MAPSEC_ROUTE_204",
+      "name": "ROUTE 204"
+    },
+    {
+      "id": "MAPSEC_ROUTE_205",
+      "name": "ROUTE 205"
+    },
+    {
+      "id": "MAPSEC_ROUTE_206",
+      "name": "ROUTE 206"
+    },
+    {
+      "id": "MAPSEC_ROUTE_207",
+      "name": "ROUTE 207"
+    },
+    {
+      "id": "MAPSEC_ROUTE_208",
+      "name": "ROUTE 208"
+    },
+    {
+      "id": "MAPSEC_ROUTE_209",
+      "name": "ROUTE 209"
+    },
+    {
+      "id": "MAPSEC_ROUTE_210",
+      "name": "ROUTE 210"
+    },
+    {
+      "id": "MAPSEC_ROUTE_211",
+      "name": "ROUTE 211"
+    },
+    {
+      "id": "MAPSEC_ROUTE_212",
+      "name": "ROUTE 212"
+    },
+    {
+      "id": "MAPSEC_ROUTE_213",
+      "name": "ROUTE 213"
+    },
+    {
+      "id": "MAPSEC_ROUTE_214",
+      "name": "ROUTE 214"
+    },
+    {
+      "id": "MAPSEC_ROUTE_215",
+      "name": "ROUTE 215"
+    },
+    {
+      "id": "MAPSEC_ROUTE_216",
+      "name": "ROUTE 216"
+    },
+    {
+      "id": "MAPSEC_ROUTE_217",
+      "name": "ROUTE 217"
+    },
+    {
+      "id": "MAPSEC_ROUTE_218",
+      "name": "ROUTE 218"
+    },
+    {
+      "id": "MAPSEC_ROUTE_219",
+      "name": "ROUTE 219"
+    },
+    {
+      "id": "MAPSEC_ROUTE_220",
+      "name": "ROUTE 220"
+    },
+    {
+      "id": "MAPSEC_ROUTE_221",
+      "name": "ROUTE 221"
+    },
+    {
+      "id": "MAPSEC_ROUTE_222",
+      "name": "ROUTE 222"
+    },
+    {
+      "id": "MAPSEC_ROUTE_223",
+      "name": "ROUTE 223"
+    },
+    {
+      "id": "MAPSEC_ROUTE_224",
+      "name": "ROUTE 224"
+    },
+    {
+      "id": "MAPSEC_ROUTE_225",
+      "name": "ROUTE 225"
+    },
+    {
+      "id": "MAPSEC_ROUTE_226",
+      "name": "ROUTE 226"
+    },
+    {
+      "id": "MAPSEC_ROUTE_227",
+      "name": "ROUTE 227"
+    },
+    {
+      "id": "MAPSEC_ROUTE_228",
+      "name": "ROUTE 228"
+    },
+    {
+      "id": "MAPSEC_ROUTE_229",
+      "name": "ROUTE 229"
+    },
+    {
+      "id": "MAPSEC_ROUTE_230",
+      "name": "ROUTE 230"
+    },
+    {
+      "id": "MAPSEC_VERITY_LAKEFRONT",
+      "name": "VERITY LAKEFRONT"
+    },
+    {
+      "id": "MAPSEC_VALOR_LAKEFRONT",
+      "name": "VALOR LAKEFRONT"
+    },
+    {
+      "id": "MAPSEC_ACUITY_LAKEFRONT",
+      "name": "ACUITY LAKEFRONT"
+    },
+    {
+      "id": "MAPSEC_FIGHT_AREA",
+      "name": "FIGHT AREA"
+    },
+    {
+      "id": "MAPSEC_SURVIVAL_AREA",
+      "name": "SURVIVAL AREA"
+    },
+    {
+      "id": "MAPSEC_RESORT_AREA",
+      "name": "RESORT AREA"
     }
   ]
 }

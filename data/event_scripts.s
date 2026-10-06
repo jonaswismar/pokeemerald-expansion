@@ -2640,3 +2640,19 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/SinjohRuinsRegisteelRoomSinjoh/scripts.inc"
 
 	.include "data/maps/SinjohRuinsRegidracoRoomSinjoh/scripts.inc"
+
+	.include "data/maps/TwinleafTownSinjoh/scripts.inc"
+
+	.include "data/maps/SandgemTownSinjoh/scripts.inc"
+
+	.include "data/maps/Route201Sinjoh/scripts.inc"
+
+	.include "data/maps/Route202Sinjoh/scripts.inc"
+
+	.include "data/maps/Route219Sinjoh/scripts.inc"
+
+	.include "data/maps/Route220Sinjoh/scripts.inc"
+
+	.include "data/maps/VerityLakeFrontSinjoh/scripts.inc"
+
+	.include "data/maps/Route221Sinjoh/scripts.inc"

@@ -2729,3 +2729,36 @@ const struct Tileset gTileset_ArceusRoomSinjoh =
     .metatileAttributes = gMetatileAttributes_ArceusRoomSinjoh,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_General_Sinjoh2 =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_General_Sinjoh2,
+    .palettes = gTilesetPalettes_General_Sinjoh2,
+    .metatiles = gMetatiles_General_Sinjoh2,
+    .metatileAttributes = gMetatileAttributes_General_Sinjoh2,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_TwinleafTown_Sinjoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_TwinleafTown_Sinjoh,
+    .palettes = gTilesetPalettes_TwinleafTown_Sinjoh,
+    .metatiles = gMetatiles_TwinleafTown_Sinjoh,
+    .metatileAttributes = gMetatileAttributes_TwinleafTown_Sinjoh,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_JubilifeCity_Sinjoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_JubilifeCity_Sinjoh,
+    .palettes = gTilesetPalettes_JubilifeCity_Sinjoh,
+    .metatiles = gMetatiles_JubilifeCity_Sinjoh,
+    .metatileAttributes = gMetatileAttributes_JubilifeCity_Sinjoh,
+    .callback = NULL,
+};

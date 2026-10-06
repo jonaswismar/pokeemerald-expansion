@@ -13833,6 +13833,86 @@
       "secondary_tileset": "gTileset_RuinsOfAlphWriting_Johto",
       "border_filepath": "data/layouts/SinjohRuinsRegielekiRoomSinjoh/border.bin",
       "blockdata_filepath": "data/layouts/SinjohRuinsRegielekiRoomSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_TWINLEAF_TOWN_SINJOH",
+      "name": "TwinleafTownSinjoh_Layout",
+      "width": 24,
+      "height": 30,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
+      "border_filepath": "data/layouts/TwinleafTownSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/TwinleafTownSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_SANDGEM_TOWN_SINJOH",
+      "name": "SandgemTownSinjoh_Layout",
+      "width": 34,
+      "height": 32,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
+      "border_filepath": "data/layouts/SandgemTownSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/SandgemTownSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE219SINJOH",
+      "name": "Route219Sinjoh_Layout",
+      "width": 36,
+      "height": 30,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
+      "border_filepath": "data/layouts/Route219Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route219Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE202SINJOH",
+      "name": "Route202Sinjoh_Layout",
+      "width": 30,
+      "height": 34,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
+      "border_filepath": "data/layouts/Route202Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route202Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE201SINJOH",
+      "name": "Route201Sinjoh_Layout",
+      "width": 64,
+      "height": 22,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
+      "border_filepath": "data/layouts/Route201Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route201Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERITY_LAKE_FRONT_SINJOH",
+      "name": "VerityLakeFrontSinjoh_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
+      "border_filepath": "data/layouts/VerityLakeFrontSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/VerityLakeFrontSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE220SINJOH",
+      "name": "Route220Sinjoh_Layout",
+      "width": 62,
+      "height": 30,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
+      "border_filepath": "data/layouts/Route220Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route220Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE221SINJOH",
+      "name": "Route221Sinjoh_Layout",
+      "width": 96,
+      "height": 40,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
+      "border_filepath": "data/layouts/Route221Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route221Sinjoh/map.bin"
     }
   ]
 }
