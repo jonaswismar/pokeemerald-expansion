@@ -14,12 +14,12 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_JUBILIFE_CITY_SINJOH",
+      "map": "MAP_JUBILIFE_CITY_SINNOH",
       "offset": -36,
       "direction": "down"
     },
     {
-      "map": "MAP_FLOAROMA_TOWN_SINJOH",
+      "map": "MAP_FLOAROMA_TOWN_SINNOH",
       "offset": -2,
       "direction": "up"
     }

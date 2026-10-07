@@ -717,29 +717,29 @@ const u16 gMetatileAttributes_General_Alola[] = INCBIN_U16("data/tilesets/primar
 const u16 gMetatiles_Islands_Alola[] = INCBIN_U16("data/tilesets/secondary/islands_alola/metatiles.bin");
 const u16 gMetatileAttributes_Islands_Alola[] = INCBIN_U16("data/tilesets/secondary/islands_alola/metatile_attributes.bin");
 
-const u16 gMetatiles_MtSilverNewSinjoh_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_new_sinjoh_sinjoh/metatiles.bin");
-const u16 gMetatileAttributes_MtSilverNewSinjoh_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_new_sinjoh_sinjoh/metatile_attributes.bin");
+const u16 gMetatiles_MtSilverNewSinnoh_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_new_sinnoh_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_MtSilverNewSinnoh_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_new_sinnoh_sinnoh/metatile_attributes.bin");
 
-const u16 gMetatiles_General_Sinjoh[] = INCBIN_U16("data/tilesets/primary/general_sinjoh/metatiles.bin");
-const u16 gMetatileAttributes_General_Sinjoh[] = INCBIN_U16("data/tilesets/primary/general_sinjoh/metatile_attributes.bin");
+const u16 gMetatiles_General_Sinnoh[] = INCBIN_U16("data/tilesets/primary/general_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_General_Sinnoh[] = INCBIN_U16("data/tilesets/primary/general_sinnoh/metatile_attributes.bin");
 
-const u16 gMetatiles_MtSilverAncient_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_ancient_sinjoh/metatiles.bin");
-const u16 gMetatileAttributes_MtSilverAncient_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_ancient_sinjoh/metatile_attributes.bin");
+const u16 gMetatiles_MtSilverAncient_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_ancient_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_MtSilverAncient_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/mt_silver_ancient_sinnoh/metatile_attributes.bin");
 
 const u16 gMetatiles_MtEmberJohto[] = INCBIN_U16("data/tilesets/secondary/mt_ember_johto/metatiles.bin");
 const u16 gMetatileAttributes_MtEmberJohto[] = INCBIN_U16("data/tilesets/secondary/mt_ember_johto/metatile_attributes.bin");
 
-const u16 gMetatiles_ArceusRoomSinjoh[] = INCBIN_U16("data/tilesets/secondary/arceus_room_sinjoh/metatiles.bin");
-const u16 gMetatileAttributes_ArceusRoomSinjoh[] = INCBIN_U16("data/tilesets/secondary/arceus_room_sinjoh/metatile_attributes.bin");
+const u16 gMetatiles_ArceusRoomSinnoh[] = INCBIN_U16("data/tilesets/secondary/arceus_room_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_ArceusRoomSinnoh[] = INCBIN_U16("data/tilesets/secondary/arceus_room_sinnoh/metatile_attributes.bin");
 
-const u16 gMetatiles_General_Sinjoh2[] = INCBIN_U16("data/tilesets/primary/general_sinjoh_2/metatiles.bin");
-const u16 gMetatileAttributes_General_Sinjoh2[] = INCBIN_U16("data/tilesets/primary/general_sinjoh_2/metatile_attributes.bin");
+const u16 gMetatiles_General_Sinnoh2[] = INCBIN_U16("data/tilesets/primary/general_sinnoh_2/metatiles.bin");
+const u16 gMetatileAttributes_General_Sinnoh2[] = INCBIN_U16("data/tilesets/primary/general_sinnoh_2/metatile_attributes.bin");
 
-const u16 gMetatiles_TwinleafTown_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/twinleaf_town_sinjoh/metatiles.bin");
-const u16 gMetatileAttributes_TwinleafTown_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/twinleaf_town_sinjoh/metatile_attributes.bin");
+const u16 gMetatiles_TwinleafTown_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/twinleaf_town_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_TwinleafTown_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/twinleaf_town_sinnoh/metatile_attributes.bin");
 
-const u16 gMetatiles_JubilifeCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/jubilife_city_sinjoh/metatiles.bin");
-const u16 gMetatileAttributes_JubilifeCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/jubilife_city_sinjoh/metatile_attributes.bin");
+const u16 gMetatiles_JubilifeCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/jubilife_city_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_JubilifeCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/jubilife_city_sinnoh/metatile_attributes.bin");
 
-const u16 gMetatiles_OreburghCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/oreburgh_city_sinjoh/metatiles.bin");
-const u16 gMetatileAttributes_OreburghCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/oreburgh_city_sinjoh/metatile_attributes.bin");
+const u16 gMetatiles_OreburghCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/oreburgh_city_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_OreburghCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/oreburgh_city_sinnoh/metatile_attributes.bin");

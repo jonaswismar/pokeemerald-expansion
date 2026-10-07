@@ -2675,36 +2675,36 @@ const struct Tileset gTileset_Islands_Alola =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_MtSilverNewSinjoh_Sinjoh =
+const struct Tileset gTileset_MtSilverNewSinnoh_Sinnoh =
 {
     .isCompressed = TRUE,
     .isSecondary = TRUE,
-    .tiles = gTilesetTiles_MtSilverNewSinjoh_Sinjoh,
-    .palettes = gTilesetPalettes_MtSilverNewSinjoh_Sinjoh,
-    .metatiles = gMetatiles_MtSilverNewSinjoh_Sinjoh,
-    .metatileAttributes = gMetatileAttributes_MtSilverNewSinjoh_Sinjoh,
+    .tiles = gTilesetTiles_MtSilverNewSinnoh_Sinnoh,
+    .palettes = gTilesetPalettes_MtSilverNewSinnoh_Sinnoh,
+    .metatiles = gMetatiles_MtSilverNewSinnoh_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_MtSilverNewSinnoh_Sinnoh,
     .callback = NULL,
 };
 
-const struct Tileset gTileset_General_Sinjoh =
+const struct Tileset gTileset_General_Sinnoh =
 {
     .isCompressed = TRUE,
     .isSecondary = FALSE,
-    .tiles = gTilesetTiles_General_Sinjoh,
-    .palettes = gTilesetPalettes_General_Sinjoh,
-    .metatiles = gMetatiles_General_Sinjoh,
-    .metatileAttributes = gMetatileAttributes_General_Sinjoh,
+    .tiles = gTilesetTiles_General_Sinnoh,
+    .palettes = gTilesetPalettes_General_Sinnoh,
+    .metatiles = gMetatiles_General_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_General_Sinnoh,
     .callback = NULL,
 };
 
-const struct Tileset gTileset_MtSilverAncient_Sinjoh =
+const struct Tileset gTileset_MtSilverAncient_Sinnoh =
 {
     .isCompressed = TRUE,
     .isSecondary = TRUE,
-    .tiles = gTilesetTiles_MtSilverAncient_Sinjoh,
-    .palettes = gTilesetPalettes_MtSilverAncient_Sinjoh,
-    .metatiles = gMetatiles_MtSilverAncient_Sinjoh,
-    .metatileAttributes = gMetatileAttributes_MtSilverAncient_Sinjoh,
+    .tiles = gTilesetTiles_MtSilverAncient_Sinnoh,
+    .palettes = gTilesetPalettes_MtSilverAncient_Sinnoh,
+    .metatiles = gMetatiles_MtSilverAncient_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_MtSilverAncient_Sinnoh,
     .callback = NULL,
 };
 
@@ -2719,57 +2719,57 @@ const struct Tileset gTileset_MtEmberJohto =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_ArceusRoomSinjoh =
+const struct Tileset gTileset_ArceusRoomSinnoh =
 {
     .isCompressed = TRUE,
     .isSecondary = TRUE,
-    .tiles = gTilesetTiles_ArceusRoomSinjoh,
-    .palettes = gTilesetPalettes_ArceusRoomSinjoh,
-    .metatiles = gMetatiles_ArceusRoomSinjoh,
-    .metatileAttributes = gMetatileAttributes_ArceusRoomSinjoh,
+    .tiles = gTilesetTiles_ArceusRoomSinnoh,
+    .palettes = gTilesetPalettes_ArceusRoomSinnoh,
+    .metatiles = gMetatiles_ArceusRoomSinnoh,
+    .metatileAttributes = gMetatileAttributes_ArceusRoomSinnoh,
     .callback = NULL,
 };
 
-const struct Tileset gTileset_General_Sinjoh2 =
+const struct Tileset gTileset_General_Sinnoh2 =
 {
     .isCompressed = TRUE,
     .isSecondary = FALSE,
-    .tiles = gTilesetTiles_General_Sinjoh2,
-    .palettes = gTilesetPalettes_General_Sinjoh2,
-    .metatiles = gMetatiles_General_Sinjoh2,
-    .metatileAttributes = gMetatileAttributes_General_Sinjoh2,
+    .tiles = gTilesetTiles_General_Sinnoh2,
+    .palettes = gTilesetPalettes_General_Sinnoh2,
+    .metatiles = gMetatiles_General_Sinnoh2,
+    .metatileAttributes = gMetatileAttributes_General_Sinnoh2,
     .callback = NULL,
 };
 
-const struct Tileset gTileset_TwinleafTown_Sinjoh =
+const struct Tileset gTileset_TwinleafTown_Sinnoh =
 {
     .isCompressed = TRUE,
     .isSecondary = TRUE,
-    .tiles = gTilesetTiles_TwinleafTown_Sinjoh,
-    .palettes = gTilesetPalettes_TwinleafTown_Sinjoh,
-    .metatiles = gMetatiles_TwinleafTown_Sinjoh,
-    .metatileAttributes = gMetatileAttributes_TwinleafTown_Sinjoh,
+    .tiles = gTilesetTiles_TwinleafTown_Sinnoh,
+    .palettes = gTilesetPalettes_TwinleafTown_Sinnoh,
+    .metatiles = gMetatiles_TwinleafTown_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_TwinleafTown_Sinnoh,
     .callback = NULL,
 };
 
-const struct Tileset gTileset_JubilifeCity_Sinjoh =
+const struct Tileset gTileset_JubilifeCity_Sinnoh =
 {
     .isCompressed = TRUE,
     .isSecondary = TRUE,
-    .tiles = gTilesetTiles_JubilifeCity_Sinjoh,
-    .palettes = gTilesetPalettes_JubilifeCity_Sinjoh,
-    .metatiles = gMetatiles_JubilifeCity_Sinjoh,
-    .metatileAttributes = gMetatileAttributes_JubilifeCity_Sinjoh,
+    .tiles = gTilesetTiles_JubilifeCity_Sinnoh,
+    .palettes = gTilesetPalettes_JubilifeCity_Sinnoh,
+    .metatiles = gMetatiles_JubilifeCity_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_JubilifeCity_Sinnoh,
     .callback = NULL,
 };
 
-const struct Tileset gTileset_OreburghCity_Sinjoh =
+const struct Tileset gTileset_OreburghCity_Sinnoh =
 {
     .isCompressed = TRUE,
     .isSecondary = TRUE,
-    .tiles = gTilesetTiles_OreburghCity_Sinjoh,
-    .palettes = gTilesetPalettes_OreburghCity_Sinjoh,
-    .metatiles = gMetatiles_OreburghCity_Sinjoh,
-    .metatileAttributes = gMetatileAttributes_OreburghCity_Sinjoh,
+    .tiles = gTilesetTiles_OreburghCity_Sinnoh,
+    .palettes = gTilesetPalettes_OreburghCity_Sinnoh,
+    .metatiles = gMetatiles_OreburghCity_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_OreburghCity_Sinnoh,
     .callback = NULL,
 };

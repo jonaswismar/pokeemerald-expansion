@@ -2601,188 +2601,188 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/MelemeleMartAlola/scripts.inc"
 
-	.include "data/maps/Route49Sinjoh/scripts.inc"
+	.include "data/maps/Route49Sinnoh/scripts.inc"
 
-	.include "data/maps/NewSinjohSinjoh/scripts.inc"
+	.include "data/maps/NewSinnohSinnoh/scripts.inc"
 
-	.include "data/maps/Route50Sinjoh/scripts.inc"
+	.include "data/maps/Route50Sinnoh/scripts.inc"
 
-	.include "data/maps/NewSinjohHotspringsSinjoh/scripts.inc"
+	.include "data/maps/NewSinnohHotspringsSinnoh/scripts.inc"
 
-	.include "data/maps/SnowsweptCavernSinjoh/scripts.inc"
+	.include "data/maps/SnowsweptCavernSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsSinnoh/scripts.inc"
 
-	.include "data/maps/NewSinjohPokemonCenterSinjoh/scripts.inc"
+	.include "data/maps/NewSinnohPokemonCenterSinnoh/scripts.inc"
 
-	.include "data/maps/NewSinjohHouse2Sinjoh/scripts.inc"
+	.include "data/maps/NewSinnohHouse2Sinnoh/scripts.inc"
 
-	.include "data/maps/NewSinjohHouse1Sinjoh/scripts.inc"
+	.include "data/maps/NewSinnohHouse1Sinnoh/scripts.inc"
 
-	.include "data/maps/NewSinjohHouse4Sinjoh/scripts.inc"
+	.include "data/maps/NewSinnohHouse4Sinnoh/scripts.inc"
 
-	.include "data/maps/NewSinjohHouse3Sinjoh/scripts.inc"
+	.include "data/maps/NewSinnohHouse3Sinnoh/scripts.inc"
 
-	.include "data/maps/NewSinjohKimonoHideoutSinjoh/scripts.inc"
+	.include "data/maps/NewSinnohKimonoHideoutSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsTempleSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsTempleSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsRegigigasRoomSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsRegigigasRoomSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsArceusRoomSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsArceusRoomSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsRegirockRoomSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsRegirockRoomSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsRegiiceRoomSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsRegiiceRoomSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsRegielekiRoomSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsRegielekiRoomSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsRegisteelRoomSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsRegisteelRoomSinnoh/scripts.inc"
 
-	.include "data/maps/SinjohRuinsRegidracoRoomSinjoh/scripts.inc"
+	.include "data/maps/SinnohRuinsRegidracoRoomSinnoh/scripts.inc"
 
-	.include "data/maps/TwinleafTownSinjoh/scripts.inc"
+	.include "data/maps/TwinleafTownSinnoh/scripts.inc"
 
-	.include "data/maps/SandgemTownSinjoh/scripts.inc"
+	.include "data/maps/SandgemTownSinnoh/scripts.inc"
 
-	.include "data/maps/Route201Sinjoh/scripts.inc"
+	.include "data/maps/Route201Sinnoh/scripts.inc"
 
-	.include "data/maps/Route202Sinjoh/scripts.inc"
+	.include "data/maps/Route202Sinnoh/scripts.inc"
 
-	.include "data/maps/Route219Sinjoh/scripts.inc"
+	.include "data/maps/Route219Sinnoh/scripts.inc"
 
-	.include "data/maps/Route220Sinjoh/scripts.inc"
+	.include "data/maps/Route220Sinnoh/scripts.inc"
 
-	.include "data/maps/VerityLakeFrontSinjoh/scripts.inc"
+	.include "data/maps/VerityLakeFrontSinnoh/scripts.inc"
 
-	.include "data/maps/Route221Sinjoh/scripts.inc"
+	.include "data/maps/Route221Sinnoh/scripts.inc"
 
-	.include "data/maps/EternaCitySinjoh/scripts.inc"
+	.include "data/maps/EternaCitySinnoh/scripts.inc"
 
-	.include "data/maps/Route211WestSinjoh/scripts.inc"
+	.include "data/maps/Route211WestSinnoh/scripts.inc"
 
-	.include "data/maps/Route218Sinjoh/scripts.inc"
+	.include "data/maps/Route218Sinnoh/scripts.inc"
 
-	.include "data/maps/Route205NorthSinjoh/scripts.inc"
+	.include "data/maps/Route205NorthSinnoh/scripts.inc"
 
-	.include "data/maps/Route207Sinjoh/scripts.inc"
+	.include "data/maps/Route207Sinnoh/scripts.inc"
 
-	.include "data/maps/OreburghCitySinjoh/scripts.inc"
+	.include "data/maps/OreburghCitySinnoh/scripts.inc"
 
-	.include "data/maps/VeilstoneCitySinjoh/scripts.inc"
+	.include "data/maps/VeilstoneCitySinnoh/scripts.inc"
 
-	.include "data/maps/Route216Sinjoh/scripts.inc"
+	.include "data/maps/Route216Sinnoh/scripts.inc"
 
-	.include "data/maps/Route225Sinjoh/scripts.inc"
+	.include "data/maps/Route225Sinnoh/scripts.inc"
 
-	.include "data/maps/Route212SouthSinjoh/scripts.inc"
+	.include "data/maps/Route212SouthSinnoh/scripts.inc"
 
-	.include "data/maps/Route217Sinjoh/scripts.inc"
+	.include "data/maps/Route217Sinnoh/scripts.inc"
 
-	.include "data/maps/Route226Sinjoh/scripts.inc"
+	.include "data/maps/Route226Sinnoh/scripts.inc"
 
-	.include "data/maps/Route230Sinjoh/scripts.inc"
+	.include "data/maps/Route230Sinnoh/scripts.inc"
 
-	.include "data/maps/Route215Sinjoh/scripts.inc"
+	.include "data/maps/Route215Sinnoh/scripts.inc"
 
-	.include "data/maps/SunyshoreCitySinjoh/scripts.inc"
+	.include "data/maps/SunyshoreCitySinnoh/scripts.inc"
 
-	.include "data/maps/Route227Sinjoh/scripts.inc"
+	.include "data/maps/Route227Sinnoh/scripts.inc"
 
-	.include "data/maps/PastoriaCitySinjoh/scripts.inc"
+	.include "data/maps/PastoriaCitySinnoh/scripts.inc"
 
-	.include "data/maps/Route205SouthSinjoh/scripts.inc"
+	.include "data/maps/Route205SouthSinnoh/scripts.inc"
 
-	.include "data/maps/SurvivalAreaSinjoh/scripts.inc"
+	.include "data/maps/SurvivalAreaSinnoh/scripts.inc"
 
-	.include "data/maps/AcuityLakefrontSinjoh/scripts.inc"
+	.include "data/maps/AcuityLakefrontSinnoh/scripts.inc"
 
-	.include "data/maps/CanalaveCitySinjoh/scripts.inc"
+	.include "data/maps/CanalaveCitySinnoh/scripts.inc"
 
-	.include "data/maps/JubilifeCitySinjoh/scripts.inc"
+	.include "data/maps/JubilifeCitySinnoh/scripts.inc"
 
-	.include "data/maps/Route206Sinjoh/scripts.inc"
+	.include "data/maps/Route206Sinnoh/scripts.inc"
 
-	.include "data/maps/SolaceonTownSinjoh/scripts.inc"
+	.include "data/maps/SolaceonTownSinnoh/scripts.inc"
 
-	.include "data/maps/ValorLakefrontSinjoh/scripts.inc"
+	.include "data/maps/ValorLakefrontSinnoh/scripts.inc"
 
-	.include "data/maps/Route224Sinjoh/scripts.inc"
+	.include "data/maps/Route224Sinnoh/scripts.inc"
 
-	.include "data/maps/Route213Sinjoh/scripts.inc"
+	.include "data/maps/Route213Sinnoh/scripts.inc"
 
-	.include "data/maps/SnowpointCitySinjoh/scripts.inc"
+	.include "data/maps/SnowpointCitySinnoh/scripts.inc"
 
-	.include "data/maps/Route208Sinjoh/scripts.inc"
+	.include "data/maps/Route208Sinnoh/scripts.inc"
 
-	.include "data/maps/Route222Sinjoh/scripts.inc"
+	.include "data/maps/Route222Sinnoh/scripts.inc"
 
-	.include "data/maps/CelesticTownSinjoh/scripts.inc"
+	.include "data/maps/CelesticTownSinnoh/scripts.inc"
 
-	.include "data/maps/Route214Sinjoh/scripts.inc"
+	.include "data/maps/Route214Sinnoh/scripts.inc"
 
-	.include "data/maps/FightAreaSinjoh/scripts.inc"
+	.include "data/maps/FightAreaSinnoh/scripts.inc"
 
-	.include "data/maps/PokmonLeagueSinjoh/scripts.inc"
+	.include "data/maps/PokmonLeagueSinnoh/scripts.inc"
 
-	.include "data/maps/Route212NorthSinjoh/scripts.inc"
+	.include "data/maps/Route212NorthSinnoh/scripts.inc"
 
-	.include "data/maps/Route210SouthSinjoh/scripts.inc"
+	.include "data/maps/Route210SouthSinnoh/scripts.inc"
 
-	.include "data/maps/Route223Sinjoh/scripts.inc"
+	.include "data/maps/Route223Sinnoh/scripts.inc"
 
-	.include "data/maps/Route229Sinjoh/scripts.inc"
+	.include "data/maps/Route229Sinnoh/scripts.inc"
 
-	.include "data/maps/Route228Sinjoh/scripts.inc"
+	.include "data/maps/Route228Sinnoh/scripts.inc"
 
-	.include "data/maps/HearthomeCitySinjoh/scripts.inc"
+	.include "data/maps/HearthomeCitySinnoh/scripts.inc"
 
 	.include "data/maps/Route204/scripts.inc"
 
-	.include "data/maps/FloaromaTownSinjoh/scripts.inc"
+	.include "data/maps/FloaromaTownSinnoh/scripts.inc"
 
-	.include "data/maps/Route209Sinjoh/scripts.inc"
+	.include "data/maps/Route209Sinnoh/scripts.inc"
 
-	.include "data/maps/Route210NorthSinjoh/scripts.inc"
+	.include "data/maps/Route210NorthSinnoh/scripts.inc"
 
-	.include "data/maps/Route203Sinjoh/scripts.inc"
+	.include "data/maps/Route203Sinnoh/scripts.inc"
 
-	.include "data/maps/ResortAreaSinjoh/scripts.inc"
+	.include "data/maps/ResortAreaSinnoh/scripts.inc"
 
-	.include "data/maps/Route211EastSinjoh/scripts.inc"
+	.include "data/maps/Route211EastSinnoh/scripts.inc"
 
-	.include "data/maps/OreburghMineB1FSinjoh/scripts.inc"
+	.include "data/maps/OreburghMineB1FSinnoh/scripts.inc"
 
-	.include "data/maps/OldChateauEntranceSinjoh/scripts.inc"
+	.include "data/maps/OldChateauEntranceSinnoh/scripts.inc"
 
-	.include "data/maps/ValleyWindworksSinjoh/scripts.inc"
+	.include "data/maps/ValleyWindworksSinnoh/scripts.inc"
 
-	.include "data/maps/LakeAcuitySinjoh/scripts.inc"
+	.include "data/maps/LakeAcuitySinnoh/scripts.inc"
 
-	.include "data/maps/OldChateauDiningRoomSinjoh/scripts.inc"
+	.include "data/maps/OldChateauDiningRoomSinnoh/scripts.inc"
 
-	.include "data/maps/OreburghMineB2FSinjoh/scripts.inc"
+	.include "data/maps/OreburghMineB2FSinnoh/scripts.inc"
 
-	.include "data/maps/OldChateauSideRoom2Sinjoh/scripts.inc"
+	.include "data/maps/OldChateauSideRoom2Sinnoh/scripts.inc"
 
-	.include "data/maps/LakeValorSinjoh/scripts.inc"
+	.include "data/maps/LakeValorSinnoh/scripts.inc"
 
-	.include "data/maps/MtCoronetB1FSinjoh/scripts.inc"
+	.include "data/maps/MtCoronetB1FSinnoh/scripts.inc"
 
-	.include "data/maps/MtCoronet1FNorthRoom1Sinjoh/scripts.inc"
+	.include "data/maps/MtCoronet1FNorthRoom1Sinnoh/scripts.inc"
 
-	.include "data/maps/LakeVeritySinjoh/scripts.inc"
+	.include "data/maps/LakeVeritySinnoh/scripts.inc"
 
-	.include "data/maps/MtCoronet1FSouthSinjoh/scripts.inc"
+	.include "data/maps/MtCoronet1FSouthSinnoh/scripts.inc"
 
-	.include "data/maps/OreburghGate1FSinjoh/scripts.inc"
+	.include "data/maps/OreburghGate1FSinnoh/scripts.inc"
 
-	.include "data/maps/FloaromaMeadowSinjoh/scripts.inc"
+	.include "data/maps/FloaromaMeadowSinnoh/scripts.inc"
 
-	.include "data/maps/OldChateauSideRoom1Sinjoh/scripts.inc"
+	.include "data/maps/OldChateauSideRoom1Sinnoh/scripts.inc"
 
-	.include "data/maps/EternaForestSinjoh/scripts.inc"
+	.include "data/maps/EternaForestSinnoh/scripts.inc"
 
-	.include "data/maps/OldChateau2FSinjoh/scripts.inc"
+	.include "data/maps/OldChateau2FSinnoh/scripts.inc"
 
-	.include "data/maps/MtCoronet1FNorthRoom2Sinjoh/scripts.inc"
+	.include "data/maps/MtCoronet1FNorthRoom2Sinnoh/scripts.inc"

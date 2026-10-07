@@ -1,0 +1,31 @@
+{
+  "id": "MAP_ROUTE50SINNOH",
+  "name": "Route50Sinnoh",
+  "layout": "LAYOUT_ROUTE50SINNOH",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_ROUTE_50",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_NEW_SINNOH_SINNOH",
+      "offset": -20,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_SINNOH_RUINS_SINNOH",
+      "offset": -6,
+      "direction": "up"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}
