@@ -108,13 +108,13 @@
     "gMapGroup_TownAndRoutesAlola",
     "gMapGroup_IndoorAlola",
     "gMapGroup_SpecialAreaAlola",
-    "gMapGroup_TownsAndRoutesSinjoh",
-    "gMapGroup_SpecialAreaSinjoh",
-    "gMapGroup_DungeonsSinjoh",
-    "gMapGroup_IndoorNewSinjohSinjoh",
-    "gMapGroup_IndoorSinjohRuinsSinjoh",
-    "gMapGroup_IndoorRoutesSinjoh",
-    "gMapGroup_IndoorTwinleafTownSinjoh",
+    "gMapGroup_TownsAndRoutesSinnoh",
+    "gMapGroup_SpecialAreaSinnoh",
+    "gMapGroup_DungeonsSinnoh",
+    "gMapGroup_IndoorNewSinjohSinnoh",
+    "gMapGroup_IndoorSinjohRuinsSinnoh",
+    "gMapGroup_IndoorRoutesSinnoh",
+    "gMapGroup_IndoorTwinleafTownSinnoh",
     "gMapGroup_IndoorSandgemTownSinjoh",
     "gMapGroup_IndoorJubilifeCitySinjoh",
     "gMapGroup_IndoorOreburghCitySinjoh",
@@ -1711,7 +1711,7 @@
     "UlaulaForestAlola",
     "UlaulaCave2"
   ],
-  "gMapGroup_TownsAndRoutesSinjoh": [
+  "gMapGroup_TownsAndRoutesSinnoh": [
     "Route49Sinjoh",
     "Route50Sinjoh",
     "NewSinjohSinjoh",
@@ -1771,7 +1771,7 @@
     "SurvivalAreaSinjoh",
     "ResortAreaSinjoh"
   ],
-  "gMapGroup_SpecialAreaSinjoh": [
+  "gMapGroup_SpecialAreaSinnoh": [
     "SinjohRuinsSinjoh",
     "LakeVeritySinjoh",
     "LakeValorSinjoh",
@@ -1780,7 +1780,7 @@
     "EternaForestSinjoh",
     "FloaromaMeadowSinjoh"
   ],
-  "gMapGroup_DungeonsSinjoh": [
+  "gMapGroup_DungeonsSinnoh": [
     "NewSinjohHotspringsSinjoh",
     "SnowsweptCavernSinjoh",
     "OreburghGate1FSinjoh",
@@ -1796,7 +1796,7 @@
     "OldChateauDiningRoomSinjoh",
     "OldChateau2FSinjoh"
   ],
-  "gMapGroup_IndoorNewSinjohSinjoh": [
+  "gMapGroup_IndoorNewSinjohSinnoh": [
     "NewSinjohPokemonCenterSinjoh",
     "NewSinjohHouse1Sinjoh",
     "NewSinjohHouse2Sinjoh",
@@ -1804,7 +1804,7 @@
     "NewSinjohHouse4Sinjoh",
     "NewSinjohKimonoHideoutSinjoh"
   ],
-  "gMapGroup_IndoorSinjohRuinsSinjoh": [
+  "gMapGroup_IndoorSinjohRuinsSinnoh": [
     "SinjohRuinsTempleSinjoh",
     "SinjohRuinsRegirockRoomSinjoh",
     "SinjohRuinsRegiiceRoomSinjoh",
@@ -1814,8 +1814,8 @@
     "SinjohRuinsRegigigasRoomSinjoh",
     "SinjohRuinsArceusRoomSinjoh"
   ],
-  "gMapGroup_IndoorRoutesSinjoh": [],
-  "gMapGroup_IndoorTwinleafTownSinjoh": [],
+  "gMapGroup_IndoorRoutesSinnoh": [],
+  "gMapGroup_IndoorTwinleafTownSinnoh": [],
   "gMapGroup_IndoorSandgemTownSinjoh": [],
   "gMapGroup_IndoorJubilifeCitySinjoh": [],
   "gMapGroup_IndoorOreburghCitySinjoh": [],

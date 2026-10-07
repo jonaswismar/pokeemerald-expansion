@@ -317,6 +317,11 @@
 #define METATILE_General_YellowCaveIndent              0x1A8
 #define METATILE_General_YellowCaveOpen                0x1A9
 
+// gTileset_General_Sinjoh2
+#define METATILE_General_Sinjoh2_Door             0x021
+#define METATILE_General_Sinjoh2_Door_PokeCenter  0x061
+#define METATILE_General_Sinjoh2_Door_PokeMart    0x041
+
 // gTileset_GenericBuilding
 #define METATILE_GenericBuilding_TableEdge               0x2F1
 #define METATILE_GenericBuilding_TrickHouse_Door_Closed  0x21B
