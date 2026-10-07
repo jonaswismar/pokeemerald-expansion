@@ -13940,7 +13940,7 @@
       "width": 70,
       "height": 59,
       "primary_tileset": "gTileset_General_Sinnoh2",
-      "secondary_tileset": "gTileset_JubilifeCity_Sinnoh",
+      "secondary_tileset": "gTileset_OreburghCity_Sinnoh",
       "border_filepath": "data/layouts/OreburghCitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/OreburghCitySinnoh/map.bin"
     },
@@ -14000,7 +14000,7 @@
       "width": 64,
       "height": 30,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_JubilifeCity_Sinnoh",
       "border_filepath": "data/layouts/Route203Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route203Sinnoh/map.bin"
     },
@@ -14180,7 +14180,7 @@
       "width": 32,
       "height": 64,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_JubilifeCity_Sinnoh",
       "border_filepath": "data/layouts/Route204/border.bin",
       "blockdata_filepath": "data/layouts/Route204/map.bin"
     },
@@ -14200,7 +14200,7 @@
       "width": 70,
       "height": 64,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_JubilifeCity_Sinnoh",
       "border_filepath": "data/layouts/JubilifeCitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/JubilifeCitySinnoh/map.bin"
     },
@@ -14270,7 +14270,7 @@
       "width": 58,
       "height": 52,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_HearthomeCity_Sinnoh",
       "border_filepath": "data/layouts/HearthomeCitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/HearthomeCitySinnoh/map.bin"
     },
@@ -14539,8 +14539,8 @@
       "name": "OreburghMineB1FSinnoh_Layout",
       "width": 24,
       "height": 26,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "primary_tileset": "gTileset_General_Sinnoh2",
+      "secondary_tileset": "gTileset_OreburghCity_Sinnoh",
       "border_filepath": "data/layouts/OreburghMineB1FSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/OreburghMineB1FSinnoh/map.bin"
     },

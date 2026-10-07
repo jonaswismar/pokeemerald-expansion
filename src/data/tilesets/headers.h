@@ -2773,3 +2773,14 @@ const struct Tileset gTileset_OreburghCity_Sinnoh =
     .metatileAttributes = gMetatileAttributes_OreburghCity_Sinnoh,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_HearthomeCity_Sinnoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_HearthomeCity_Sinnoh,
+    .palettes = gTilesetPalettes_HearthomeCity_Sinnoh,
+    .metatiles = gMetatiles_HearthomeCity_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_HearthomeCity_Sinnoh,
+    .callback = NULL,
+};

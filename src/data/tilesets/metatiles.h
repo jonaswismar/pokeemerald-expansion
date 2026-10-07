@@ -743,3 +743,6 @@ const u16 gMetatileAttributes_JubilifeCity_Sinnoh[] = INCBIN_U16("data/tilesets/
 
 const u16 gMetatiles_OreburghCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/oreburgh_city_sinnoh/metatiles.bin");
 const u16 gMetatileAttributes_OreburghCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/oreburgh_city_sinnoh/metatile_attributes.bin");
+
+const u16 gMetatiles_HearthomeCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/hearthome_city_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_HearthomeCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/hearthome_city_sinnoh/metatile_attributes.bin");
