@@ -291,18 +291,29 @@
 #define METATILE_General_SecretBase_TreeRight          0x027
 #define METATILE_General_SecretBase_VineLeft           0x036
 #define METATILE_General_SecretBase_VineRight          0x037
+#define METATILE_General_Sinnoh2_BlueCaveIndent        0x1B0
+#define METATILE_General_Sinnoh2_BlueCaveOpen          0x1B1
 #define METATILE_General_Sinnoh2_CalmWater             0x170
 #define METATILE_General_Sinnoh2_CaveEntrance_Bottom   0x0A7
 #define METATILE_General_Sinnoh2_CaveEntrance_Top      0x09F
 #define METATILE_General_Sinnoh2_Door                  0x021
+#define METATILE_General_Sinnoh2_Door_Contest          0x1DB
 #define METATILE_General_Sinnoh2_Door_Gym              0x1CD
 #define METATILE_General_Sinnoh2_Door_PokeCenter       0x061
 #define METATILE_General_Sinnoh2_Door_PokeMart         0x041
 #define METATILE_General_Sinnoh2_Grass                 0x001
 #define METATILE_General_Sinnoh2_LongGrass             0x015
+#define METATILE_General_Sinnoh2_MuddySlope_Frame0     0x0E8
+#define METATILE_General_Sinnoh2_MuddySlope_Frame1     0x0E9
+#define METATILE_General_Sinnoh2_MuddySlope_Frame2     0x0EA
+#define METATILE_General_Sinnoh2_MuddySlope_Frame3     0x0EB
+#define METATILE_General_Sinnoh2_RedCaveIndent         0x1A0
+#define METATILE_General_Sinnoh2_RedCaveOpen           0x1A1
 #define METATILE_General_Sinnoh2_ReflectiveWater       0x0A1
 #define METATILE_General_Sinnoh2_RockWall_GrassBase    0x079
 #define METATILE_General_Sinnoh2_RockWall_RockBase     0x07C
+#define METATILE_General_Sinnoh2_RoughDeepWater        0x14F
+#define METATILE_General_Sinnoh2_RoughWater            0x14E
 #define METATILE_General_Sinnoh2_SecretBase_TreeLeft   0x026
 #define METATILE_General_Sinnoh2_SecretBase_TreeRight  0x027
 #define METATILE_General_Sinnoh2_SecretBase_VineLeft   0x036
@@ -310,18 +321,14 @@
 #define METATILE_General_Sinnoh2_TallGrass             0x00D
 #define METATILE_General_Sinnoh2_TallGrass_TreeLeft    0x1C6
 #define METATILE_General_Sinnoh2_TallGrass_TreeRight   0x1C7
+#define METATILE_General_Sinnoh2_YellowCaveIndent      0x1A8
+#define METATILE_General_Sinnoh2_YellowCaveOpen        0x1A9
 #define METATILE_General_TallGrass                     0x00D
 #define METATILE_General_TallGrass_TreeLeft            0x1C6
 #define METATILE_General_TallGrass_TreeRight           0x1C7
 #define METATILE_General_TallGrass_TreeUp              0x025
 #define METATILE_General_YellowCaveIndent              0x1A8
 #define METATILE_General_YellowCaveOpen                0x1A9
-
-// gTileset_General_Sinnoh2
-#define METATILE_General_Sinnoh2_MuddySlope_Frame0  0x0E8
-#define METATILE_General_Sinnoh2_MuddySlope_Frame1  0x0E9
-#define METATILE_General_Sinnoh2_MuddySlope_Frame2  0x0EA
-#define METATILE_General_Sinnoh2_MuddySlope_Frame3  0x0EB
 
 // gTileset_GenericBuilding
 #define METATILE_GenericBuilding_TableEdge               0x2F1
