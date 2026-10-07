@@ -2762,3 +2762,14 @@ const struct Tileset gTileset_JubilifeCity_Sinjoh =
     .metatileAttributes = gMetatileAttributes_JubilifeCity_Sinjoh,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_OreburghCity_Sinjoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_OreburghCity_Sinjoh,
+    .palettes = gTilesetPalettes_OreburghCity_Sinjoh,
+    .metatiles = gMetatiles_OreburghCity_Sinjoh,
+    .metatileAttributes = gMetatileAttributes_OreburghCity_Sinjoh,
+    .callback = NULL,
+};

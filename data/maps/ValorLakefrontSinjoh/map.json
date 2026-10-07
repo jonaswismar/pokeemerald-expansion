@@ -1,0 +1,36 @@
+{
+  "id": "MAP_VALOR_LAKEFRONT_SINJOH",
+  "name": "ValorLakefrontSinjoh",
+  "layout": "LAYOUT_VALOR_LAKEFRONT_SINJOH",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_VALOR_LAKEFRONT",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE222SINJOH",
+      "offset": 36,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_ROUTE214SINJOH",
+      "offset": 24,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE213SINJOH",
+      "offset": -40,
+      "direction": "down"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

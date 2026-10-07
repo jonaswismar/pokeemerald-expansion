@@ -1,0 +1,26 @@
+{
+  "id": "MAP_LAKE_VERITY_SINJOH",
+  "name": "LakeVeritySinjoh",
+  "layout": "LAYOUT_LAKE_VERITY_SINJOH",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_LAKE_VERITY",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_VERITY_LAKE_FRONT_SINJOH",
+      "offset": 0,
+      "direction": "right"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

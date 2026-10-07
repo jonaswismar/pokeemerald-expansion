@@ -2656,3 +2656,133 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/VerityLakeFrontSinjoh/scripts.inc"
 
 	.include "data/maps/Route221Sinjoh/scripts.inc"
+
+	.include "data/maps/EternaCitySinjoh/scripts.inc"
+
+	.include "data/maps/Route211WestSinjoh/scripts.inc"
+
+	.include "data/maps/Route218Sinjoh/scripts.inc"
+
+	.include "data/maps/Route205NorthSinjoh/scripts.inc"
+
+	.include "data/maps/Route207Sinjoh/scripts.inc"
+
+	.include "data/maps/OreburghCitySinjoh/scripts.inc"
+
+	.include "data/maps/VeilstoneCitySinjoh/scripts.inc"
+
+	.include "data/maps/Route216Sinjoh/scripts.inc"
+
+	.include "data/maps/Route225Sinjoh/scripts.inc"
+
+	.include "data/maps/Route212SouthSinjoh/scripts.inc"
+
+	.include "data/maps/Route217Sinjoh/scripts.inc"
+
+	.include "data/maps/Route226Sinjoh/scripts.inc"
+
+	.include "data/maps/Route230Sinjoh/scripts.inc"
+
+	.include "data/maps/Route215Sinjoh/scripts.inc"
+
+	.include "data/maps/SunyshoreCitySinjoh/scripts.inc"
+
+	.include "data/maps/Route227Sinjoh/scripts.inc"
+
+	.include "data/maps/PastoriaCitySinjoh/scripts.inc"
+
+	.include "data/maps/Route205SouthSinjoh/scripts.inc"
+
+	.include "data/maps/SurvivalAreaSinjoh/scripts.inc"
+
+	.include "data/maps/AcuityLakefrontSinjoh/scripts.inc"
+
+	.include "data/maps/CanalaveCitySinjoh/scripts.inc"
+
+	.include "data/maps/JubilifeCitySinjoh/scripts.inc"
+
+	.include "data/maps/Route206Sinjoh/scripts.inc"
+
+	.include "data/maps/SolaceonTownSinjoh/scripts.inc"
+
+	.include "data/maps/ValorLakefrontSinjoh/scripts.inc"
+
+	.include "data/maps/Route224Sinjoh/scripts.inc"
+
+	.include "data/maps/Route213Sinjoh/scripts.inc"
+
+	.include "data/maps/SnowpointCitySinjoh/scripts.inc"
+
+	.include "data/maps/Route208Sinjoh/scripts.inc"
+
+	.include "data/maps/Route222Sinjoh/scripts.inc"
+
+	.include "data/maps/CelesticTownSinjoh/scripts.inc"
+
+	.include "data/maps/Route214Sinjoh/scripts.inc"
+
+	.include "data/maps/FightAreaSinjoh/scripts.inc"
+
+	.include "data/maps/PokmonLeagueSinjoh/scripts.inc"
+
+	.include "data/maps/Route212NorthSinjoh/scripts.inc"
+
+	.include "data/maps/Route210SouthSinjoh/scripts.inc"
+
+	.include "data/maps/Route223Sinjoh/scripts.inc"
+
+	.include "data/maps/Route229Sinjoh/scripts.inc"
+
+	.include "data/maps/Route228Sinjoh/scripts.inc"
+
+	.include "data/maps/HearthomeCitySinjoh/scripts.inc"
+
+	.include "data/maps/Route204/scripts.inc"
+
+	.include "data/maps/FloaromaTownSinjoh/scripts.inc"
+
+	.include "data/maps/Route209Sinjoh/scripts.inc"
+
+	.include "data/maps/Route210NorthSinjoh/scripts.inc"
+
+	.include "data/maps/Route203Sinjoh/scripts.inc"
+
+	.include "data/maps/ResortAreaSinjoh/scripts.inc"
+
+	.include "data/maps/Route211EastSinjoh/scripts.inc"
+
+	.include "data/maps/OreburghMineB1FSinjoh/scripts.inc"
+
+	.include "data/maps/OldChateauEntranceSinjoh/scripts.inc"
+
+	.include "data/maps/ValleyWindworksSinjoh/scripts.inc"
+
+	.include "data/maps/LakeAcuitySinjoh/scripts.inc"
+
+	.include "data/maps/OldChateauDiningRoomSinjoh/scripts.inc"
+
+	.include "data/maps/OreburghMineB2FSinjoh/scripts.inc"
+
+	.include "data/maps/OldChateauSideRoom2Sinjoh/scripts.inc"
+
+	.include "data/maps/LakeValorSinjoh/scripts.inc"
+
+	.include "data/maps/MtCoronetB1FSinjoh/scripts.inc"
+
+	.include "data/maps/MtCoronet1FNorthRoom1Sinjoh/scripts.inc"
+
+	.include "data/maps/LakeVeritySinjoh/scripts.inc"
+
+	.include "data/maps/MtCoronet1FSouthSinjoh/scripts.inc"
+
+	.include "data/maps/OreburghGate1FSinjoh/scripts.inc"
+
+	.include "data/maps/FloaromaMeadowSinjoh/scripts.inc"
+
+	.include "data/maps/OldChateauSideRoom1Sinjoh/scripts.inc"
+
+	.include "data/maps/EternaForestSinjoh/scripts.inc"
+
+	.include "data/maps/OldChateau2FSinjoh/scripts.inc"
+
+	.include "data/maps/MtCoronet1FNorthRoom2Sinjoh/scripts.inc"

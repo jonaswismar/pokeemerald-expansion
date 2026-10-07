@@ -13913,6 +13913,656 @@
       "secondary_tileset": "gTileset_TwinleafTown_Sinjoh",
       "border_filepath": "data/layouts/Route221Sinjoh/border.bin",
       "blockdata_filepath": "data/layouts/Route221Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE218SINJOH",
+      "name": "Route218Sinjoh_Layout",
+      "width": 64,
+      "height": 32,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_OreburghCity_Sinjoh",
+      "border_filepath": "data/layouts/Route218Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route218Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE207SINJOH",
+      "name": "Route207Sinjoh_Layout",
+      "width": 64,
+      "height": 32,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_OreburghCity_Sinjoh",
+      "border_filepath": "data/layouts/Route207Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route207Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OREBURGH_CITY_SINJOH",
+      "name": "OreburghCitySinjoh_Layout",
+      "width": 70,
+      "height": 59,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_JubilifeCity_Sinjoh",
+      "border_filepath": "data/layouts/OreburghCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OreburghCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE211WEST_SINJOH",
+      "name": "Route211WestSinjoh_Layout",
+      "width": 36,
+      "height": 28,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_OreburghCity_Sinjoh",
+      "border_filepath": "data/layouts/Route211WestSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route211WestSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ETERNA_CITY_SINJOH",
+      "name": "EternaCitySinjoh_Layout",
+      "width": 60,
+      "height": 50,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_OreburghCity_Sinjoh",
+      "border_filepath": "data/layouts/EternaCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/EternaCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE205NORTH_SINJOH",
+      "name": "Route205NorthSinjoh_Layout",
+      "width": 80,
+      "height": 60,
+      "primary_tileset": "gTileset_General_Sinjoh2",
+      "secondary_tileset": "gTileset_OreburghCity_Sinjoh",
+      "border_filepath": "data/layouts/Route205NorthSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route205NorthSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE212NORTH_SINJOH",
+      "name": "Route212NorthSinjoh_Layout",
+      "width": 34,
+      "height": 100,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route212NorthSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route212NorthSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE229SINJOH",
+      "name": "Route229Sinjoh_Layout",
+      "width": 64,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route229Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route229Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE203SINJOH",
+      "name": "Route203Sinjoh_Layout",
+      "width": 64,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route203Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route203Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_CANALAVE_CITY_SINJOH",
+      "name": "CanalaveCitySinjoh_Layout",
+      "width": 38,
+      "height": 64,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CanalaveCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/CanalaveCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_VEILSTONE_CITY_SINJOH",
+      "name": "VeilstoneCitySinjoh_Layout",
+      "width": 66,
+      "height": 68,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VeilstoneCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/VeilstoneCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKMON_LEAGUE_SINJOH",
+      "name": "PokmonLeagueSinjoh_Layout",
+      "width": 33,
+      "height": 69,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PokmonLeagueSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/PokmonLeagueSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_FIGHT_AREA_SINJOH",
+      "name": "FightAreaSinjoh_Layout",
+      "width": 70,
+      "height": 37,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/FightAreaSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/FightAreaSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE206SINJOH",
+      "name": "Route206Sinjoh_Layout",
+      "width": 28,
+      "height": 120,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route206Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route206Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_SNOWPOINT_CITY_SINJOH",
+      "name": "SnowpointCitySinjoh_Layout",
+      "width": 34,
+      "height": 68,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/SnowpointCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/SnowpointCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE212SOUTH_SINJOH",
+      "name": "Route212SouthSinjoh_Layout",
+      "width": 130,
+      "height": 34,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route212SouthSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route212SouthSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ACUITY_LAKEFRONT_SINJOH",
+      "name": "AcuityLakefrontSinjoh_Layout",
+      "width": 64,
+      "height": 66,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/AcuityLakefrontSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/AcuityLakefrontSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE227SINJOH",
+      "name": "Route227Sinjoh_Layout",
+      "width": 48,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route227Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route227Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE210NORTH_SINJOH",
+      "name": "Route210NorthSinjoh_Layout",
+      "width": 99,
+      "height": 29,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route210NorthSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route210NorthSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE217SINJOH",
+      "name": "Route217Sinjoh_Layout",
+      "width": 36,
+      "height": 118,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route217Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route217Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE228SINJOH",
+      "name": "Route228Sinjoh_Layout",
+      "width": 32,
+      "height": 94,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route228Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route228Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_VALOR_LAKEFRONT_SINJOH",
+      "name": "ValorLakefrontSinjoh_Layout",
+      "width": 56,
+      "height": 66,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/ValorLakefrontSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/ValorLakefrontSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE223SINJOH",
+      "name": "Route223Sinjoh_Layout",
+      "width": 34,
+      "height": 124,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route223Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route223Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE209SINJOH",
+      "name": "Route209Sinjoh_Layout",
+      "width": 68,
+      "height": 72,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route209Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route209Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE230SINJOH",
+      "name": "Route230Sinjoh_Layout",
+      "width": 96,
+      "height": 34,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route230Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route230Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE225SINJOH",
+      "name": "Route225Sinjoh_Layout",
+      "width": 32,
+      "height": 94,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route225Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route225Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE204",
+      "name": "Route204_Layout",
+      "width": 32,
+      "height": 64,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route204/border.bin",
+      "blockdata_filepath": "data/layouts/Route204/map.bin"
+    },
+    {
+      "id": "LAYOUT_FLOAROMA_TOWN_SINJOH",
+      "name": "FloaromaTownSinjoh_Layout",
+      "width": 34,
+      "height": 36,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/FloaromaTownSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/FloaromaTownSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_JUBILIFE_CITY_SINJOH",
+      "name": "JubilifeCitySinjoh_Layout",
+      "width": 70,
+      "height": 64,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/JubilifeCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/JubilifeCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_SOLACEON_TOWN_SINJOH",
+      "name": "SolaceonTownSinjoh_Layout",
+      "width": 66,
+      "height": 44,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/SolaceonTownSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/SolaceonTownSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_RESORT_AREA_SINJOH",
+      "name": "ResortAreaSinjoh_Layout",
+      "width": 36,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/ResortAreaSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/ResortAreaSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_PASTORIA_CITY_SINJOH",
+      "name": "PastoriaCitySinjoh_Layout",
+      "width": 66,
+      "height": 68,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PastoriaCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/PastoriaCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_CELESTIC_TOWN_SINJOH",
+      "name": "CelesticTownSinjoh_Layout",
+      "width": 38,
+      "height": 35,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CelesticTownSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/CelesticTownSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE215SINJOH",
+      "name": "Route215Sinjoh_Layout",
+      "width": 100,
+      "height": 42,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route215Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route215Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_SURVIVAL_AREA_SINJOH",
+      "name": "SurvivalAreaSinjoh_Layout",
+      "width": 32,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/SurvivalAreaSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/SurvivalAreaSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_HEARTHOME_CITY_SINJOH",
+      "name": "HearthomeCitySinjoh_Layout",
+      "width": 58,
+      "height": 52,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/HearthomeCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/HearthomeCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE213SINJOH",
+      "name": "Route213Sinjoh_Layout",
+      "width": 100,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route213Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route213Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_SUNYSHORE_CITY_SINJOH",
+      "name": "SunyshoreCitySinjoh_Layout",
+      "width": 70,
+      "height": 64,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/SunyshoreCitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/SunyshoreCitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE224SINJOH",
+      "name": "Route224Sinjoh_Layout",
+      "width": 64,
+      "height": 94,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route224Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route224Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE210SOUTH_SINJOH",
+      "name": "Route210SouthSinjoh_Layout",
+      "width": 42,
+      "height": 94,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route210SouthSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route210SouthSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE205SOUTH_SINJOH",
+      "name": "Route205SouthSinjoh_Layout",
+      "width": 32,
+      "height": 96,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route205SouthSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route205SouthSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE226SINJOH",
+      "name": "Route226Sinjoh_Layout",
+      "width": 100,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route226Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route226Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE216SINJOH",
+      "name": "Route216Sinjoh_Layout",
+      "width": 96,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route216Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route216Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE222SINJOH",
+      "name": "Route222Sinjoh_Layout",
+      "width": 92,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route222Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route222Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE211EAST_SINJOH",
+      "name": "Route211EastSinjoh_Layout",
+      "width": 32,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route211EastSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route211EastSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE208SINJOH",
+      "name": "Route208Sinjoh_Layout",
+      "width": 68,
+      "height": 38,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route208Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route208Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE214SINJOH",
+      "name": "Route214Sinjoh_Layout",
+      "width": 44,
+      "height": 91,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route214Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/Route214Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLD_CHATEAU_SIDE_ROOM2SINJOH",
+      "name": "OldChateauSideRoom2Sinjoh_Layout",
+      "width": 10,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OldChateauSideRoom2Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OldChateauSideRoom2Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAKE_VALOR_SINJOH",
+      "name": "LakeValorSinjoh_Layout",
+      "width": 48,
+      "height": 52,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LakeValorSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/LakeValorSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_CORONET1FSOUTH_SINJOH",
+      "name": "MtCoronet1FSouthSinjoh_Layout",
+      "width": 42,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/MtCoronet1FSouthSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/MtCoronet1FSouthSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_CORONET1FNORTH_ROOM1SINJOH",
+      "name": "MtCoronet1FNorthRoom1Sinjoh_Layout",
+      "width": 36,
+      "height": 51,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/MtCoronet1FNorthRoom1Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/MtCoronet1FNorthRoom1Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_ETERNA_FOREST_SINJOH",
+      "name": "EternaForestSinjoh_Layout",
+      "width": 82,
+      "height": 84,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/EternaForestSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/EternaForestSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OREBURGH_MINE_B2FSINJOH",
+      "name": "OreburghMineB2FSinjoh_Layout",
+      "width": 32,
+      "height": 28,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OreburghMineB2FSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OreburghMineB2FSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_CORONET_B1FSINJOH",
+      "name": "MtCoronetB1FSinjoh_Layout",
+      "width": 32,
+      "height": 65,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/MtCoronetB1FSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/MtCoronetB1FSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAKE_VERITY_SINJOH",
+      "name": "LakeVeritySinjoh_Layout",
+      "width": 48,
+      "height": 46,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LakeVeritySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/LakeVeritySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLD_CHATEAU_ENTRANCE_SINJOH",
+      "name": "OldChateauEntranceSinjoh_Layout",
+      "width": 19,
+      "height": 16,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OldChateauEntranceSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OldChateauEntranceSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OREBURGH_GATE1FSINJOH",
+      "name": "OreburghGate1FSinjoh_Layout",
+      "width": 29,
+      "height": 27,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OreburghGate1FSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OreburghGate1FSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_FLOAROMA_MEADOW_SINJOH",
+      "name": "FloaromaMeadowSinjoh_Layout",
+      "width": 60,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/FloaromaMeadowSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/FloaromaMeadowSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLD_CHATEAU_DINING_ROOM_SINJOH",
+      "name": "OldChateauDiningRoomSinjoh_Layout",
+      "width": 40,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OldChateauDiningRoomSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OldChateauDiningRoomSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLD_CHATEAU2FSINJOH",
+      "name": "OldChateau2FSinjoh_Layout",
+      "width": 38,
+      "height": 14,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OldChateau2FSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OldChateau2FSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLD_CHATEAU_SIDE_ROOM1SINJOH",
+      "name": "OldChateauSideRoom1Sinjoh_Layout",
+      "width": 10,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OldChateauSideRoom1Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OldChateauSideRoom1Sinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAKE_ACUITY_SINJOH",
+      "name": "LakeAcuitySinjoh_Layout",
+      "width": 48,
+      "height": 52,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LakeAcuitySinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/LakeAcuitySinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_OREBURGH_MINE_B1FSINJOH",
+      "name": "OreburghMineB1FSinjoh_Layout",
+      "width": 24,
+      "height": 26,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OreburghMineB1FSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/OreburghMineB1FSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_VALLEY_WINDWORKS_SINJOH",
+      "name": "ValleyWindworksSinjoh_Layout",
+      "width": 32,
+      "height": 99,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/ValleyWindworksSinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/ValleyWindworksSinjoh/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_CORONET1FNORTH_ROOM2SINJOH",
+      "name": "MtCoronet1FNorthRoom2Sinjoh_Layout",
+      "width": 19,
+      "height": 16,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/MtCoronet1FNorthRoom2Sinjoh/border.bin",
+      "blockdata_filepath": "data/layouts/MtCoronet1FNorthRoom2Sinjoh/map.bin"
     }
   ]
 }

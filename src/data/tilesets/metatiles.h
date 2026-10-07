@@ -740,3 +740,6 @@ const u16 gMetatileAttributes_TwinleafTown_Sinjoh[] = INCBIN_U16("data/tilesets/
 
 const u16 gMetatiles_JubilifeCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/jubilife_city_sinjoh/metatiles.bin");
 const u16 gMetatileAttributes_JubilifeCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/jubilife_city_sinjoh/metatile_attributes.bin");
+
+const u16 gMetatiles_OreburghCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/oreburgh_city_sinjoh/metatiles.bin");
+const u16 gMetatileAttributes_OreburghCity_Sinjoh[] = INCBIN_U16("data/tilesets/secondary/oreburgh_city_sinjoh/metatile_attributes.bin");

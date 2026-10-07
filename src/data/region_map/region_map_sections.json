@@ -2078,6 +2078,50 @@
     {
       "id": "MAPSEC_RESORT_AREA",
       "name": "RESORT AREA"
+    },
+    {
+      "id": "MAPSEC_LAKE_VERITY",
+      "name": "LAKE VERITY"
+    },
+    {
+      "id": "MAPSEC_LAKE_VALOR",
+      "name": "LAKE VALOR"
+    },
+    {
+      "id": "MAPSEC_LAKE_ACUITY",
+      "name": "LAKE ACUITY"
+    },
+    {
+      "id": "MAPSEC_VALLEY_WINDWORKS",
+      "name": "VALLEY WINDWORKS"
+    },
+    {
+      "id": "MAPSEC_ETERNA_FOREST",
+      "name": "ETERNA FOREST"
+    },
+    {
+      "id": "MAPSEC_FLOAROMA_MEADOW",
+      "name": "FLOAROMA MEADOW"
+    },
+    {
+      "id": "MAPSEC_OREBURGH_GATE",
+      "name": "OREBURGH GATE"
+    },
+    {
+      "id": "MAPSEC_OREBURGH_MINE",
+      "name": "OREBURGH MINE"
+    },
+    {
+      "id": "MAPSEC_RAVAGED_PATH",
+      "name": "RAVAGED PATH"
+    },
+    {
+      "id": "MAPSEC_MT_CORONET",
+      "name": "MT CORONET"
+    },
+    {
+      "id": "MAPSEC_OLD_CHATEAU",
+      "name": "OLD CHATEAU"
     }
   ]
 }
