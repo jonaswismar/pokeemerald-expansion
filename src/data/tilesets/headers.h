@@ -2784,3 +2784,25 @@ const struct Tileset gTileset_HearthomeCity_Sinnoh =
     .metatileAttributes = gMetatileAttributes_HearthomeCity_Sinnoh,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_CelesticTown_Sinnoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_CelesticTown_Sinnoh,
+    .palettes = gTilesetPalettes_CelesticTown_Sinnoh,
+    .metatiles = gMetatiles_CelesticTown_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_CelesticTown_Sinnoh,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_VeilstoneCity_Sinnoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_VeilstoneCity_Sinnoh,
+    .palettes = gTilesetPalettes_VeilstoneCity_Sinnoh,
+    .metatiles = gMetatiles_VeilstoneCity_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_VeilstoneCity_Sinnoh,
+    .callback = NULL,
+};

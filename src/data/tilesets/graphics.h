@@ -5185,3 +5185,41 @@ const u16 gTilesetPalettes_HearthomeCity_Sinnoh[][16] =
 };
 
 const u32 gTilesetTiles_HearthomeCity_Sinnoh[] = INCBIN_U32("data/tilesets/secondary/hearthome_city_sinnoh/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_CelesticTown_Sinnoh[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_CelesticTown_Sinnoh[] = INCBIN_U32("data/tilesets/secondary/celestic_town_sinnoh/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_VeilstoneCity_Sinnoh[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_VeilstoneCity_Sinnoh[] = INCBIN_U32("data/tilesets/secondary/veilstone_city_sinnoh/tiles.4bpp.lz");

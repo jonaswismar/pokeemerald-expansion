@@ -746,3 +746,9 @@ const u16 gMetatileAttributes_OreburghCity_Sinnoh[] = INCBIN_U16("data/tilesets/
 
 const u16 gMetatiles_HearthomeCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/hearthome_city_sinnoh/metatiles.bin");
 const u16 gMetatileAttributes_HearthomeCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/hearthome_city_sinnoh/metatile_attributes.bin");
+
+const u16 gMetatiles_CelesticTown_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_CelesticTown_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/celestic_town_sinnoh/metatile_attributes.bin");
+
+const u16 gMetatiles_VeilstoneCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_VeilstoneCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/metatile_attributes.bin");
