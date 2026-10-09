@@ -17,6 +17,11 @@
       "map": "MAP_VALOR_LAKEFRONT_SINNOH",
       "offset": -24,
       "direction": "down"
+    },
+    {
+      "map": "MAP_VEILSTONE_CITY_SINNOH",
+      "offset": -26,
+      "direction": "up"
     }
   ],
   "object_events": [],

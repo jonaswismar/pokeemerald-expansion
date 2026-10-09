@@ -13979,7 +13979,7 @@
       "name": "Route212NorthSinnoh_Layout",
       "width": 34,
       "height": 100,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route212NorthSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route212NorthSinnoh/map.bin"
@@ -13989,7 +13989,7 @@
       "name": "Route229Sinnoh_Layout",
       "width": 64,
       "height": 32,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route229Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route229Sinnoh/map.bin"
@@ -13999,7 +13999,7 @@
       "name": "Route203Sinnoh_Layout",
       "width": 64,
       "height": 30,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_JubilifeCity_Sinnoh",
       "border_filepath": "data/layouts/Route203Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route203Sinnoh/map.bin"
@@ -14009,8 +14009,8 @@
       "name": "CanalaveCitySinnoh_Layout",
       "width": 38,
       "height": 64,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "primary_tileset": "gTileset_General_Sinnoh2",
+      "secondary_tileset": "gTileset_CanalaveCity_Sinnoh",
       "border_filepath": "data/layouts/CanalaveCitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/CanalaveCitySinnoh/map.bin"
     },
@@ -14029,8 +14029,8 @@
       "name": "PokmonLeagueSinnoh_Layout",
       "width": 33,
       "height": 69,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "primary_tileset": "gTileset_General_Sinnoh2",
+      "secondary_tileset": "gTileset_Evergrande_Sinnoh",
       "border_filepath": "data/layouts/PokmonLeagueSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/PokmonLeagueSinnoh/map.bin"
     },
@@ -14039,7 +14039,7 @@
       "name": "FightAreaSinnoh_Layout",
       "width": 70,
       "height": 37,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/FightAreaSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/FightAreaSinnoh/map.bin"
@@ -14049,7 +14049,7 @@
       "name": "Route206Sinnoh_Layout",
       "width": 28,
       "height": 120,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route206Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route206Sinnoh/map.bin"
@@ -14059,8 +14059,8 @@
       "name": "SnowpointCitySinnoh_Layout",
       "width": 34,
       "height": 68,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "primary_tileset": "gTileset_General_Sinnoh2",
+      "secondary_tileset": "gTileset_SnowpointCity_Sinnoh",
       "border_filepath": "data/layouts/SnowpointCitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/SnowpointCitySinnoh/map.bin"
     },
@@ -14069,7 +14069,7 @@
       "name": "Route212SouthSinnoh_Layout",
       "width": 130,
       "height": 34,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route212SouthSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route212SouthSinnoh/map.bin"
@@ -14079,7 +14079,7 @@
       "name": "AcuityLakefrontSinnoh_Layout",
       "width": 64,
       "height": 66,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/AcuityLakefrontSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/AcuityLakefrontSinnoh/map.bin"
@@ -14089,7 +14089,7 @@
       "name": "Route227Sinnoh_Layout",
       "width": 48,
       "height": 60,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route227Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route227Sinnoh/map.bin"
@@ -14109,7 +14109,7 @@
       "name": "Route217Sinnoh_Layout",
       "width": 36,
       "height": 118,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route217Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route217Sinnoh/map.bin"
@@ -14119,7 +14119,7 @@
       "name": "Route228Sinnoh_Layout",
       "width": 32,
       "height": 94,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route228Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route228Sinnoh/map.bin"
@@ -14129,7 +14129,7 @@
       "name": "ValorLakefrontSinnoh_Layout",
       "width": 56,
       "height": 66,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/ValorLakefrontSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/ValorLakefrontSinnoh/map.bin"
@@ -14139,7 +14139,7 @@
       "name": "Route223Sinnoh_Layout",
       "width": 34,
       "height": 124,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route223Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route223Sinnoh/map.bin"
@@ -14159,7 +14159,7 @@
       "name": "Route230Sinnoh_Layout",
       "width": 96,
       "height": 34,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route230Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route230Sinnoh/map.bin"
@@ -14169,7 +14169,7 @@
       "name": "Route225Sinnoh_Layout",
       "width": 32,
       "height": 94,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route225Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route225Sinnoh/map.bin"
@@ -14179,7 +14179,7 @@
       "name": "Route204_Layout",
       "width": 32,
       "height": 64,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_JubilifeCity_Sinnoh",
       "border_filepath": "data/layouts/Route204/border.bin",
       "blockdata_filepath": "data/layouts/Route204/map.bin"
@@ -14189,7 +14189,7 @@
       "name": "FloaromaTownSinnoh_Layout",
       "width": 34,
       "height": 36,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/FloaromaTownSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/FloaromaTownSinnoh/map.bin"
@@ -14199,7 +14199,7 @@
       "name": "JubilifeCitySinnoh_Layout",
       "width": 70,
       "height": 64,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_JubilifeCity_Sinnoh",
       "border_filepath": "data/layouts/JubilifeCitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/JubilifeCitySinnoh/map.bin"
@@ -14209,7 +14209,7 @@
       "name": "SolaceonTownSinnoh_Layout",
       "width": 66,
       "height": 44,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/SolaceonTownSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/SolaceonTownSinnoh/map.bin"
@@ -14219,7 +14219,7 @@
       "name": "ResortAreaSinnoh_Layout",
       "width": 36,
       "height": 30,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/ResortAreaSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/ResortAreaSinnoh/map.bin"
@@ -14227,9 +14227,9 @@
     {
       "id": "LAYOUT_PASTORIA_CITY_SINNOH",
       "name": "PastoriaCitySinnoh_Layout",
-      "width": 66,
-      "height": 68,
-      "primary_tileset": "gTileset_General",
+      "width": 68,
+      "height": 60,
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/PastoriaCitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/PastoriaCitySinnoh/map.bin"
@@ -14259,7 +14259,7 @@
       "name": "SurvivalAreaSinnoh_Layout",
       "width": 32,
       "height": 32,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/SurvivalAreaSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/SurvivalAreaSinnoh/map.bin"
@@ -14279,7 +14279,7 @@
       "name": "Route213Sinnoh_Layout",
       "width": 100,
       "height": 60,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route213Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route213Sinnoh/map.bin"
@@ -14289,8 +14289,8 @@
       "name": "SunyshoreCitySinnoh_Layout",
       "width": 70,
       "height": 64,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "primary_tileset": "gTileset_General_Sinnoh2",
+      "secondary_tileset": "gTileset_SunyshoreCity_Sinnoh",
       "border_filepath": "data/layouts/SunyshoreCitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/SunyshoreCitySinnoh/map.bin"
     },
@@ -14299,7 +14299,7 @@
       "name": "Route224Sinnoh_Layout",
       "width": 64,
       "height": 94,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route224Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route224Sinnoh/map.bin"
@@ -14319,7 +14319,7 @@
       "name": "Route205SouthSinnoh_Layout",
       "width": 32,
       "height": 96,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route205SouthSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route205SouthSinnoh/map.bin"
@@ -14329,7 +14329,7 @@
       "name": "Route226Sinnoh_Layout",
       "width": 100,
       "height": 32,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route226Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route226Sinnoh/map.bin"
@@ -14339,7 +14339,7 @@
       "name": "Route216Sinnoh_Layout",
       "width": 96,
       "height": 40,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route216Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route216Sinnoh/map.bin"
@@ -14349,7 +14349,7 @@
       "name": "Route222Sinnoh_Layout",
       "width": 92,
       "height": 32,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route222Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route222Sinnoh/map.bin"
@@ -14369,7 +14369,7 @@
       "name": "Route208Sinnoh_Layout",
       "width": 68,
       "height": 38,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route208Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route208Sinnoh/map.bin"
@@ -14379,7 +14379,7 @@
       "name": "Route214Sinnoh_Layout",
       "width": 44,
       "height": 91,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route214Sinnoh/border.bin",
       "blockdata_filepath": "data/layouts/Route214Sinnoh/map.bin"
@@ -14399,7 +14399,7 @@
       "name": "LakeValorSinnoh_Layout",
       "width": 48,
       "height": 52,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/LakeValorSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/LakeValorSinnoh/map.bin"
@@ -14429,7 +14429,7 @@
       "name": "EternaForestSinnoh_Layout",
       "width": 82,
       "height": 84,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/EternaForestSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/EternaForestSinnoh/map.bin"
@@ -14459,7 +14459,7 @@
       "name": "LakeVeritySinnoh_Layout",
       "width": 48,
       "height": 46,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/LakeVeritySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/LakeVeritySinnoh/map.bin"
@@ -14489,7 +14489,7 @@
       "name": "FloaromaMeadowSinnoh_Layout",
       "width": 60,
       "height": 60,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/FloaromaMeadowSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/FloaromaMeadowSinnoh/map.bin"
@@ -14529,7 +14529,7 @@
       "name": "LakeAcuitySinnoh_Layout",
       "width": 48,
       "height": 52,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/LakeAcuitySinnoh/border.bin",
       "blockdata_filepath": "data/layouts/LakeAcuitySinnoh/map.bin"
@@ -14549,7 +14549,7 @@
       "name": "ValleyWindworksSinnoh_Layout",
       "width": 32,
       "height": 99,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_General_Sinnoh2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/ValleyWindworksSinnoh/border.bin",
       "blockdata_filepath": "data/layouts/ValleyWindworksSinnoh/map.bin"

@@ -17,6 +17,11 @@
       "map": "MAP_VALOR_LAKEFRONT_SINNOH",
       "offset": -36,
       "direction": "left"
+    },
+    {
+      "map": "MAP_SUNYSHORE_CITY_SINNOH",
+      "offset": -25,
+      "direction": "right"
     }
   ],
   "object_events": [],

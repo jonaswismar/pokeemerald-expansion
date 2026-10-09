@@ -17,6 +17,11 @@
       "map": "MAP_SOLACEON_TOWN_SINNOH",
       "offset": 6,
       "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE210NORTH_SINNOH",
+      "offset": -57,
+      "direction": "up"
     }
   ],
   "object_events": [],

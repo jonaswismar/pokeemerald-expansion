@@ -12,7 +12,18 @@
   "allow_running": false,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": null,
+  "connections": [
+    {
+      "map": "MAP_ROUTE222SINNOH",
+      "offset": 25,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE223SINNOH",
+      "offset": -2,
+      "direction": "up"
+    }
+  ],
   "object_events": [],
   "warp_events": [],
   "coord_events": [],

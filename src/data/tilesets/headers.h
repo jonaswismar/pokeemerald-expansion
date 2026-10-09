@@ -2806,3 +2806,47 @@ const struct Tileset gTileset_VeilstoneCity_Sinnoh =
     .metatileAttributes = gMetatileAttributes_VeilstoneCity_Sinnoh,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_CanalaveCity_Sinnoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_CanalaveCity_Sinnoh,
+    .palettes = gTilesetPalettes_CanalaveCity_Sinnoh,
+    .metatiles = gMetatiles_CanalaveCity_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_CanalaveCity_Sinnoh,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_SnowpointCity_Sinnoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_SnowpointCity_Sinnoh,
+    .palettes = gTilesetPalettes_SnowpointCity_Sinnoh,
+    .metatiles = gMetatiles_SnowpointCity_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_SnowpointCity_Sinnoh,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_SunyshoreCity_Sinnoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_SunyshoreCity_Sinnoh,
+    .palettes = gTilesetPalettes_SunyshoreCity_Sinnoh,
+    .metatiles = gMetatiles_SunyshoreCity_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_SunyshoreCity_Sinnoh,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Evergrande_Sinnoh =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Evergrande_Sinnoh,
+    .palettes = gTilesetPalettes_Evergrande_Sinnoh,
+    .metatiles = gMetatiles_Evergrande_Sinnoh,
+    .metatileAttributes = gMetatileAttributes_Evergrande_Sinnoh,
+    .callback = NULL,
+};

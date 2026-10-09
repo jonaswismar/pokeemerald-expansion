@@ -752,3 +752,15 @@ const u16 gMetatileAttributes_CelesticTown_Sinnoh[] = INCBIN_U16("data/tilesets/
 
 const u16 gMetatiles_VeilstoneCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/metatiles.bin");
 const u16 gMetatileAttributes_VeilstoneCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/veilstone_city_sinnoh/metatile_attributes.bin");
+
+const u16 gMetatiles_CanalaveCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/canalave_city_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_CanalaveCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/canalave_city_sinnoh/metatile_attributes.bin");
+
+const u16 gMetatiles_SnowpointCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/snowpoint_city_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_SnowpointCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/snowpoint_city_sinnoh/metatile_attributes.bin");
+
+const u16 gMetatiles_SunyshoreCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/sunyshore_city_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_SunyshoreCity_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/sunyshore_city_sinnoh/metatile_attributes.bin");
+
+const u16 gMetatiles_Evergrande_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/evergrande_sinnoh/metatiles.bin");
+const u16 gMetatileAttributes_Evergrande_Sinnoh[] = INCBIN_U16("data/tilesets/secondary/evergrande_sinnoh/metatile_attributes.bin");
